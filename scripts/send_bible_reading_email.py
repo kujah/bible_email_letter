@@ -153,21 +153,21 @@ def build_reference_text(plan_entries: list[dict[str, Any]]) -> str:
 
 def render_chapter_html(chapter: Chapter) -> str:
     subtitles_html = "".join(
-        f"<div style='margin:8px 0 0;color:#8b5e34;font-size:13px;font-weight:700'>{escape(subtitle)}</div>"
+        f"<div style='margin:6px 0 0;color:#444;font-size:13px;font-weight:600'>{escape(subtitle)}</div>"
         for subtitle in chapter.subtitles
     )
     verses_html = "".join(
         (
-            "<div style='margin-top:6px;line-height:1.72;font-size:14px;color:#1f2a33'>"
-            f"<span style='display:inline-block;min-width:24px;color:#b26000;font-weight:700'>{escape(verse.number)}</span>"
+            "<div style='margin-top:4px;line-height:1.7;font-size:14px;color:#222'>"
+            f"<span style='display:inline-block;min-width:24px;color:#666;font-weight:600'>{escape(verse.number)}</span>"
             f"<span>{escape(verse.text)}</span>"
             "</div>"
         )
         for verse in chapter.verses
     )
     return (
-        "<section style='margin-top:18px;padding:18px 18px 16px;border:1px solid #e8dcc7;border-radius:18px;background:#fffdf8'>"
-        f"<div style='font-size:20px;font-weight:800;color:#17212b'>{escape(chapter.title)}</div>"
+        "<section style='margin-top:20px;padding-top:16px;border-top:1px solid #d9d9d9'>"
+        f"<div style='font-size:18px;font-weight:700;color:#111'>{escape(chapter.title)}</div>"
         f"{subtitles_html}"
         f"<div style='margin-top:10px'>{verses_html}</div>"
         "</section>"
@@ -177,16 +177,19 @@ def render_chapter_html(chapter: Chapter) -> str:
 def render_email_html(payload: dict[str, Any]) -> str:
     chapter_sections = "".join(render_chapter_html(item["chapter"]) for item in payload["chapters"])
     return (
-        "<html><body style='margin:0;background:#f7efe3;color:#17212b;font-family:Segoe UI,Apple SD Gothic Neo,sans-serif'>"
-        "<div style='max-width:960px;margin:0 auto;padding:24px 16px 40px'>"
-        "<div style='background:#fffdf8;border:1px solid #e8dcc7;border-radius:24px;padding:24px;box-shadow:0 12px 30px rgba(80,60,20,0.08)'>"
-        "<div style='font-size:28px;font-weight:800;line-height:1.2'>공동체 성경읽기</div>"
-        f"<div style='margin-top:8px;color:#5d6b75;font-size:14px'>읽을 날짜 {escape(payload['target_date'])} / 본문 {escape(payload['reference'])}</div>"
-        "<div style='margin-top:12px;color:#425466;font-size:15px;line-height:1.6'>"
-        "오늘 교회 성경읽기 본문입니다. 말씀을 천천히 읽고 묵상하시면 됩니다."
-        "</div>"
+        "<html><body style='margin:0;background:#ffffff;color:#111;font-family:Arial,Apple SD Gothic Neo,sans-serif'>"
+        "<div style='max-width:920px;margin:0 auto;padding:24px 20px 40px'>"
+        "<div style='font-size:20px;font-weight:700;line-height:1.4'>성경읽기 안내</div>"
+        f"<div style='margin-top:10px;font-size:14px;line-height:1.7'>일자: {escape(payload['target_date'])}<br>본문: {escape(payload['reference'])}</div>"
+        "<div style='margin-top:16px;font-size:14px;line-height:1.7'>"
+        "안녕하세요.<br><br>"
+        "금일 성경읽기 본문을 아래와 같이 전달드립니다.<br>"
+        "업무 중 참고용으로 확인하시면 됩니다."
         "</div>"
         f"{chapter_sections}"
+        "<div style='margin-top:24px;padding-top:16px;border-top:1px solid #d9d9d9;font-size:13px;line-height:1.7;color:#555'>"
+        "감사합니다."
+        "</div>"
         "</div></body></html>"
     )
 
@@ -252,7 +255,7 @@ def main() -> int:
         print(f"Generated Bible reading email for {target_date}.")
         return 0
 
-    subject = f"[공동체 성경읽기] {target_date} / {payload['reference']}"
+    subject = f"성경읽기 안내 {target_date} {payload['reference']}"
     send_email(subject, html_body, args.recipient)
     print(f"Sent Bible reading email for {target_date}.")
     return 0
