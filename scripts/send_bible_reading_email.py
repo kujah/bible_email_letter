@@ -179,12 +179,10 @@ def render_email_html(payload: dict[str, Any]) -> str:
     return (
         "<html><body style='margin:0;background:#ffffff;color:#111;font-family:Arial,Apple SD Gothic Neo,sans-serif'>"
         "<div style='max-width:920px;margin:0 auto;padding:24px 20px 40px'>"
-        "<div style='font-size:20px;font-weight:700;line-height:1.4'>성경읽기 안내</div>"
         f"<div style='margin-top:10px;font-size:14px;line-height:1.7'>일자: {escape(payload['target_date'])}<br>본문: {escape(payload['reference'])}</div>"
         "<div style='margin-top:16px;font-size:14px;line-height:1.7'>"
         "안녕하세요.<br><br>"
         "금일 성경읽기 본문을 아래와 같이 전달드립니다.<br>"
-        "업무 중 참고용으로 확인하시면 됩니다."
         "</div>"
         f"{chapter_sections}"
         "<div style='margin-top:24px;padding-top:16px;border-top:1px solid #d9d9d9;font-size:13px;line-height:1.7;color:#555'>"
