@@ -28,6 +28,10 @@ KST = timezone(timedelta(hours=9))
 BOOK_META = {
     "job": ("욥기", "18_job"),
     "psa": ("시편", "19_psa"),
+    "pro": ("잠언", "20_pro"),
+    "ecc": ("전도서", "21_ecc"),
+    "sol": ("아가", "22_sol"),
+    "isa": ("이사야", "23_isa"),
 }
 
 READING_PLAN: dict[str, list[dict[str, Any]]] = {
@@ -54,6 +58,37 @@ READING_PLAN: dict[str, list[dict[str, Any]]] = {
     "2026-06-28": [{"book": "psa", "start": 86, "end": 89}],
     "2026-06-29": [{"book": "psa", "start": 90, "end": 94}],
     "2026-06-30": [{"book": "psa", "start": 95, "end": 100}],
+    "2026-07-01": [{"book": "psa", "start": 101, "end": 106}],
+    "2026-07-02": [{"book": "psa", "start": 107, "end": 109}],
+    "2026-07-03": [{"book": "psa", "start": 110, "end": 114}],
+    "2026-07-04": [{"book": "psa", "start": 115, "end": 118}],
+    "2026-07-05": [{"book": "psa", "start": 119, "end": 119}],
+    "2026-07-06": [{"book": "psa", "start": 120, "end": 127}],
+    "2026-07-07": [{"book": "psa", "start": 128, "end": 134}],
+    "2026-07-08": [{"book": "psa", "start": 135, "end": 140}],
+    "2026-07-09": [{"book": "psa", "start": 141, "end": 145}],
+    "2026-07-10": [{"book": "psa", "start": 146, "end": 150}],
+    "2026-07-11": [{"book": "pro", "start": 1, "end": 3}],
+    "2026-07-12": [{"book": "pro", "start": 4, "end": 6}],
+    "2026-07-13": [{"book": "pro", "start": 7, "end": 9}],
+    "2026-07-14": [{"book": "pro", "start": 10, "end": 14}],
+    "2026-07-15": [{"book": "pro", "start": 15, "end": 18}],
+    "2026-07-16": [{"book": "pro", "start": 19, "end": 21}],
+    "2026-07-17": [{"book": "pro", "start": 22, "end": 24}],
+    "2026-07-18": [{"book": "pro", "start": 25, "end": 27}],
+    "2026-07-19": [{"book": "pro", "start": 28, "end": 31}],
+    "2026-07-20": [{"book": "ecc", "start": 1, "end": 4}],
+    "2026-07-21": [{"book": "ecc", "start": 5, "end": 8}],
+    "2026-07-22": [{"book": "ecc", "start": 9, "end": 12}],
+    "2026-07-23": [{"book": "sol", "start": 1, "end": 8}],
+    "2026-07-24": [{"book": "isa", "start": 1, "end": 4}],
+    "2026-07-25": [{"book": "isa", "start": 5, "end": 8}],
+    "2026-07-26": [{"book": "isa", "start": 9, "end": 12}],
+    "2026-07-27": [{"book": "isa", "start": 13, "end": 16}],
+    "2026-07-28": [{"book": "isa", "start": 17, "end": 20}],
+    "2026-07-29": [{"book": "isa", "start": 21, "end": 24}],
+    "2026-07-30": [{"book": "isa", "start": 25, "end": 29}],
+    "2026-07-31": [{"book": "isa", "start": 30, "end": 33}],
 }
 
 
@@ -111,13 +146,18 @@ def load_chapter(book: str, chapter_number: int) -> Chapter:
 
     title = soup.find("cn")
     subtitles = [node.get_text(strip=True) for node in soup.select("div.s1, div.s2, div.s3") if node.get_text(strip=True)]
-    verses = [
-        Verse(
-            number=verse.find("ver").get_text(strip=True),
-            text=verse.find("verse_body").get_text(strip=True),
+    verses: list[Verse] = []
+    for verse in soup.find_all("verse"):
+        number_node = verse.find("ver")
+        body_node = verse.find("verse_body")
+        if not number_node or not body_node:
+            continue
+        verses.append(
+            Verse(
+                number=number_node.get_text(strip=True),
+                text=body_node.get_text(strip=True),
+            )
         )
-        for verse in soup.find_all("verse")
-    ]
     return Chapter(
         title=title.get_text(" ", strip=True) if title else f"{BOOK_META[book][0]} {chapter_number}",
         subtitles=subtitles,
