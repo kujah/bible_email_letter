@@ -199,8 +199,7 @@ def render_chapter_html(chapter: Chapter) -> str:
     verses_html = "".join(
         (
             "<div style='margin-top:4px;line-height:1.7;font-size:14px;color:#222'>"
-            f"<span style='display:inline-block;min-width:24px;color:#666;font-weight:600'>{escape(verse.number)}</span>"
-            f"<span>{escape(verse.text)}</span>"
+            f"{escape(verse.number)}&nbsp;{escape(verse.text)}"
             "</div>"
         )
         for verse in chapter.verses
