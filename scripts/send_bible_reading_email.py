@@ -32,6 +32,9 @@ BOOK_META = {
     "ecc": ("전도서", "21_ecc"),
     "sol": ("아가", "22_sol"),
     "isa": ("이사야", "23_isa"),
+    "jer": ("예레미야", "24_jer"),
+    "lam": ("예레미야애가", "25_lam"),
+    "eze": ("에스겔", "26_eze"),
 }
 
 READING_PLAN: dict[str, list[dict[str, Any]]] = {
