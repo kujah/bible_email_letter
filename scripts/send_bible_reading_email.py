@@ -35,6 +35,18 @@ BOOK_META = {
     "jer": ("예레미야", "24_jer"),
     "lam": ("예레미야애가", "25_lam"),
     "eze": ("에스겔", "26_eze"),
+    "dan": ("다니엘", "27_dan"),
+    "hos": ("호세아", "28_hos"),
+    "joe": ("요엘", "29_joe"),
+    "amo": ("아모스", "30_amo"),
+    "oba": ("오바댜", "31_oba"),
+    "jon": ("요나", "32_jon"),
+    "mic": ("미가", "33_mic"),
+    "nah": ("나훔", "34_nah"),
+    "hab": ("하박국", "35_hab"),
+    "zep": ("스바냐", "36_zep"),
+    "hag": ("학개", "37_hag"),
+    "zec": ("스가랴", "38_zec"),
 }
 
 READING_PLAN: dict[str, list[dict[str, Any]]] = {
