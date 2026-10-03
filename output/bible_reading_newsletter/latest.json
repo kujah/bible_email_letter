@@ -1,127 +1,151 @@
 {
-  "target_date": "2026-10-02",
-  "reference": "스가랴 7-10장",
-  "generated_at": "2026-10-03T00:49:10Z",
+  "target_date": "2026-10-04",
+  "reference": "스가랴 11-14장",
+  "generated_at": "2026-10-03T22:42:20Z",
   "chapters": [
     {
       "book": "zec",
       "book_name": "스가랴",
       "english_book_name": "Zechariah",
-      "chapter_number": 7,
+      "chapter_number": 11,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<여호와께서는 금식보다 청종을 원하신다> 다리오 왕 제사년 아홉째 달 곧 기슬래월 사일에 여호와의 말씀이 스가랴에게 임하니라"
+          "text": "<요단이 쓰러지다> 레바논아 네 문을 열고 불이 네 백향목을 사르게 하라"
         },
         {
           "number": 2,
-          "text": "그 때에 벧엘 사람이 사레셀과 레겜멜렉과 그의 부하들을 보내어 여호와께 은혜를 구하고"
+          "text": "너 잣나무여 곡할지어다 백향목이 넘어졌고 아름다운 나무들이 쓰러졌음이로다 바산의 상수리나무들아 곡할지어다 무성한 숲이 엎드러졌도다"
         },
         {
           "number": 3,
-          "text": "만군의 여호와의 전에 있는 제사장들과 선지자들에게 물어 이르되 내가 여러 해 동안 행한 대로 오월 중에 울며 근신하리이까 하매"
+          "text": "목자들의 곡하는 소리가 남이여 그들의 영화로운 것이 쓰러졌음이로다 어린 사자의 부르짖는 소리가 남이여 이는 요단의 자랑이 쓰러졌음이로다"
         },
         {
           "number": 4,
-          "text": "만군의 여호와의 말씀이 내게 임하여 이르시되"
+          "text": "<두 목자> 여호와 나의 하나님이 이르시되 너는 잡혀 죽을 양 떼를 먹이라"
         },
         {
           "number": 5,
-          "text": "온 땅의 백성과 제사장들에게 이르라 너희가 칠십 년 동안 다섯째 달과 일곱째 달에 금식하고 애통하였거니와 그 금식이 나를 위하여, 나를 위하여 한 것이냐"
+          "text": "사들인 자들은 그들을 잡아도 죄가 없다 하고 판 자들은 말하기를 내가 부요하게 되었은즉 여호와께 찬송하리라 하고 그들의 목자들은 그들을 불쌍히 여기지 아니하는도다"
         },
         {
           "number": 6,
-          "text": "너희가 먹고 마실 때에 그것은 너희를 위하여 먹고 너희를 위하여 마시는 것이 아니냐"
+          "text": "여호와가 말하노라 내가 다시는 이 땅 주민을 불쌍히 여기지 아니하고 그 사람들을 각각 그 이웃의 손과 임금의 손에 넘기리니 그들이 이 땅을 칠지라도 내가 그들의 손에서 건져내지 아니하리라 하시기로"
         },
         {
           "number": 7,
-          "text": "예루살렘과 사면 성읍에 백성이 평온히 거주하며 남방과 평원에 사람이 거주할 때에 여호와가 옛 선지자들을 통하여 외친 말씀이 있지 않으냐 하시니라"
+          "text": "내가 잡혀 죽을 양 떼를 먹이니 참으로 가련한 양들이라 내가 막대기 둘을 취하여 하나는 은총이라 하며 하나는 연합이라 하고 양 떼를 먹일새"
         },
         {
           "number": 8,
-          "text": "<사로잡혀 가는 까닭> 여호와의 말씀이 스가랴에게 임하여 이르시되"
+          "text": "한 달 동안에 내가 그 세 목자를 제거하였으니 이는 내 마음에 그들을 싫어하였고 그들의 마음에도 나를 미워하였음이라"
         },
         {
           "number": 9,
-          "text": "만군의 여호와가 이같이 말하여 이르시기를 너희는 진실한 재판을 행하며 서로 인애와 긍휼을 베풀며"
+          "text": "내가 이르되 내가 너희를 먹이지 아니하리라 죽는 자는 죽는 대로, 망하는 자는 망하는 대로, 나머지는 서로 살을 먹는 대로 두리라 하고"
         },
         {
           "number": 10,
-          "text": "과부와 고아와 나그네와 궁핍한 자를 압제하지 말며 서로 해하려고 마음에 도모하지 말라 하였으나"
+          "text": "이에 은총이라 하는 막대기를 취하여 꺾었으니 이는 모든 백성들과 세운 언약을 폐하려 하였음이라"
         },
         {
           "number": 11,
-          "text": "그들이 듣기를 싫어하여 등을 돌리며 듣지 아니하려고 귀를 막으며"
+          "text": "당일에 곧 폐하매 내 말을 지키던 가련한 양들은 이것이 여호와의 말씀이었던 줄 안지라"
         },
         {
           "number": 12,
-          "text": "그 마음을 금강석 같게 하여 율법과 만군의 여호와가 그의 영으로 옛 선지자들을 통하여 전한 말을 듣지 아니하므로 큰 진노가 만군의 여호와께로부터 나왔도다"
+          "text": "내가 그들에게 이르되 너희가 좋게 여기거든 내 품삯을 내게 주고 그렇지 아니하거든 그만두라 그들이 곧 은 삼십 개를 달아서 내 품삯을 삼은지라"
         },
         {
           "number": 13,
-          "text": "내가 불러도 그들이 듣지 아니한 것처럼 그들이 불러도 내가 듣지 아니하리라 만군의 여호와가 말하였느니라"
+          "text": "여호와께서 내게 이르시되 그들이 나를 헤아린 바 그 삯을 토기장이에게 던지라 하시기로 내가 곧 그 은 삼십 개를 여호와의 전에서 토기장이에게 던지고"
         },
         {
           "number": 14,
-          "text": "내가 그들을 바람으로 불어 알지 못하던 여러 나라에 흩었느니라 그 후에 이 땅이 황폐하여 오고 가는 사람이 없었나니 이는 그들이 아름다운 땅을 황폐하게 하였음이니라 하시니라"
+          "text": "내가 또 연합이라 하는 둘째 막대기를 꺾었으니 이는 유다와 이스라엘 형제의 의리를 끊으려 함이었느니라"
+        },
+        {
+          "number": 15,
+          "text": "여호와께서 내게 이르시되 너는 또 어리석은 목자의 기구들을 빼앗을지니라"
+        },
+        {
+          "number": 16,
+          "text": "보라 내가 한 목자를 이 땅에 일으키리니 그가 없어진 자를 마음에 두지 아니하며 흩어진 자를 찾지 아니하며 상한 자를 고치지 아니하며 강건한 자를 먹이지 아니하고 오히려 살진 자의 고기를 먹으며 또 그 굽을 찢으리라"
+        },
+        {
+          "number": 17,
+          "text": "화 있을진저 양 떼를 버린 못된 목자여 칼이 그의 팔과 오른쪽 눈에 내리리니 그의 팔이 아주 마르고 그의 오른쪽 눈이 아주 멀어 버릴 것이라 하시니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Kislev."
+          "text": "Open your doors, O Lebanon, so that fire may devour your cedars!"
         },
         {
           "number": 2,
-          "text": "The people of Bethel had sent Sharezer and Regem-Melech, together with their men, to entreat the LORD"
+          "text": "Wail, O pine tree, for the cedar has fallen; the stately trees are ruined! Wail, oaks of Bashan; the dense forest has been cut down!"
         },
         {
           "number": 3,
-          "text": "by asking the priests of the house of the LORD Almighty and the prophets, \"Should I mourn and fast in the fifth month, as I have done for so many years?\""
+          "text": "Listen to the wail of the shepherds; their rich pastures are destroyed! Listen to the roar of the lions; the lush thicket of the Jordan is ruined!"
         },
         {
           "number": 4,
-          "text": "Then the word of the LORD Almighty came to me:"
+          "text": "This is what the LORD my God says: \"Pasture the flock marked for slaughter."
         },
         {
           "number": 5,
-          "text": "\"Ask all the people of the land and the priests, 'When you fasted and mourned in the fifth and seventh months for the past seventy years, was it really for me that you fasted?"
+          "text": "Their buyers slaughter them and go unpunished. Those who sell them say, 'Praise the LORD, I am rich!' Their own shepherds do not spare them."
         },
         {
           "number": 6,
-          "text": "And when you were eating and drinking, were you not just feasting for yourselves?"
+          "text": "For I will no longer have pity on the people of the land,\" declares the LORD. \"I will hand everyone over to his neighbor and his king. They will oppress the land, and I will not rescue them from their hands.\""
         },
         {
           "number": 7,
-          "text": "Are these not the words the LORD proclaimed through the earlier prophets when Jerusalem and its surrounding towns were at rest and prosperous, and the Negev and the western foothills were settled?'\""
+          "text": "So I pastured the flock marked for slaughter, particularly the oppressed of the flock. Then I took two staffs and called one Favor and the other Union, and I pastured the flock."
         },
         {
           "number": 8,
-          "text": "And the word of the LORD came again to Zechariah:"
+          "text": "In one month I got rid of the three shepherds. The flock detested me, and I grew weary of them"
         },
         {
           "number": 9,
-          "text": "\"This is what the LORD Almighty says: 'Administer true justice; show mercy and compassion to one another."
+          "text": "and said, \"I will not be your shepherd. Let the dying die, and the perishing perish. Let those who are left eat one another's flesh.\""
         },
         {
           "number": 10,
-          "text": "Do not oppress the widow or the fatherless, the alien or the poor. In your hearts do not think evil of each other.'"
+          "text": "Then I took my staff called Favor and broke it, revoking the covenant I had made with all the nations."
         },
         {
           "number": 11,
-          "text": "\"But they refused to pay attention; stubbornly they turned their backs and stopped up their ears."
+          "text": "It was revoked on that day, and so the afflicted of the flock who were watching me knew it was the word of the LORD."
         },
         {
           "number": 12,
-          "text": "They made their hearts as hard as flint and would not listen to the law or to the words that the LORD Almighty had sent by his Spirit through the earlier prophets. So the LORD Almighty was very angry."
+          "text": "I told them, \"If you think it best, give me my pay; but if not, keep it.\" So they paid me thirty pieces of silver."
         },
         {
           "number": 13,
-          "text": "\"'When I called, they did not listen; so when they called, I would not listen,' says the LORD Almighty."
+          "text": "And the LORD said to me, \"Throw it to the potter\"--the handsome price at which they priced me! So I took the thirty pieces of silver and threw them into the house of the LORD to the potter."
         },
         {
           "number": 14,
-          "text": "'I scattered them with a whirlwind among all the nations, where they were strangers. The land was left so desolate behind them that no one could come or go. This is how they made the pleasant land desolate.'\""
+          "text": "Then I broke my second staff called Union, breaking the brotherhood between Judah and Israel."
+        },
+        {
+          "number": 15,
+          "text": "Then the LORD said to me, \"Take again the equipment of a foolish shepherd."
+        },
+        {
+          "number": 16,
+          "text": "For I am going to raise up a shepherd over the land who will not care for the lost, or seek the young, or heal the injured, or feed the healthy, but will eat the meat of the choice sheep, tearing off their hoofs."
+        },
+        {
+          "number": 17,
+          "text": "\"Woe to the worthless shepherd, who deserts the flock! May the sword strike his arm and his right eye! May his arm be completely withered, his right eye totally blinded!\" An Oracle"
         }
       ]
     },
@@ -129,445 +153,377 @@
       "book": "zec",
       "book_name": "스가랴",
       "english_book_name": "Zechariah",
-      "chapter_number": 8,
+      "chapter_number": 12,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<예루살렘 회복에 대한 약속> 만군의 여호와의 말씀이 임하여 이르시되"
+          "text": "<예루살렘의 구원> 이스라엘에 관한 여호와의 경고의 말씀이라 슥12:여호와 곧 하늘을 펴시며 땅의 터를 세우시며 사람 안에 심령을 지으신 이가 이르시되"
         },
         {
           "number": 2,
-          "text": "만군의 여호와가 이같이 말하노라 내가 시온을 위하여 크게 질투하며 그를 위하여 크게 분노함으로 질투하노라"
+          "text": "보라 내가 예루살렘으로 그 사면 모든 민족에게 취하게 하는 잔이 되게 할 것이라 예루살렘이 에워싸일 때에 유다에까지 이르리라"
         },
         {
           "number": 3,
-          "text": "여호와가 이같이 말하노라 내가 시온에 돌아와 예루살렘 가운데에 거하리니 예루살렘은 진리의 성읍이라 일컫겠고 만군의 여호와의 산은 성산이라 일컫게 되리라"
+          "text": "그 날에는 내가 예루살렘에게 모든 민족에게 무거운 돌이 되게 하리니 그것을 드는 모든 자는 크게 상할 것이라 천하 만국이 그것을 치려고 모이리라"
         },
         {
           "number": 4,
-          "text": "만군의 여호와가 이같이 말하노라 예루살렘 길거리에 늙은 남자들과 늙은 여자들이 다시 앉을 것이라 다 나이가 많으므로 저마다 손에 지팡이를 잡을 것이요"
+          "text": "여호와가 말하노라 그 날에 내가 모든 말을 쳐서 놀라게 하며 그 탄 자를 쳐서 미치게 하되 유다 족속은 내가 돌보고 모든 민족의 말을 쳐서 눈이 멀게 하리니"
         },
         {
           "number": 5,
-          "text": "그 성읍 거리에 소년과 소녀들이 가득하여 거기에서 뛰놀리라"
+          "text": "유다의 우두머리들이 마음속에 이르기를 예루살렘 주민이 그들의 하나님 만군의 여호와로 말미암아 힘을 얻었다 할지라"
         },
         {
           "number": 6,
-          "text": "만군의 여호와가 이같이 말하노라 이 일이 그 날에 남은 백성의 눈에는 기이하려니와 내 눈에야 어찌 기이하겠느냐 만군의 여호와의 말이니라"
+          "text": "그 날에 내가 유다 지도자들을 나무 가운데에 화로 같게 하며 곡식단 사이에 횃불 같게 하리니 그들이 그 좌우에 에워싼 모든 민족들을 불사를 것이요 예루살렘 사람들은 다시 그 본 곳 예루살렘에 살게 되리라"
         },
         {
           "number": 7,
-          "text": "만군의 여호와가 이같이 말하노라 보라, 내가 내 백성을 해가 뜨는 땅과 해가 지는 땅에서부터 구원하여 내고"
+          "text": "여호와가 먼저 유다 장막을 구원하리니 이는 다윗의 집의 영광과 예루살렘 주민의 영광이 유다보다 더하지 못하게 하려 함이니라"
         },
         {
           "number": 8,
-          "text": "인도하여다가 예루살렘 가운데에 거주하게 하리니 그들은 내 백성이 되고 나는 진리와 공의로 그들의 하나님이 되리라"
+          "text": "그 날에 여호와가 예루살렘 주민을 보호하리니 그 중에 약한 자가 그 날에는 다윗 같겠고 다윗의 족속은 하나님 같고 무리 앞에 있는 여호와의 사자 같을 것이라"
         },
         {
           "number": 9,
-          "text": "만군의 여호와가 이같이 말하노라 만군의 여호와의 집 곧 성전을 건축하려고 그 지대를 쌓던 날에 있었던 선지자들의 입의 말을 이 날에 듣는 너희는 손을 견고히 할지어다"
+          "text": "예루살렘을 치러 오는 이방 나라들을 그 날에 내가 멸하기를 힘쓰리라"
         },
         {
           "number": 10,
-          "text": "이 날 전에는 사람도 삯을 얻지 못하였고 짐승도 삯을 받지 못하였으며 사람이 원수로 말미암아 평안히 출입하지 못하였으나 내가 모든 사람을 서로 풀어 주게 하였느니라"
+          "text": "내가 다윗의 집과 예루살렘 주민에게 은총과 간구하는 심령을 부어 주리니 그들이 그 찌른 바 그를 바라보고 그를 위하여 애통하기를 독자를 위하여 애통하듯 하며 그를 위하여 통곡하기를 장자를 위하여 통곡하듯 하리로다"
         },
         {
           "number": 11,
-          "text": "만군의 여호와의 말씀이니라 이제는 내가 이 남은 백성을 대하기를 옛날과 같이 아니할 것인즉"
+          "text": "그 날에 예루살렘에 큰 애통이 있으리니 므깃도 골짜기 하다드림몬에 있던 애통과 같을 것이라"
         },
         {
           "number": 12,
-          "text": "곧 평강의 씨앗을 얻을 것이라 포도나무가 열매를 맺으며 땅이 산물을 내며 하늘은 이슬을 내리리니 내가 이 남은 백성으로 이 모든 것을 누리게 하리라"
+          "text": "온 땅 각 족속이 따로 애통하되 다윗의 족속이 따로 하고 그들의 아내들이 따로 하며 나단의 족속이 따로 하고 그들의 아내들이 따로 하며"
         },
         {
           "number": 13,
-          "text": "유다 족속아, 이스라엘 족속아, 너희가 이방인 가운데에서 저주가 되었었으나 이제는 내가 너희를 구원하여 너희가 복이 되게 하리니 두려워하지 말지니라 손을 견고히 할지니라"
+          "text": "레위의 족속이 따로 하고 그들의 아내들이 따로 하며 시므이의 족속이 따로 하고 그들의 아내들이 따로 하며"
         },
         {
           "number": 14,
-          "text": "만군의 여호와가 이같이 말하노라 너희 조상들이 나를 격노하게 하였을 때에 내가 그들에게 재앙을 내리기로 뜻하고 뉘우치지 아니하였으나"
+          "text": "모든 남은 족속도 각기 따로 하고 그들의 아내들이 따로 하리라"
+        }
+      ],
+      "niv_verses": [
+        {
+          "number": 1,
+          "text": "This is the word of the LORD concerning Israel. The LORD, who stretches out the heavens, who lays the foundation of the earth, and who forms the spirit of man within him, declares:"
+        },
+        {
+          "number": 2,
+          "text": "\"I am going to make Jerusalem a cup that sends all the surrounding peoples reeling. Judah will be besieged as well as Jerusalem."
+        },
+        {
+          "number": 3,
+          "text": "On that day, when all the nations of the earth are gathered against her, I will make Jerusalem an immovable rock for all the nations. All who try to move it will injure themselves."
+        },
+        {
+          "number": 4,
+          "text": "On that day I will strike every horse with panic and its rider with madness,\" declares the LORD. \"I will keep a watchful eye over the house of Judah, but I will blind all the horses of the nations."
+        },
+        {
+          "number": 5,
+          "text": "Then the leaders of Judah will say in their hearts, 'The people of Jerusalem are strong, because the LORD Almighty is their God.'"
+        },
+        {
+          "number": 6,
+          "text": "\"On that day I will make the leaders of Judah like a firepot in a woodpile, like a flaming torch among sheaves. They will consume right and left all the surrounding peoples, but Jerusalem will remain intact in her place."
+        },
+        {
+          "number": 7,
+          "text": "\"The LORD will save the dwellings of Judah first, so that the honor of the house of David and of Jerusalem's inhabitants may not be greater than that of Judah."
+        },
+        {
+          "number": 8,
+          "text": "On that day the LORD will shield those who live in Jerusalem, so that the feeblest among them will be like David, and the house of David will be like God, like the Angel of the LORD going before them."
+        },
+        {
+          "number": 9,
+          "text": "On that day I will set out to destroy all the nations that attack Jerusalem."
+        },
+        {
+          "number": 10,
+          "text": "\"And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son."
+        },
+        {
+          "number": 11,
+          "text": "On that day the weeping in Jerusalem will be great, like the weeping of Hadad Rimmon in the plain of Megiddo."
+        },
+        {
+          "number": 12,
+          "text": "The land will mourn, each clan by itself, with their wives by themselves: the clan of the house of David and their wives, the clan of the house of Nathan and their wives,"
+        },
+        {
+          "number": 13,
+          "text": "the clan of the house of Levi and their wives, the clan of Shimei and their wives,"
+        },
+        {
+          "number": 14,
+          "text": "and all the rest of the clans and their wives."
+        }
+      ]
+    },
+    {
+      "book": "zec",
+      "book_name": "스가랴",
+      "english_book_name": "Zechariah",
+      "chapter_number": 13,
+      "korean_verses": [
+        {
+          "number": 1,
+          "text": "그 날에 죄와 더러움을 씻는 샘이 다윗의 족속과 예루살렘 주민을 위하여 열리리라"
+        },
+        {
+          "number": 2,
+          "text": "만군의 여호와가 말하노라 그 날에 내가 우상의 이름을 이 땅에서 끊어서 기억도 되지 못하게 할 것이며 거짓 선지자와 더러운 귀신을 이 땅에서 떠나게 할 것이라"
+        },
+        {
+          "number": 3,
+          "text": "사람이 아직도 예언할 것 같으면 그 낳은 부모가 그에게 이르기를 네가 여호와의 이름을 빙자하여 거짓말을 하니 살지 못하리라 하고 낳은 부모가 그가 예언할 때에 칼로 그를 찌르리라"
+        },
+        {
+          "number": 4,
+          "text": "그 날에 선지자들이 예언할 때에 그 환상을 각기 부끄러워할 것이며 사람을 속이려고 털옷도 입지 아니할 것이며"
+        },
+        {
+          "number": 5,
+          "text": "말하기를 나는 선지자가 아니요 나는 농부라 내가 어려서부터 사람의 종이 되었노라 할 것이요"
+        },
+        {
+          "number": 6,
+          "text": "어떤 사람이 그에게 묻기를 네 두 팔 사이에 있는 상처는 어찌 됨이냐 하면 대답하기를 이는 나의 친구의 집에서 받은 상처라 하리라"
+        },
+        {
+          "number": 7,
+          "text": "<목자를 치라는 명령> 만군의 여호와가 말하노라 칼아 깨어서 내 목자, 내 짝 된 자를 치라 목자를 치면 양이 흩어지려니와 작은 자들 위에는 내가 내 손을 드리우리라"
+        },
+        {
+          "number": 8,
+          "text": "여호와가 말하노라 이 온 땅에서 삼분의 이는 멸망하고 삼분의 일은 거기 남으리니"
+        },
+        {
+          "number": 9,
+          "text": "내가 그 삼분의 일을 불 가운데에 던져 은 같이 연단하며 금 같이 시험할 것이라 그들이 내 이름을 부르리니 내가 들을 것이며 나는 말하기를 이는 내 백성이라 할 것이요 그들은 말하기를 여호와는 내 하나님이시라 하리라"
+        }
+      ],
+      "niv_verses": [
+        {
+          "number": 1,
+          "text": "\"On that day a fountain will be opened to the house of David and the inhabitants of Jerusalem, to cleanse them from sin and impurity."
+        },
+        {
+          "number": 2,
+          "text": "\"On that day, I will banish the names of the idols from the land, and they will be remembered no more,\" declares the LORD Almighty. \"I will remove both the prophets and the spirit of impurity from the land."
+        },
+        {
+          "number": 3,
+          "text": "And if anyone still prophesies, his father and mother, to whom he was born, will say to him, 'You must die, because you have told lies in the LORD'S name.' When he prophesies, his own parents will stab him."
+        },
+        {
+          "number": 4,
+          "text": "\"On that day every prophet will be ashamed of his prophetic vision. He will not put on a prophet's garment of hair in order to deceive."
+        },
+        {
+          "number": 5,
+          "text": "He will say, 'I am not a prophet. I am a farmer; the land has been my livelihood since my youth.'"
+        },
+        {
+          "number": 6,
+          "text": "If someone asks him, 'What are these wounds on your body?' he will answer, 'The wounds I was given at the house of my friends.'"
+        },
+        {
+          "number": 7,
+          "text": "\"Awake, O sword, against my shepherd, against the man who is close to me!\" declares the LORD Almighty. \"Strike the shepherd, and the sheep will be scattered, and I will turn my hand against the little ones."
+        },
+        {
+          "number": 8,
+          "text": "In the whole land,\" declares the LORD, \"two-thirds will be struck down and perish; yet one-third will be left in it."
+        },
+        {
+          "number": 9,
+          "text": "This third I will bring into the fire; I will refine them like silver and test them like gold. They will call on my name and I will answer them; I will say, 'They are my people,' and they will say, 'The LORD is our God.'\""
+        }
+      ]
+    },
+    {
+      "book": "zec",
+      "book_name": "스가랴",
+      "english_book_name": "Zechariah",
+      "chapter_number": 14,
+      "korean_verses": [
+        {
+          "number": 1,
+          "text": "<예루살렘과 이방 나라들> 여호와의 날이 이르리라 그 날에 네 재물이 약탈되어 네 가운데에서 나누이리라"
+        },
+        {
+          "number": 2,
+          "text": "내가 이방 나라들을 모아 예루살렘과 싸우게 하리니 성읍이 함락되며 가옥이 약탈되며 부녀가 욕을 당하며 성읍 백성이 절반이나 사로잡혀 가려니와 남은 백성은 성읍에서 끊어지지 아니하리라"
+        },
+        {
+          "number": 3,
+          "text": "그 때에 여호와께서 나가사 그 이방 나라들을 치시되 이왕의 전쟁 날에 싸운 것 같이 하시리라"
+        },
+        {
+          "number": 4,
+          "text": "그 날에 그의 발이 예루살렘 앞 곧 동쪽 감람 산에 서실 것이요 감람 산은 그 한 가운데가 동서로 갈라져 매우 큰 골짜기가 되어서 산 절반은 북으로, 절반은 남으로 옮기고"
+        },
+        {
+          "number": 5,
+          "text": "그 산 골짜기는 아셀까지 이를지라 너희가 그 산 골짜기로 도망하되 유다 왕 웃시야 때에 지진을 피하여 도망하던 것 같이 하리라 나의 하나님 여호와께서 임하실 것이요 모든 거룩한 자들이 주와 함께 하리라"
+        },
+        {
+          "number": 6,
+          "text": "그 날에는 빛이 없겠고 광명한 것들이 떠날 것이라"
+        },
+        {
+          "number": 7,
+          "text": "여호와께서 아시는 한 날이 있으리니 낮도 아니요 밤도 아니라 어두워 갈 때에 빛이 있으리로다"
+        },
+        {
+          "number": 8,
+          "text": "그 날에 생수가 예루살렘에서 솟아나서 절반은 동해로, 절반은 서해로 흐를 것이라 여름에도 겨울에도 그러하리라"
+        },
+        {
+          "number": 9,
+          "text": "여호와께서 천하의 왕이 되시리니 그 날에는 여호와께서 홀로 한 분이실 것이요 그의 이름이 홀로 하나이실 것이라"
+        },
+        {
+          "number": 10,
+          "text": "온 땅이 아라바 같이 되되 게바에서 예루살렘 남쪽 림몬까지 이를 것이며 예루살렘이 높이 들려 그 본처에 있으리니 베냐민 문에서부터 첫 문 자리와 성 모퉁이 문까지 또 하나넬 망대에서부터 왕의 포도주 짜는 곳까지라"
+        },
+        {
+          "number": 11,
+          "text": "사람이 그 가운데에 살며 다시는 저주가 있지 아니하리니 예루살렘이 평안히 서리로다"
+        },
+        {
+          "number": 12,
+          "text": "예루살렘을 친 모든 백성에게 여호와께서 내리실 재앙은 이러하니 곧 섰을 때에 그들의 살이 썩으며 그들의 눈동자가 눈구멍 속에서 썩으며 그들의 혀가 입 속에서 썩을 것이요"
+        },
+        {
+          "number": 13,
+          "text": "그 날에 여호와께서 그들을 크게 요란하게 하시리니 피차 손으로 붙잡으며 피차 손을 들어 칠 것이며"
+        },
+        {
+          "number": 14,
+          "text": "유다도 예루살렘에서 싸우리니 이 때에 사방에 있는 이방 나라들의 보화 곧 금 은과 의복이 심히 많이 모여질 것이요"
         },
         {
           "number": 15,
-          "text": "이제 내가 다시 예루살렘과 유다 족속에게 은혜를 베풀기로 뜻하였나니 너희는 두려워하지 말지니라"
+          "text": "또 말과 노새와 낙타와 나귀와 그 진에 있는 모든 가축에게 미칠 재앙도 그 재앙과 같으리라"
         },
         {
           "number": 16,
-          "text": "너희가 행할 일은 이러하니라 너희는 이웃과 더불어 진리를 말하며 너희 성문에서 진실하고 화평한 재판을 베풀고"
+          "text": "예루살렘을 치러 왔던 이방 나라들 중에 남은 자가 해마다 올라와서 그 왕 만군의 여호와께 경배하며 초막절을 지킬 것이라"
         },
         {
           "number": 17,
-          "text": "마음에 서로 해하기를 도모하지 말며 거짓 맹세를 좋아하지 말라 이 모든 일은 내가 미워하는 것이니라 여호와의 말이니라"
+          "text": "땅에 있는 족속들 중에 그 왕 만군의 여호와께 경배하러 예루살렘에 올라오지 아니하는 자들에게는 비를 내리지 아니하실 것인즉"
         },
         {
           "number": 18,
-          "text": "<금식에 관하여 말씀하시다> 만군의 여호와의 말씀이 내게 임하여 이르시되"
+          "text": "만일 애굽 족속이 올라오지 아니할 때에는 비 내림이 있지 아니하리니 여호와께서 초막절을 지키러 올라오지 아니하는 이방 나라들의 사람을 치시는 재앙을 그에게 내리실 것이라"
         },
         {
           "number": 19,
-          "text": "만군의 여호와가 이같이 말하노라 넷째 달의 금식과 다섯째 달의 금식과 일곱째 달의 금식과 열째 달의 금식이 변하여 유다 족속에게 기쁨과 즐거움과 희락의 절기들이 되리니 오직 너희는 진리와 화평을 사랑할지니라"
+          "text": "애굽 사람이나 이방 나라 사람이나 초막절을 지키러 올라오지 아니하는 자가 받을 벌이 그러하니라"
         },
         {
           "number": 20,
-          "text": "만군의 여호와가 이와 같이 말하노라 다시 여러 백성과 많은 성읍의 주민이 올 것이라"
+          "text": "그 날에는 말 방울에까지 여호와께 성결이라 기록될 것이라 여호와의 전에 있는 모든 솥이 제단 앞 주발과 다름이 없을 것이니"
         },
         {
           "number": 21,
-          "text": "이 성읍 주민이 저 성읍에 가서 이르기를 우리가 속히 가서 만군의 여호와를 찾고 여호와께 은혜를 구하자 하면 나도 가겠노라 하겠으며"
-        },
-        {
-          "number": 22,
-          "text": "많은 백성과 강대한 나라들이 예루살렘으로 와서 만군의 여호와를 찾고 여호와께 은혜를 구하리라"
-        },
-        {
-          "number": 23,
-          "text": "만군의 여호와가 이와 같이 말하노라 그 날에는 말이 다른 이방 백성 열 명이 유다 사람 하나의 옷자락을 잡을 것이라 곧 잡고 말하기를 하나님이 너희와 함께 하심을 들었나니 우리가 너희와 함께 가려 하노라 하리라 하시니라"
+          "text": "예루살렘과 유다의 모든 솥이 만군의 여호와의 성물이 될 것인즉 제사 드리는 자가 와서 이 솥을 가져다가 그것으로 고기를 삶으리라 그 날에는 만군의 여호와의 전에 가나안 사람이 다시 있지 아니하리라 하시니라말1:1 여호와께서 말라기를 통하여 이스라엘에게 말씀하신 경고라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Again the word of the LORD Almighty came to me."
+          "text": "A day of the LORD is coming when your plunder will be divided among you."
         },
         {
           "number": 2,
-          "text": "This is what the LORD Almighty says: \"I am very jealous for Zion; I am burning with jealousy for her.\""
+          "text": "I will gather all the nations to Jerusalem to fight against it; the city will be captured, the houses ransacked, and the women raped. Half of the city will go into exile, but the rest of the people will not be taken from the city."
         },
         {
           "number": 3,
-          "text": "This is what the LORD says: \"I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the City of Truth, and the mountain of the LORD Almighty will be called the Holy Mountain.\""
+          "text": "Then the LORD will go out and fight against those nations, as he fights in the day of battle."
         },
         {
           "number": 4,
-          "text": "This is what the LORD Almighty says: \"Once again men and women of ripe old age will sit in the streets of Jerusalem, each with cane in hand because of his age."
+          "text": "On that day his feet will stand on the Mount of Olives, east of Jerusalem, and the Mount of Olives will be split in two from east to west, forming a great valley, with half of the mountain moving north and half moving south."
         },
         {
           "number": 5,
-          "text": "The city streets will be filled with boys and girls playing there.\""
+          "text": "You will flee by my mountain valley, for it will extend to Azel. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the LORD my God will come, and all the holy ones with him."
         },
         {
           "number": 6,
-          "text": "This is what the LORD Almighty says: \"It may seem marvelous to the remnant of this people at that time, but will it seem marvelous to me?\" declares the LORD Almighty."
+          "text": "On that day there will be no light, no cold or frost."
         },
         {
           "number": 7,
-          "text": "This is what the LORD Almighty says: \"I will save my people from the countries of the east and the west."
+          "text": "It will be a unique day, without daytime or nighttime--a day known to the LORD. When evening comes, there will be light."
         },
         {
           "number": 8,
-          "text": "I will bring them back to live in Jerusalem; they will be my people, and I will be faithful and righteous to them as their God.\""
+          "text": "On that day living water will flow out from Jerusalem, half to the eastern sea and half to the western sea, in summer and in winter."
         },
         {
           "number": 9,
-          "text": "This is what the LORD Almighty says: \"You who now hear these words spoken by the prophets who were there when the foundation was laid for the house of the LORD Almighty, let your hands be strong so that the temple may be built."
+          "text": "The LORD will be king over the whole earth. On that day there will be one LORD, and his name the only name."
         },
         {
           "number": 10,
-          "text": "Before that time there were no wages for man or beast. No one could go about his business safely because of his enemy, for I had turned every man against his neighbor."
+          "text": "The whole land, from Geba to Rimmon, south of Jerusalem, will become like the Arabah. But Jerusalem will be raised up and remain in its place, from the Benjamin Gate to the site of the First Gate, to the Corner Gate, and from the Tower of Hananel to the royal winepresses."
         },
         {
           "number": 11,
-          "text": "But now I will not deal with the remnant of this people as I did in the past,\" declares the LORD Almighty."
+          "text": "It will be inhabited; never again will it be destroyed. Jerusalem will be secure."
         },
         {
           "number": 12,
-          "text": "\"The seed will grow well, the vine will yield its fruit, the ground will produce its crops, and the heavens will drop their dew. I will give all these things as an inheritance to the remnant of this people."
+          "text": "This is the plague with which the LORD will strike all the nations that fought against Jerusalem: Their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths."
         },
         {
           "number": 13,
-          "text": "As you have been an object of cursing among the nations, O Judah and Israel, so will I save you, and you will be a blessing. Do not be afraid, but let your hands be strong.\""
+          "text": "On that day men will be stricken by the LORD with great panic. Each man will seize the hand of another, and they will attack each other."
         },
         {
           "number": 14,
-          "text": "This is what the LORD Almighty says: \"Just as I had determined to bring disaster upon you and showed no pity when your fathers angered me,\" says the LORD Almighty,"
+          "text": "Judah too will fight at Jerusalem. The wealth of all the surrounding nations will be collected--great quantities of gold and silver and clothing."
         },
         {
           "number": 15,
-          "text": "\"so now I have determined to do good again to Jerusalem and Judah. Do not be afraid."
+          "text": "A similar plague will strike the horses and mules, the camels and donkeys, and all the animals in those camps."
         },
         {
           "number": 16,
-          "text": "These are the things you are to do: Speak the truth to each other, and render true and sound judgment in your courts;"
+          "text": "Then the survivors from all the nations that have attacked Jerusalem will go up year after year to worship the King, the LORD Almighty, and to celebrate the Feast of Tabernacles."
         },
         {
           "number": 17,
-          "text": "do not plot evil against your neighbor, and do not love to swear falsely. I hate all this,\" declares the LORD."
+          "text": "If any of the peoples of the earth do not go up to Jerusalem to worship the King, the LORD Almighty, they will have no rain."
         },
         {
           "number": 18,
-          "text": "Again the word of the LORD Almighty came to me."
+          "text": "If the Egyptian people do not go up and take part, they will have no rain. The LORD will bring on them the plague he inflicts on the nations that do not go up to celebrate the Feast of Tabernacles."
         },
         {
           "number": 19,
-          "text": "This is what the LORD Almighty says: \"The fasts of the fourth, fifth, seventh and tenth months will become joyful and glad occasions and happy festivals for Judah. Therefore love truth and peace.\""
+          "text": "This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Feast of Tabernacles."
         },
         {
           "number": 20,
-          "text": "This is what the LORD Almighty says: \"Many peoples and the inhabitants of many cities will yet come,"
-        },
-        {
-          "number": 21,
-          "text": "and the inhabitants of one city will go to another and say, 'Let us go at once to entreat the LORD and seek the LORD Almighty. I myself am going.'"
-        },
-        {
-          "number": 22,
-          "text": "And many peoples and powerful nations will come to Jerusalem to seek the LORD Almighty and to entreat him.\""
-        },
-        {
-          "number": 23,
-          "text": "This is what the LORD Almighty says: \"In those days ten men from all languages and nations will take firm hold of one Jew by the hem of his robe and say, 'Let us go with you, because we have heard that God is with you.'\" An Oracle"
-        }
-      ]
-    },
-    {
-      "book": "zec",
-      "book_name": "스가랴",
-      "english_book_name": "Zechariah",
-      "chapter_number": 9,
-      "korean_verses": [
-        {
-          "number": 1,
-          "text": "<이스라엘 이웃 나라들에 대한 하나님의 말씀> 여호와의 말씀이 하드락 땅에 내리며 다메섹에 머물리니 사람들과 이스라엘 모든 지파의 눈이 여호와를 우러러봄이니라"
-        },
-        {
-          "number": 2,
-          "text": "그 접경한 하맛에도 임하겠고 두로와 시돈에도 임하리니 그들이 매우 지혜로움이니라"
-        },
-        {
-          "number": 3,
-          "text": "두로는 자기를 위하여 요새를 건축하며 은을 티끌 같이, 금을 거리의 진흙 같이 쌓았도다"
-        },
-        {
-          "number": 4,
-          "text": "주께서 그를 정복하시며 그의 권세를 바다에 쳐넣으시리니 그가 불에 삼켜질지라"
-        },
-        {
-          "number": 5,
-          "text": "아스글론이 보고 무서워하며 가사도 심히 아파할 것이며 에그론은 그 소망이 수치가 되므로 역시 그러하리라 가사에는 임금이 끊어질 것이며 아스글론에는 주민이 없을 것이며"
-        },
-        {
-          "number": 6,
-          "text": "아스돗에는 잡족이 거주하리라 내가 블레셋 사람의 교만을 끊고"
-        },
-        {
-          "number": 7,
-          "text": "그의 입에서 그의 피를, 그의 잇사이에서 그 가증한 것을 제거하리니 그들도 남아서 우리 하나님께로 돌아와서 유다의 한 지도자 같이 되겠고 에그론은 여부스 사람 같이 되리라"
-        },
-        {
-          "number": 8,
-          "text": "내가 내 집을 둘러 진을 쳐서 적군을 막아 거기 왕래하지 못하게 할 것이라 포학한 자가 다시는 그 지경으로 지나가지 못하리니 이는 내가 눈으로 친히 봄이니라"
-        },
-        {
-          "number": 9,
-          "text": "<구원을 베풀 왕> 시온의 딸아 크게 기뻐할지어다 예루살렘의 딸아 즐거이 부를지어다 보라 네 왕이 네게 임하시나니 그는 공의로우시며 구원을 베푸시며 겸손하여서 나귀를 타시나니 나귀의 작은 것 곧 나귀 새끼니라"
-        },
-        {
-          "number": 10,
-          "text": "내가 에브라임의 병거와 예루살렘의 말을 끊겠고 전쟁하는 활도 끊으리니 그가 이방 사람에게 화평을 전할 것이요 그의 통치는 바다에서 바다까지 이르고 유브라데 강에서 땅 끝까지 이르리라"
-        },
-        {
-          "number": 11,
-          "text": "또 너로 말할진대 네 언약의 피로 말미암아 내가 네 갇힌 자들을 물 없는 구덩이에서 놓았나니"
-        },
-        {
-          "number": 12,
-          "text": "갇혀 있으나 소망을 품은 자들아 너희는 요새로 돌아올지니라 내가 오늘도 이르노라 내가 네게 갑절이나 갚을 것이라"
-        },
-        {
-          "number": 13,
-          "text": "내가 유다를 당긴 활로 삼고 에브라임을 끼운 화살로 삼았으니 시온아 내가 네 자식들을 일으켜 헬라 자식들을 치게 하며 너를 용사의 칼과 같게 하리라"
-        },
-        {
-          "number": 14,
-          "text": "여호와께서 그들 위에 나타나서 그들의 화살을 번개 같이 쏘아내실 것이며 주 여호와께서 나팔을 불게 하시며 남방 회오리바람을 타고 가실 것이라"
-        },
-        {
-          "number": 15,
-          "text": "만군의 여호와께서 그들을 호위하시리니 그들이 원수를 삼키며 물맷돌을 밟을 것이며 그들이 피를 마시고 즐거이 부르기를 술취한 것 같이 할 것인즉 피가 가득한 동이와도 같고 피 묻은 제단 모퉁이와도 같을 것이라"
-        },
-        {
-          "number": 16,
-          "text": "이 날에 그들의 하나님 여호와께서 그들을 자기 백성의 양 떼 같이 구원하시리니 그들이 왕관의 보석 같이 여호와의 땅에 빛나리로다"
-        },
-        {
-          "number": 17,
-          "text": "그의 형통함과 그의 아름다움이 어찌 그리 큰지 곡식은 청년을, 새 포도주는 처녀를 강건하게 하리라"
-        }
-      ],
-      "niv_verses": [
-        {
-          "number": 1,
-          "text": "The word of the LORD is against the land of Hadrach and will rest upon Damascus--for the eyes of men and all the tribes of Israel are on the LORD--"
-        },
-        {
-          "number": 2,
-          "text": "and upon Hamath too, which borders on it, and upon Tyre and Sidon, though they are very skillful."
-        },
-        {
-          "number": 3,
-          "text": "Tyre has built herself a stronghold; she has heaped up silver like dust, and gold like the dirt of the streets."
-        },
-        {
-          "number": 4,
-          "text": "But the LORD will take away her possessions and destroy her power on the sea, and she will be consumed by fire."
-        },
-        {
-          "number": 5,
-          "text": "Ashkelon will see it and fear; Gaza will writhe in agony, and Ekron too, for her hope will wither. Gaza will lose her king and Ashkelon will be deserted."
-        },
-        {
-          "number": 6,
-          "text": "Foreigners will occupy Ashdod, and I will cut off the pride of the Philistines."
-        },
-        {
-          "number": 7,
-          "text": "I will take the blood from their mouths, the forbidden food from between their teeth. Those who are left will belong to our God and become leaders in Judah, and Ekron will be like the Jebusites."
-        },
-        {
-          "number": 8,
-          "text": "But I will defend my house against marauding forces. Never again will an oppressor overrun my people, for now I am keeping watch."
-        },
-        {
-          "number": 9,
-          "text": "Rejoice greatly, O Daughter of Zion! Shout, Daughter of Jerusalem! See, your king comes to you, righteous and having salvation, gentle and riding on a donkey, on a colt, the foal of a donkey."
-        },
-        {
-          "number": 10,
-          "text": "I will take away the chariots from Ephraim and the war-horses from Jerusalem, and the battle bow will be broken. He will proclaim peace to the nations. His rule will extend from sea to sea and from the River to the ends of the earth."
-        },
-        {
-          "number": 11,
-          "text": "As for you, because of the blood of my covenant with you, I will free your prisoners from the waterless pit."
-        },
-        {
-          "number": 12,
-          "text": "Return to your fortress, O prisoners of hope; even now I announce that I will restore twice as much to you."
-        },
-        {
-          "number": 13,
-          "text": "I will bend Judah as I bend my bow and fill it with Ephraim. I will rouse your sons, O Zion, against your sons, O Greece, and make you like a warrior's sword."
-        },
-        {
-          "number": 14,
-          "text": "Then the LORD will appear over them; his arrow will flash like lightning. The Sovereign LORD will sound the trumpet; he will march in the storms of the south,"
-        },
-        {
-          "number": 15,
-          "text": "and the LORD Almighty will shield them. They will destroy and overcome with slingstones. They will drink and roar as with wine; they will be full like a bowl used for sprinkling the corners of the altar."
-        },
-        {
-          "number": 16,
-          "text": "The LORD their God will save them on that day as the flock of his people. They will sparkle in his land like jewels in a crown."
-        },
-        {
-          "number": 17,
-          "text": "How attractive and beautiful they will be! Grain will make the young men thrive, and new wine the young women."
-        }
-      ]
-    },
-    {
-      "book": "zec",
-      "book_name": "스가랴",
-      "english_book_name": "Zechariah",
-      "chapter_number": 10,
-      "korean_verses": [
-        {
-          "number": 1,
-          "text": "<여호와께서 구원을 약속하시다> 봄비가 올 때에 여호와 곧 구름을 일게 하시는 여호와께 비를 구하라 무리에게 소낙비를 내려서 밭의 채소를 각 사람에게 주시리라"
-        },
-        {
-          "number": 2,
-          "text": "드라빔들은 허탄한 것을 말하며 복술자는 진실하지 않은 것을 보고 거짓 꿈을 말한즉 그 위로가 헛되므로 백성들이 양 같이 유리하며 목자가 없으므로 곤고를 당하나니"
-        },
-        {
-          "number": 3,
-          "text": "내가 목자들에게 노를 발하며 내가 숫염소들을 벌하리라 만군의 여호와가 그 무리 곧 유다 족속을 돌보아 그들을 전쟁의 준마와 같게 하리니"
-        },
-        {
-          "number": 4,
-          "text": "모퉁잇돌이 그에게서, 말뚝이 그에게서, 싸우는 활이 그에게서, 권세 잡은 자가 다 일제히 그에게서 나와서"
-        },
-        {
-          "number": 5,
-          "text": "싸울 때에 용사 같이 거리의 진흙 중에 원수를 밟을 것이라 여호와가 그들과 함께 한즉 그들이 싸워 말 탄 자들을 부끄럽게 하리라"
-        },
-        {
-          "number": 6,
-          "text": "내가 유다 족속을 견고하게 하며 요셉 족속을 구원할지라 내가 그들을 긍휼히 여김으로 그들이 돌아오게 하리니 그들은 내가 내버린 일이 없었음 같이 되리라 나는 그들의 하나님 여호와라 내가 그들에게 들으리라"
-        },
-        {
-          "number": 7,
-          "text": "에브라임이 용사 같아서 포도주를 마심 같이 마음이 즐거울 것이요 그들의 자손은 보고 기뻐하며 여호와로 말미암아 마음에 즐거워하리라"
-        },
-        {
-          "number": 8,
-          "text": "내가 그들을 향하여 휘파람을 불어 그들을 모을 것은 내가 그들을 구속하였음이라 그들이 전에 번성하던 것 같이 번성하리라"
-        },
-        {
-          "number": 9,
-          "text": "내가 그들을 여러 백성들 가운데 흩으려니와 그들이 먼 곳에서 나를 기억하고 그들이 살아서 그들의 자녀들과 함께 돌아올지라"
-        },
-        {
-          "number": 10,
-          "text": "내가 그들을 애굽 땅에서 돌아오게 하며 그들을 앗수르에서부터 모으며 길르앗 땅과 레바논으로 그들을 이끌어 가리니 그들이 거할 곳이 부족하리라"
-        },
-        {
-          "number": 11,
-          "text": "내가 그들이 고난의 바다를 지나갈 때에 바다 물결을 치리니 나일의 깊은 곳이 다 마르겠고 앗수르의 교만이 낮아지겠고 애굽의 규가 없어지리라"
-        },
-        {
-          "number": 12,
-          "text": "내가 그들에게 나 여호와를 의지하여 견고하게 하리니 그들이 내 이름으로 행하리라 나 여호와의 말이니라"
-        }
-      ],
-      "niv_verses": [
-        {
-          "number": 1,
-          "text": "Ask the LORD for rain in the springtime; it is the LORD who makes the storm clouds. He gives showers of rain to men, and plants of the field to everyone."
-        },
-        {
-          "number": 2,
-          "text": "The idols speak deceit, diviners see visions that lie; they tell dreams that are false, they give comfort in vain. Therefore the people wander like sheep oppressed for lack of a shepherd."
-        },
-        {
-          "number": 3,
-          "text": "\"My anger burns against the shepherds, and I will punish the leaders; for the LORD Almighty will care for his flock, the house of Judah, and make them like a proud horse in battle."
-        },
-        {
-          "number": 4,
-          "text": "From Judah will come the cornerstone, from him the tent peg, from him the battle bow, from him every ruler."
-        },
-        {
-          "number": 5,
-          "text": "Together they will be like mighty men trampling the muddy streets in battle. Because the LORD is with them, they will fight and overthrow the horsemen."
-        },
-        {
-          "number": 6,
-          "text": "\"I will strengthen the house of Judah and save the house of Joseph. I will restore them because I have compassion on them. They will be as though I had not rejected them, for I am the LORD their God and I will answer them."
-        },
-        {
-          "number": 7,
-          "text": "The Ephraimites will become like mighty men, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD."
-        },
-        {
-          "number": 8,
-          "text": "I will signal for them and gather them in. Surely I will redeem them; they will be as numerous as before."
-        },
-        {
-          "number": 9,
-          "text": "Though I scatter them among the peoples, yet in distant lands they will remember me. They and their children will survive, and they will return."
-        },
-        {
-          "number": 10,
-          "text": "I will bring them back from Egypt and gather them from Assyria. I will bring them to Gilead and Lebanon, and there will not be room enough for them."
-        },
-        {
-          "number": 11,
-          "text": "They will pass through the sea of trouble; the surging sea will be subdued and all the depths of the Nile will dry up. Assyria's pride will be brought down and Egypt's scepter will pass away."
-        },
-        {
-          "number": 12,
-          "text": "I will strengthen them in the LORD and in his name they will walk,\" declares the LORD."
+          "text": "On that day HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the LORD'S house will be like the sacred bowls in front of the altar."
         }
       ]
     }
