@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import smtplib
 import ssl
 from dataclasses import dataclass
@@ -13,11 +14,12 @@ from html import escape
 from pathlib import Path
 from typing import Any
 
-from bs4 import BeautifulSoup
-
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-TEXT_DIR = BASE_DIR / "data" / "community_bible" / "rkb_text"
+BIBLE_DIR = BASE_DIR / "data" / "bible"
+KOREAN_BIBLE_PATH = BIBLE_DIR / "개역개정4판.txt"
+NIV_OLD_TESTAMENT_DIR = BIBLE_DIR / "niv" / "old_testament"
+NIV_NEW_TESTAMENT_DIR = BIBLE_DIR / "niv" / "new_testament"
 OUTPUT_DIR = BASE_DIR / "output" / "bible_reading_newsletter"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 LATEST_JSON_PATH = OUTPUT_DIR / "latest.json"
@@ -26,28 +28,33 @@ KST = timezone(timedelta(hours=9))
 
 
 BOOK_META = {
-    "job": ("욥기", "18_job"),
-    "psa": ("시편", "19_psa"),
-    "pro": ("잠언", "20_pro"),
-    "ecc": ("전도서", "21_ecc"),
-    "sol": ("아가", "22_sol"),
-    "isa": ("이사야", "23_isa"),
-    "jer": ("예레미야", "24_jer"),
-    "lam": ("예레미야애가", "25_lam"),
-    "eze": ("에스겔", "26_eze"),
-    "dan": ("다니엘", "27_dan"),
-    "hos": ("호세아", "28_hos"),
-    "joe": ("요엘", "29_joe"),
-    "amo": ("아모스", "30_amo"),
-    "oba": ("오바댜", "31_oba"),
-    "jon": ("요나", "32_jon"),
-    "mic": ("미가", "33_mic"),
-    "nah": ("나훔", "34_nah"),
-    "hab": ("하박국", "35_hab"),
-    "zep": ("스바냐", "36_zep"),
-    "hag": ("학개", "37_hag"),
-    "zec": ("스가랴", "38_zec"),
+    "job": ("욥기", "욥", "Job", "18-Job (욥기).txt", "old"),
+    "psa": ("시편", "시", "Psalms", "19-Psalms (시편).txt", "old"),
+    "pro": ("잠언", "잠", "Proverbs", "20-Proverbs (잠언).txt", "old"),
+    "ecc": ("전도서", "전", "Ecclesiastes", "21-Ecclesiastes (전도서).txt", "old"),
+    "sol": ("아가", "아", "Song of Songs", "22-Song of Songs (아가서).txt", "old"),
+    "isa": ("이사야", "사", "Isaiah", "23-Isaiah (이사야).txt", "old"),
+    "jer": ("예레미야", "렘", "Jeremiah", "24-Jeremiah (예레미야).txt", "old"),
+    "lam": ("예레미야애가", "애", "Lamentations", "25-Lamentations (예레미야애가).txt", "old"),
+    "eze": ("에스겔", "겔", "Ezekiel", "26-Ezekiel (에스겔).txt", "old"),
+    "dan": ("다니엘", "단", "Daniel", "27-Daniel (다니엘).txt", "old"),
+    "hos": ("호세아", "호", "Hosea", "28-Hosea (호세아).txt", "old"),
+    "joe": ("요엘", "욜", "Joel", "29-Joel (요엘).txt", "old"),
+    "amo": ("아모스", "암", "Amos", "30-Amos (아모스).txt", "old"),
+    "oba": ("오바댜", "옵", "Obadiah", "31-Obadiah (오바댜).txt", "old"),
+    "jon": ("요나", "욘", "Jonah", "32-Jonah (요나).txt", "old"),
+    "mic": ("미가", "미", "Micah", "33-Micah (미가).txt", "old"),
+    "nah": ("나훔", "나", "Nahum", "34-Nahum (나훔).txt", "old"),
+    "hab": ("하박국", "합", "Habakkuk", "35-Habakkuk (하박국).txt", "old"),
+    "zep": ("스바냐", "습", "Zephaniah", "36-Zephaniah (스바냐).txt", "old"),
+    "hag": ("학개", "학", "Haggai", "37-Haggai (학개).txt", "old"),
+    "zec": ("스가랴", "슥", "Zechariah", "38-Zechariah (스가랴).txt", "old"),
+    "mal": ("말라기", "말", "Malachi", "39-Malachi (말라기).txt", "old"),
+    "mat": ("마태복음", "마", "Matthew", "40-Matthew (마태복음).txt", "new"),
+    "mar": ("마가복음", "막", "Mark", "41-Mark (마가복음).txt", "new"),
+    "luk": ("누가복음", "눅", "Luke", "42-Luke (누가복음).txt", "new"),
 }
+
 
 READING_PLAN: dict[str, list[dict[str, Any]]] = {
     "2026-06-08": [{"book": "job", "start": 29, "end": 33}],
@@ -166,24 +173,59 @@ READING_PLAN: dict[str, list[dict[str, Any]]] = {
     "2026-09-26": [{"label": "개별통독"}],
     "2026-09-27": [{"book": "nah", "start": 1, "end": 3}],
     "2026-09-28": [{"book": "hab", "start": 1, "end": 3}],
-    "2026-09-29": [{"book": "zep", "start": 1, "end": 3},
+    "2026-09-29": [
+        {"book": "zep", "start": 1, "end": 3},
         {"book": "hag", "start": 1, "end": 2},
     ],
     "2026-09-30": [{"book": "zec", "start": 1, "end": 3}],
+    "2026-10-01": [{"book": "zec", "start": 4, "end": 6}],
+    "2026-10-02": [{"book": "zec", "start": 7, "end": 10}],
+    "2026-10-03": [{"label": "개별통독"}],
+    "2026-10-04": [{"book": "zec", "start": 11, "end": 14}],
+    "2026-10-05": [{"label": "개별통독"}],
+    "2026-10-06": [{"book": "mal", "start": 1, "end": 4}],
+    "2026-10-07": [{"book": "mat", "start": 1, "end": 3}],
+    "2026-10-08": [{"book": "mat", "start": 4, "end": 6}],
+    "2026-10-09": [{"label": "개별통독"}],
+    "2026-10-10": [{"book": "mat", "start": 7, "end": 9}],
+    "2026-10-11": [{"book": "mat", "start": 10, "end": 12}],
+    "2026-10-12": [{"book": "mat", "start": 13, "end": 15}],
+    "2026-10-13": [{"book": "mat", "start": 16, "end": 18}],
+    "2026-10-14": [{"book": "mat", "start": 19, "end": 21}],
+    "2026-10-15": [{"book": "mat", "start": 22, "end": 24}],
+    "2026-10-16": [{"book": "mat", "start": 25, "end": 26}],
+    "2026-10-17": [{"book": "mat", "start": 27, "end": 28}],
+    "2026-10-18": [{"book": "mar", "start": 1, "end": 3}],
+    "2026-10-19": [{"book": "mar", "start": 4, "end": 5}],
+    "2026-10-20": [{"book": "mar", "start": 6, "end": 8}],
+    "2026-10-21": [{"book": "mar", "start": 9, "end": 11}],
+    "2026-10-22": [{"book": "mar", "start": 12, "end": 13}],
+    "2026-10-23": [{"book": "mar", "start": 14, "end": 16}],
+    "2026-10-24": [{"book": "luk", "start": 1, "end": 2}],
+    "2026-10-25": [{"book": "luk", "start": 3, "end": 5}],
+    "2026-10-26": [{"book": "luk", "start": 6, "end": 7}],
+    "2026-10-27": [{"book": "luk", "start": 8, "end": 9}],
+    "2026-10-28": [{"book": "luk", "start": 10, "end": 11}],
+    "2026-10-29": [{"book": "luk", "start": 12, "end": 13}],
+    "2026-10-30": [{"book": "luk", "start": 14, "end": 15}],
+    "2026-10-31": [{"book": "luk", "start": 16, "end": 17}],
 }
 
 
-@dataclass
+@dataclass(frozen=True)
 class Verse:
-    number: str
+    number: int
     text: str
 
 
-@dataclass
-class Chapter:
-    title: str
-    subtitles: list[str]
-    verses: list[Verse]
+@dataclass(frozen=True)
+class BilingualChapter:
+    book: str
+    korean_book_name: str
+    english_book_name: str
+    chapter_number: int
+    korean_verses: list[Verse]
+    niv_verses: list[Verse]
 
 
 def require_env(name: str) -> str:
@@ -194,7 +236,7 @@ def require_env(name: str) -> str:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Send daily Korean Bible reading email.")
+    parser = argparse.ArgumentParser(description="Send a daily Korean/NIV Bible reading email.")
     parser.add_argument("--date", default="", help="Target date in YYYY-MM-DD. Defaults to today in KST.")
     parser.add_argument("--recipient", default="", help="Recipient email override.")
     parser.add_argument("--dry-run", action="store_true", help="Generate output only without sending email.")
@@ -204,8 +246,7 @@ def parse_args() -> argparse.Namespace:
 def resolve_target_date(date_arg: str) -> str:
     if date_arg.strip():
         return date_arg.strip()
-    kst_now = datetime.now(UTC).astimezone(KST)
-    return kst_now.strftime("%Y-%m-%d")
+    return datetime.now(UTC).astimezone(KST).strftime("%Y-%m-%d")
 
 
 def get_plan_for_date(target_date: str) -> list[dict[str, Any]]:
@@ -215,113 +256,156 @@ def get_plan_for_date(target_date: str) -> list[dict[str, Any]]:
     return plan
 
 
-def chapter_file_path(book: str, chapter_number: int) -> Path:
-    _, prefix = BOOK_META[book]
-    return TEXT_DIR / f"{prefix}_ch_{chapter_number:03d}.html"
+def read_korean_bible() -> str:
+    if not KOREAN_BIBLE_PATH.exists():
+        raise FileNotFoundError(f"Korean Bible text not found: {KOREAN_BIBLE_PATH}")
+    return KOREAN_BIBLE_PATH.read_text(encoding="cp949")
 
 
-def load_chapter(book: str, chapter_number: int) -> Chapter:
-    path = chapter_file_path(book, chapter_number)
-    raw_html = path.read_text(encoding="utf-8")
-    soup = BeautifulSoup(raw_html, "html.parser")
-
-    title = soup.find("cn")
-    subtitles = [node.get_text(strip=True) for node in soup.select("div.s1, div.s2, div.s3") if node.get_text(strip=True)]
+def parse_korean_chapter(source: str, book_abbreviation: str, chapter_number: int) -> list[Verse]:
+    marker = re.compile(r"(?<![가-힣])([가-힣]{1,4})(\d+):(\d+)\s+")
+    matches = list(marker.finditer(source))
     verses: list[Verse] = []
-    for verse in soup.find_all("verse"):
-        number_node = verse.find("ver")
-        body_node = verse.find("verse_body")
-        if not number_node or not body_node:
+    for index, match in enumerate(matches):
+        if match.group(1) != book_abbreviation or int(match.group(2)) != chapter_number:
             continue
-        verses.append(
-            Verse(
-                number=number_node.get_text(strip=True),
-                text=body_node.get_text(strip=True),
-            )
-        )
-    return Chapter(
-        title=title.get_text(" ", strip=True) if title else f"{BOOK_META[book][0]} {chapter_number}",
-        subtitles=subtitles,
-        verses=verses,
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(source)
+        text = re.sub(r"\s+", " ", source[match.end():end]).strip()
+        verses.append(Verse(number=int(match.group(3)), text=text))
+    if not verses:
+        raise ValueError(f"No Korean verses found for {book_abbreviation} {chapter_number}.")
+    return verses
+
+
+def niv_book_path(book: str) -> Path:
+    _, _, _, filename, testament = BOOK_META[book]
+    directory = NIV_OLD_TESTAMENT_DIR if testament == "old" else NIV_NEW_TESTAMENT_DIR
+    return directory / filename
+
+
+def parse_niv_chapter(book: str, chapter_number: int) -> list[Verse]:
+    path = niv_book_path(book)
+    if not path.exists():
+        raise FileNotFoundError(f"NIV text not found: {path}")
+    pattern = re.compile(r"^(\d+):(\d+)\s+(.*)$")
+    verses: list[Verse] = []
+    for line in path.read_text(encoding="utf-8-sig").splitlines():
+        match = pattern.match(line.strip())
+        if match and int(match.group(1)) == chapter_number:
+            verses.append(Verse(number=int(match.group(2)), text=match.group(3).strip()))
+    if not verses:
+        raise ValueError(f"No NIV verses found for {book} {chapter_number}.")
+    return verses
+
+
+def load_chapter(korean_source: str, book: str, chapter_number: int) -> BilingualChapter:
+    korean_name, korean_abbreviation, english_name, _, _ = BOOK_META[book]
+    return BilingualChapter(
+        book=book,
+        korean_book_name=korean_name,
+        english_book_name=english_name,
+        chapter_number=chapter_number,
+        korean_verses=parse_korean_chapter(korean_source, korean_abbreviation, chapter_number),
+        niv_verses=parse_niv_chapter(book, chapter_number),
     )
 
 
-def expand_plan_entries(plan_entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    expanded: list[dict[str, Any]] = []
+def expand_plan_entries(plan_entries: list[dict[str, Any]]) -> list[BilingualChapter]:
+    if all("label" in entry for entry in plan_entries):
+        return []
+    korean_source = read_korean_bible()
+    chapters: list[BilingualChapter] = []
     for entry in plan_entries:
+        if "label" in entry:
+            continue
         for chapter_number in range(entry["start"], entry["end"] + 1):
-            expanded.append(
-                {
-                    "book": entry["book"],
-                    "book_name": BOOK_META[entry["book"]][0],
-                    "chapter_number": chapter_number,
-                    "chapter": load_chapter(entry["book"], chapter_number),
-                }
-            )
-    return expanded
+            chapters.append(load_chapter(korean_source, entry["book"], chapter_number))
+    return chapters
 
 
 def build_reference_text(plan_entries: list[dict[str, Any]]) -> str:
-    parts = []
+    parts: list[str] = []
     for entry in plan_entries:
+        if "label" in entry:
+            parts.append(entry["label"])
+            continue
         book_name = BOOK_META[entry["book"]][0]
-        if entry["start"] == entry["end"]:
-            parts.append(f"{book_name} {entry['start']}장")
-        else:
-            parts.append(f"{book_name} {entry['start']}-{entry['end']}장")
+        chapter_range = str(entry["start"]) if entry["start"] == entry["end"] else f"{entry['start']}-{entry['end']}"
+        parts.append(f"{book_name} {chapter_range}장")
     return ", ".join(parts)
 
 
-def render_chapter_html(chapter: Chapter) -> str:
-    subtitles_html = "".join(
-        f"<div style='margin:6px 0 0;color:#444;font-size:13px;font-weight:600'>{escape(subtitle)}</div>"
-        for subtitle in chapter.subtitles
+def render_verse(number: int, text: str) -> str:
+    return (
+        "<div style='margin-top:5px;line-height:1.65;font-size:14px;color:#222'>"
+        f"<strong style='color:#666'>{number}</strong>&nbsp;{escape(text)}"
+        "</div>"
     )
-    verses_html = "".join(
+
+
+def render_chapter_html(chapter: BilingualChapter) -> str:
+    korean = {verse.number: verse.text for verse in chapter.korean_verses}
+    niv = {verse.number: verse.text for verse in chapter.niv_verses}
+    verse_numbers = sorted(set(korean) | set(niv))
+    verse_rows = "".join(
         (
-            "<div style='margin-top:4px;line-height:1.7;font-size:14px;color:#222'>"
-            f"{escape(verse.number)}&nbsp;{escape(verse.text)}"
-            "</div>"
+            "<tr>"
+            "<td width='50%' valign='top' style='padding:2px 14px 7px 0;border-right:1px solid #e1e1e1'>"
+            f"{render_verse(number, korean.get(number, ''))}</td>"
+            "<td width='50%' valign='top' style='padding:2px 0 7px 14px'>"
+            f"{render_verse(number, niv.get(number, ''))}</td>"
+            "</tr>"
         )
-        for verse in chapter.verses
+        for number in verse_numbers
     )
     return (
-        "<section style='margin-top:20px;padding-top:16px;border-top:1px solid #d9d9d9'>"
-        f"<div style='font-size:18px;font-weight:700;color:#111'>{escape(chapter.title)}</div>"
-        f"{subtitles_html}"
-        f"<div style='margin-top:10px'>{verses_html}</div>"
+        "<section style='margin-top:24px;padding-top:18px;border-top:1px solid #d9d9d9'>"
+        "<table role='presentation' width='100%' cellpadding='0' cellspacing='0' style='table-layout:fixed;border-collapse:collapse'>"
+        "<tr>"
+        "<td width='50%' valign='top' style='padding:0 14px 0 0;border-right:1px solid #e1e1e1'>"
+        f"<div style='font-size:18px;font-weight:700;color:#111'>{escape(chapter.korean_book_name)} {chapter.chapter_number}장</div>"
+        "<div style='margin-top:3px;font-size:12px;color:#777'>개역개정</div>"
+        "</td>"
+        "<td width='50%' valign='top' style='padding:0 0 0 14px'>"
+        f"<div style='font-size:18px;font-weight:700;color:#111'>{escape(chapter.english_book_name)} {chapter.chapter_number}</div>"
+        "<div style='margin-top:3px;font-size:12px;color:#777'>NIV</div>"
+        "</td>"
+        "</tr>"
+        f"{verse_rows}"
+        "</table>"
         "</section>"
     )
 
 
 def render_email_html(payload: dict[str, Any]) -> str:
-    chapter_sections = "".join(render_chapter_html(item["chapter"]) for item in payload["chapters"])
+    if payload["chapters"]:
+        content = "".join(render_chapter_html(chapter) for chapter in payload["chapters"])
+        intro = "금일 성경읽기 본문을 개역개정과 NIV로 함께 전달드립니다."
+    else:
+        content = (
+            "<div style='margin-top:24px;padding:28px 20px;border:1px solid #e1e1e1;text-align:center;"
+            "font-size:16px;color:#333'>오늘은 개별통독 일정입니다.</div>"
+        )
+        intro = "금일은 개별통독 일정입니다."
     return (
         "<html><body style='margin:0;background:#ffffff;color:#111;font-family:Arial,Apple SD Gothic Neo,sans-serif'>"
-        "<div style='max-width:920px;margin:0 auto;padding:24px 20px 40px'>"
-        f"<div style='margin-top:10px;font-size:14px;line-height:1.7'>일자: {escape(payload['target_date'])}<br>본문: {escape(payload['reference'])}</div>"
-        "<div style='margin-top:16px;font-size:14px;line-height:1.7'>"
-        "안녕하세요.<br><br>"
-        "금일 성경읽기 본문을 아래와 같이 전달드립니다.<br>"
-        "</div>"
-        f"{chapter_sections}"
-        "<div style='margin-top:24px;padding-top:16px;border-top:1px solid #d9d9d9;font-size:13px;line-height:1.7;color:#555'>"
-        "감사합니다."
-        "</div>"
+        "<div style='max-width:1100px;margin:0 auto;padding:24px 20px 40px'>"
+        f"<div style='font-size:14px;line-height:1.7'>일자: {escape(payload['target_date'])}<br>본문: {escape(payload['reference'])}</div>"
+        f"<div style='margin-top:16px;font-size:14px;line-height:1.7'>안녕하세요.<br><br>{escape(intro)}</div>"
+        f"{content}"
+        "<div style='margin-top:24px;padding-top:16px;border-top:1px solid #d9d9d9;font-size:13px;line-height:1.7;color:#555'>감사합니다.</div>"
         "</div></body></html>"
     )
 
 
 def build_payload(target_date: str) -> dict[str, Any]:
     plan_entries = get_plan_for_date(target_date)
-    chapters = expand_plan_entries(plan_entries)
-    payload = {
+    return {
         "target_date": target_date,
         "reference": build_reference_text(plan_entries),
-        "chapters": chapters,
+        "chapters": expand_plan_entries(plan_entries),
         "generated_at": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
-    return payload
 
 
 def save_outputs(payload: dict[str, Any], html_body: str) -> None:
@@ -331,14 +415,14 @@ def save_outputs(payload: dict[str, Any], html_body: str) -> None:
         "generated_at": payload["generated_at"],
         "chapters": [
             {
-                "book": item["book"],
-                "book_name": item["book_name"],
-                "chapter_number": item["chapter_number"],
-                "title": item["chapter"].title,
-                "subtitles": item["chapter"].subtitles,
-                "verses": [{"number": verse.number, "text": verse.text} for verse in item["chapter"].verses],
+                "book": chapter.book,
+                "book_name": chapter.korean_book_name,
+                "english_book_name": chapter.english_book_name,
+                "chapter_number": chapter.chapter_number,
+                "korean_verses": [vars(verse) for verse in chapter.korean_verses],
+                "niv_verses": [vars(verse) for verse in chapter.niv_verses],
             }
-            for item in payload["chapters"]
+            for chapter in payload["chapters"]
         ],
     }
     LATEST_JSON_PATH.write_text(json.dumps(serializable, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -349,13 +433,11 @@ def send_email(subject: str, html_body: str, recipient_override: str) -> None:
     sender = require_env("GMAIL_USERNAME")
     password = require_env("GMAIL_APP_PASSWORD")
     recipient = recipient_override.strip() or os.getenv("BIBLE_READING_EMAIL_TO", "").strip() or sender
-
     message = MIMEMultipart("alternative")
     message["Subject"] = subject
     message["From"] = sender
     message["To"] = recipient
     message.attach(MIMEText(html_body, "html", "utf-8"))
-
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         server.login(sender, password)
@@ -368,11 +450,9 @@ def main() -> int:
     payload = build_payload(target_date)
     html_body = render_email_html(payload)
     save_outputs(payload, html_body)
-
     if args.dry_run:
         print(f"Generated Bible reading email for {target_date}.")
         return 0
-
     subject = f"성경읽기 안내 {target_date} {payload['reference']}"
     send_email(subject, html_body, args.recipient)
     print(f"Sent Bible reading email for {target_date}.")
