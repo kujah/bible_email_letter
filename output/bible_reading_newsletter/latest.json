@@ -1,383 +1,543 @@
 {
-  "target_date": "2026-10-16",
-  "reference": "마태복음 25-26장",
-  "generated_at": "2026-10-15T22:54:04Z",
+  "target_date": "2026-10-17",
+  "reference": "마태복음 27-28장",
+  "generated_at": "2026-10-16T22:33:04Z",
   "chapters": [
     {
       "book": "mat",
       "book_name": "마태복음",
       "english_book_name": "Matthew",
-      "chapter_number": 25,
+      "chapter_number": 27,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<열 처녀 비유> 그 때에 천국은 마치 등을 들고 신랑을 맞으러 나간 열 처녀와 같다 하리니"
+          "text": "<예수를 빌라도에게 넘기다(막 15:1; 눅 23:1-2; 요 18:28-32)> 새벽에 모든 대제사장과 백성의 장로들이 예수를 죽이려고 함께 의논하고"
         },
         {
           "number": 2,
-          "text": "그 중의 다섯은 미련하고 다섯은 슬기 있는 자라"
+          "text": "결박하여 끌고 가서 총독 빌라도에게 넘겨 주니라"
         },
         {
           "number": 3,
-          "text": "미련한 자들은 등을 가지되 기름을 가지지 아니하고"
+          "text": "<유다가 목매어 죽다(행 1:18-19)> 그 때에 예수를 판 유다가 그의 정죄됨을 보고 스스로 뉘우쳐 그 은 삼십을 대제사장들과 장로들에게 도로 갖다 주며"
         },
         {
           "number": 4,
-          "text": "슬기 있는 자들은 그릇에 기름을 담아 등과 함께 가져갔더니"
+          "text": "이르되 내가 무죄한 피를 팔고 죄를 범하였도다 하니 그들이 이르되 그것이 우리에게 무슨 상관이냐 네가 당하라 하거늘"
         },
         {
           "number": 5,
-          "text": "신랑이 더디 오므로 다 졸며 잘새"
+          "text": "유다가 은을 성소에 던져 넣고 물러가서 스스로 목매어 죽은지라"
         },
         {
           "number": 6,
-          "text": "밤중에 소리가 나되 보라 신랑이로다 맞으러 나오라 하매"
+          "text": "대제사장들이 그 은을 거두며 이르되 이것은 핏값이라 성전고에 넣어 둠이 옳지 않다 하고"
         },
         {
           "number": 7,
-          "text": "이에 그 처녀들이 다 일어나 등을 준비할새"
+          "text": "의논한 후 이것으로 토기장이의 밭을 사서 나그네의 묘지를 삼았으니"
         },
         {
           "number": 8,
-          "text": "미련한 자들이 슬기 있는 자들에게 이르되 우리 등불이 꺼져가니 너희 기름을 좀 나눠 달라 하거늘"
+          "text": "그러므로 오늘날까지 그 밭을 피밭이라 일컫느니라"
         },
         {
           "number": 9,
-          "text": "슬기 있는 자들이 대답하여 이르되 우리와 너희가 쓰기에 다 부족할까 하노니 차라리 파는 자들에게 가서 너희 쓸 것을 사라 하니"
+          "text": "이에 선지자 예레미야를 통하여 하신 말씀이 이루어졌나니 일렀으되 그들이 그 가격 매겨진 자 곧 이스라엘 자손 중에서 가격 매긴 자의 가격 곧 은 삼십을 가지고"
         },
         {
           "number": 10,
-          "text": "그들이 사러 간 사이에 신랑이 오므로 준비하였던 자들은 함께 혼인 잔치에 들어가고 문은 닫힌지라"
+          "text": "토기장이의 밭 값으로 주었으니 이는 주께서 내게 명하신 바와 같으니라 하였더라"
         },
         {
           "number": 11,
-          "text": "그 후에 남은 처녀들이 와서 이르되 주여 주여 우리에게 열어 주소서"
+          "text": "<십자가에 못 박히게 예수를 넘기다(막 15:2-15; 눅 23:3-5, 13-25; 요 18:33-19:16)> 예수께서 총독 앞에 섰으매 총독이 물어 이르되 네가 유대인의 왕이냐 예수께서 대답하시되 네 말이 옳도다 하시고"
         },
         {
           "number": 12,
-          "text": "대답하여 이르되 진실로 너희에게 이르노니 내가 너희를 알지 못하노라 하였느니라"
+          "text": "대제사장들과 장로들에게 고발을 당하되 아무 대답도 아니하시는지라"
         },
         {
           "number": 13,
-          "text": "그런즉 깨어 있으라 너희는 그 날과 그 때를 알지 못하느니라"
+          "text": "이에 빌라도가 이르되 그들이 너를 쳐서 얼마나 많은 것으로 증언하는지 듣지 못하느냐 하되"
         },
         {
           "number": 14,
-          "text": "<달란트 비유(눅 19:11-27)> 또 어떤 사람이 타국에 갈 때 그 종들을 불러 자기 소유를 맡김과 같으니"
+          "text": "한 마디도 대답하지 아니하시니 총독이 크게 놀라워하더라"
         },
         {
           "number": 15,
-          "text": "각각 그 재능대로 한 사람에게는 금 다섯 달란트를, 한 사람에게는 두 달란트를, 한 사람에게는 한 달란트를 주고 떠났더니"
+          "text": "명절이 되면 총독이 무리의 청원대로 죄수 한 사람을 놓아 주는 전례가 있더니"
         },
         {
           "number": 16,
-          "text": "다섯 달란트 받은 자는 바로 가서 그것으로 장사하여 또 다섯 달란트를 남기고"
+          "text": "그 때에 바라바라 하는 유명한 죄수가 있는데"
         },
         {
           "number": 17,
-          "text": "두 달란트 받은 자도 그같이 하여 또 두 달란트를 남겼으되"
+          "text": "그들이 모였을 때에 빌라도가 물어 이르되 너희는 내가 누구를 너희에게 놓아 주기를 원하느냐 바라바냐 그리스도라 하는 예수냐 하니"
         },
         {
           "number": 18,
-          "text": "한 달란트 받은 자는 가서 땅을 파고 그 주인의 돈을 감추어 두었더니"
+          "text": "이는 그가 그들의 시기로 예수를 넘겨 준 줄 앎이더라"
         },
         {
           "number": 19,
-          "text": "오랜 후에 그 종들의 주인이 돌아와 그들과 결산할새"
+          "text": "총독이 재판석에 앉았을 때에 그의 아내가 사람을 보내어 이르되 저 옳은 사람에게 아무 상관도 하지 마옵소서 오늘 꿈에 내가 그 사람으로 인하여 애를 많이 태웠나이다 하더라"
         },
         {
           "number": 20,
-          "text": "다섯 달란트 받았던 자는 다섯 달란트를 더 가지고 와서 이르되 주인이여 내게 다섯 달란트를 주셨는데 보소서 내가 또 다섯 달란트를 남겼나이다"
+          "text": "대제사장들과 장로들이 무리를 권하여 바라바를 달라 하게 하고 예수를 죽이자 하게 하였더니"
         },
         {
           "number": 21,
-          "text": "그 주인이 이르되 잘하였도다 착하고 충성된 종아 네가 적은 일에 충성하였으매 내가 많은 것을 네게 맡기리니 네 주인의 즐거움에 참여할지어다 하고"
+          "text": "총독이 대답하여 이르되 둘 중의 누구를 너희에게 놓아 주기를 원하느냐 이르되 바라바로소이다"
         },
         {
           "number": 22,
-          "text": "두 달란트 받았던 자도 와서 이르되 주인이여 내게 두 달란트를 주셨는데 보소서 내가 또 두 달란트를 남겼나이다"
+          "text": "빌라도가 이르되 그러면 그리스도라 하는 예수를 내가 어떻게 하랴 그들이 다 이르되 십자가에 못 박혀야 하겠나이다"
         },
         {
           "number": 23,
-          "text": "그 주인이 이르되 잘하였도다 착하고 충성된 종아 네가 적은 일에 충성하였으매 내가 많은 것을 네게 맡기리니 네 주인의 즐거움에 참여할지어다 하고"
+          "text": "빌라도가 이르되 어찜이냐 무슨 악한 일을 하였느냐 그들이 더욱 소리 질러 이르되 십자가에 못 박혀야 하겠나이다 하는지라"
         },
         {
           "number": 24,
-          "text": "한 달란트 받았던 자는 와서 이르되 주인이여 당신은 굳은 사람이라 심지 않은 데서 거두고 헤치지 않은 데서 모으는 줄을 내가 알았으므로"
+          "text": "빌라도가 아무 성과도 없이 도리어 민란이 나려는 것을 보고 물을 가져다가 무리 앞에서 손을 씻으며 이르되 이 사람의 피에 대하여 나는 무죄하니 너희가 당하라"
         },
         {
           "number": 25,
-          "text": "두려워하여 나가서 당신의 달란트를 땅에 감추어 두었었나이다 보소서 당신의 것을 가지셨나이다"
+          "text": "백성이 다 대답하여 이르되 그 피를 우리와 우리 자손에게 돌릴지어다 하거늘"
         },
         {
           "number": 26,
-          "text": "그 주인이 대답하여 이르되 악하고 게으른 종아 나는 심지 않은 데서 거두고 헤치지 않은 데서 모으는 줄로 네가 알았느냐"
+          "text": "이에 바라바는 그들에게 놓아 주고 예수는 채찍질하고 십자가에 못 박히게 넘겨 주니라"
         },
         {
           "number": 27,
-          "text": "그러면 네가 마땅히 내 돈을 취리하는 자들에게나 맡겼다가 내가 돌아와서 내 원금과 이자를 받게 하였을 것이니라 하고"
+          "text": "<군병들이 예수를 희롱하다(막 15:16-20; 요 19:2-3)> 이에 총독의 군병들이 예수를 데리고 관정 안으로 들어가서 온 군대를 그에게로 모으고"
         },
         {
           "number": 28,
-          "text": "그에게서 그 한 달란트를 빼앗아 열 달란트 가진 자에게 주라"
+          "text": "그의 옷을 벗기고 홍포를 입히며"
         },
         {
           "number": 29,
-          "text": "무릇 있는 자는 받아 풍족하게 되고 없는 자는 그 있는 것까지 빼앗기리라"
+          "text": "가시관을 엮어 그 머리에 씌우고 갈대를 그 오른손에 들리고 그 앞에서 무릎을 꿇고 희롱하여 이르되 유대인의 왕이여 평안할지어다 하며"
         },
         {
           "number": 30,
-          "text": "이 무익한 종을 바깥 어두운 데로 내쫓으라 거기서 슬피 울며 이를 갈리라 하니라"
+          "text": "그에게 침 뱉고 갈대를 빼앗아 그의 머리를 치더라"
         },
         {
           "number": 31,
-          "text": "<인자가 모든 천사와 함께 올 때> 인자가 자기 영광으로 모든 천사와 함께 올 때에 자기 영광의 보좌에 앉으리니"
+          "text": "희롱을 다 한 후 홍포를 벗기고 도로 그의 옷을 입혀 십자가에 못 박으려고 끌고 나가니라"
         },
         {
           "number": 32,
-          "text": "모든 민족을 그 앞에 모으고 각각 구분하기를 목자가 양과 염소를 구분하는 것 같이 하여"
+          "text": "<십자가에 못 박히시다(막 15:21-32; 눅 23:26-43; 요 19:17-27)> 나가다가 시몬이란 구레네 사람을 만나매 그에게 예수의 십자가를 억지로 지워 가게 하였더라"
         },
         {
           "number": 33,
-          "text": "양은 그 오른편에 염소는 왼편에 두리라"
+          "text": "골고다 즉 해골의 곳이라는 곳에 이르러"
         },
         {
           "number": 34,
-          "text": "그 때에 임금이 그 오른편에 있는 자들에게 이르시되 내 아버지께 복 받을 자들이여 나아와 창세로부터 너희를 위하여 예비된 나라를 상속받으라"
+          "text": "쓸개 탄 포도주를 예수께 주어 마시게 하려 하였더니 예수께서 맛보시고 마시고자 하지 아니하시더라"
         },
         {
           "number": 35,
-          "text": "내가 주릴 때에 너희가 먹을 것을 주었고 목마를 때에 마시게 하였고 나그네 되었을 때에 영접하였고"
+          "text": "그들이 예수를 십자가에 못 박은 후에 그 옷을 제비 뽑아 나누고"
         },
         {
           "number": 36,
-          "text": "헐벗었을 때에 옷을 입혔고 병들었을 때에 돌보았고 옥에 갇혔을 때에 와서 보았느니라"
+          "text": "거기 앉아 지키더라"
         },
         {
           "number": 37,
-          "text": "이에 의인들이 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것을 보고 음식을 대접하였으며 목마르신 것을 보고 마시게 하였나이까"
+          "text": "그 머리 위에 이는 유대인의 왕 예수라 쓴 죄패를 붙였더라"
         },
         {
           "number": 38,
-          "text": "어느 때에 나그네 되신 것을 보고 영접하였으며 헐벗으신 것을 보고 옷 입혔나이까"
+          "text": "이 때에 예수와 함께 강도 둘이 십자가에 못 박히니 하나는 우편에, 하나는 좌편에 있더라"
         },
         {
           "number": 39,
-          "text": "어느 때에 병드신 것이나 옥에 갇히신 것을 보고 가서 뵈었나이까 하리니"
+          "text": "지나가는 자들은 자기 머리를 흔들며 예수를 모욕하여"
         },
         {
           "number": 40,
-          "text": "임금이 대답하여 이르시되 내가 진실로 너희에게 이르노니 너희가 여기 내 형제 중에 지극히 작은 자 하나에게 한 것이 곧 내게 한 것이니라 하시고"
+          "text": "이르되 성전을 헐고 사흘에 짓는 자여 네가 만일 하나님의 아들이어든 자기를 구원하고 십자가에서 내려오라 하며"
         },
         {
           "number": 41,
-          "text": "또 왼편에 있는 자들에게 이르시되 저주를 받은 자들아 나를 떠나 마귀와 그 사자들을 위하여 예비된 영원한 불에 들어가라"
+          "text": "그와 같이 대제사장들도 서기관들과 장로들과 함께 희롱하여 이르되"
         },
         {
           "number": 42,
-          "text": "내가 주릴 때에 너희가 먹을 것을 주지 아니하였고 목마를 때에 마시게 하지 아니하였고"
+          "text": "그가 남은 구원하였으되 자기는 구원할 수 없도다 그가 이스라엘의 왕이로다 지금 십자가에서 내려올지어다 그리하면 우리가 믿겠노라"
         },
         {
           "number": 43,
-          "text": "나그네 되었을 때에 영접하지 아니하였고 헐벗었을 때에 옷 입히지 아니하였고 병들었을 때와 옥에 갇혔을 때에 돌보지 아니하였느니라 하시니"
+          "text": "그가 하나님을 신뢰하니 하나님이 원하시면 이제 그를 구원하실지라 그의 말이 나는 하나님의 아들이라 하였도다 하며"
         },
         {
           "number": 44,
-          "text": "그들도 대답하여 이르되 주여 우리가 어느 때에 주께서 주리신 것이나 목마르신 것이나 나그네 되신 것이나 헐벗으신 것이나 병드신 것이나 옥에 갇히신 것을 보고 공양하지 아니하더이까"
+          "text": "함께 십자가에 못 박힌 강도들도 이와 같이 욕하더라"
         },
         {
           "number": 45,
-          "text": "이에 임금이 대답하여 이르시되 내가 진실로 너희에게 이르노니 이 지극히 작은 자 하나에게 하지 아니한 것이 곧 내게 하지 아니한 것이니라 하시리니"
+          "text": "<영혼이 떠나시다(막 15:33-41; 눅 23:44-49; 요 19:28-30)> 제육시로부터 온 땅에 어둠이 임하여 제구시까지 계속되더니"
         },
         {
           "number": 46,
-          "text": "그들은 영벌에, 의인들은 영생에 들어가리라 하시니라"
+          "text": "제구시쯤에 예수께서 크게 소리 질러 이르시되 엘리 엘리 라마 사박다니 하시니 이는 곧 나의 하나님, 나의 하나님, 어찌하여 나를 버리셨나이까 하는 뜻이라"
+        },
+        {
+          "number": 47,
+          "text": "거기 섰던 자 중 어떤 이들이 듣고 이르되 이 사람이 엘리야를 부른다 하고"
+        },
+        {
+          "number": 48,
+          "text": "그 중의 한 사람이 곧 달려가서 해면을 가져다가 신 포도주에 적시어 갈대에 꿰어 마시게 하거늘"
+        },
+        {
+          "number": 49,
+          "text": "그 남은 사람들이 이르되 가만 두라 엘리야가 와서 그를 구원하나 보자 하더라3)"
+        },
+        {
+          "number": 50,
+          "text": "예수께서 다시 크게 소리 지르시고 영혼이 떠나시니라"
+        },
+        {
+          "number": 51,
+          "text": "이에 성소 휘장이 위로부터 아래까지 찢어져 둘이 되고 땅이 진동하며 바위가 터지고"
+        },
+        {
+          "number": 52,
+          "text": "무덤들이 열리며 자던 성도의 몸이 많이 일어나되"
+        },
+        {
+          "number": 53,
+          "text": "예수의 부활 후에 그들이 무덤에서 나와서 거룩한 성에 들어가 많은 사람에게 보이니라"
+        },
+        {
+          "number": 54,
+          "text": "백부장과 및 함께 예수를 지키던 자들이 지진과 그 일어난 일들을 보고 심히 두려워하여 이르되 이는 진실로 하나님의 아들이었도다 하더라"
+        },
+        {
+          "number": 55,
+          "text": "예수를 섬기며 갈릴리에서부터 따라온 많은 여자가 거기 있어 멀리서 바라보고 있으니"
+        },
+        {
+          "number": 56,
+          "text": "그 중에는 막달라 마리아와 또 야고보와 요셉의 어머니 마리아와 또 세베대의 아들들의 어머니도 있더라"
+        },
+        {
+          "number": 57,
+          "text": "<요셉이 예수의 시체를 무덤에 넣어 두다(막 15:42-47; 눅 23:50-56; 요 19:38-42)> 저물었을 때에 아리마대의 부자 요셉이라 하는 사람이 왔으니 그도 예수의 제자라"
+        },
+        {
+          "number": 58,
+          "text": "빌라도에게 가서 예수의 시체를 달라 하니 이에 빌라도가 내주라 명령하거늘"
+        },
+        {
+          "number": 59,
+          "text": "요셉이 시체를 가져다가 깨끗한 세마포로 싸서"
+        },
+        {
+          "number": 60,
+          "text": "바위 속에 판 자기 새 무덤에 넣어 두고 큰 돌을 굴려 무덤 문에 놓고 가니"
+        },
+        {
+          "number": 61,
+          "text": "거기 막달라 마리아와 다른 마리아가 무덤을 향하여 앉았더라"
+        },
+        {
+          "number": 62,
+          "text": "<경비병이 무덤을 지키다> 그 이튿날은 준비일 다음 날이라 대제사장들과 바리새인들이 함께 빌라도에게 모여 이르되"
+        },
+        {
+          "number": 63,
+          "text": "주여 저 속이던 자가 살아 있을 때에 말하되 내가 사흘 후에 다시 살아나리라 한 것을 우리가 기억하노니"
+        },
+        {
+          "number": 64,
+          "text": "그러므로 명령하여 그 무덤을 사흘까지 굳게 지키게 하소서 그의 제자들이 와서 시체를 도둑질하여 가고 백성에게 말하되 그가 죽은 자 가운데서 살아났다 하면 후의 속임이 전보다 더 클까 하나이다 하니"
+        },
+        {
+          "number": 65,
+          "text": "빌라도가 이르되 너희에게 경비병이 있으니 가서 힘대로 굳게 지키라 하거늘"
+        },
+        {
+          "number": 66,
+          "text": "그들이 경비병과 함께 가서 돌을 인봉하고 무덤을 굳게 지키니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "\"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom."
+          "text": "Early in the morning, all the chief priests and the elders of the people came to the decision to put Jesus to death."
         },
         {
           "number": 2,
-          "text": "Five of them were foolish and five were wise."
+          "text": "They bound him, led him away and handed him over to Pilate, the governor."
         },
         {
           "number": 3,
-          "text": "The foolish ones took their lamps but did not take any oil with them."
+          "text": "When Judas, who had betrayed him, saw that Jesus was condemned, he was seized with remorse and returned the thirty silver coins to the chief priests and the elders."
         },
         {
           "number": 4,
-          "text": "The wise, however, took oil in jars along with their lamps."
+          "text": "\"I have sinned,\" he said, \"for I have betrayed innocent blood.\" \"What is that to us?\" they replied. \"That's your responsibility.\""
         },
         {
           "number": 5,
-          "text": "The bridegroom was a long time in coming, and they all became drowsy and fell asleep."
+          "text": "So Judas threw the money into the temple and left. Then he went away and hanged himself."
         },
         {
           "number": 6,
-          "text": "\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'"
+          "text": "The chief priests picked up the coins and said, \"It is against the law to put this into the treasury, since it is blood money.\""
         },
         {
           "number": 7,
-          "text": "\"Then all the virgins woke up and trimmed their lamps."
+          "text": "So they decided to use the money to buy the potter's field as a burial place for foreigners."
         },
         {
           "number": 8,
-          "text": "The foolish ones said to the wise, 'Give us some of your oil; our lamps are going out.'"
+          "text": "That is why it has been called the Field of Blood to this day."
         },
         {
           "number": 9,
-          "text": "\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'"
+          "text": "Then what was spoken by Jeremiah the prophet was fulfilled: \"They took the thirty silver coins, the price set on him by the people of Israel,"
         },
         {
           "number": 10,
-          "text": "\"But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut."
+          "text": "and they used them to buy the potter's field, as the Lord commanded me.\""
         },
         {
           "number": 11,
-          "text": "\"Later the others also came. 'Sir! Sir!' they said. 'Open the door for us!'"
+          "text": "Meanwhile Jesus stood before the governor, and the governor asked him, \"Are you the king of the Jews?\" \"Yes, it is as you say,\" Jesus replied."
         },
         {
           "number": 12,
-          "text": "\"But he replied, 'I tell you the truth, I don't know you.'"
+          "text": "When he was accused by the chief priests and the elders, he gave no answer."
         },
         {
           "number": 13,
-          "text": "\"Therefore keep watch, because you do not know the day or the hour."
+          "text": "Then Pilate asked him, \"Don't you hear the testimony they are bringing against you?\""
         },
         {
           "number": 14,
-          "text": "\"Again, it will be like a man going on a journey, who called his servants and entrusted his property to them."
+          "text": "But Jesus made no reply, not even to a single charge--to the great amazement of the governor."
         },
         {
           "number": 15,
-          "text": "To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey."
+          "text": "Now it was the governor's custom at the Feast to release a prisoner chosen by the crowd."
         },
         {
           "number": 16,
-          "text": "The man who had received the five talents went at once and put his money to work and gained five more."
+          "text": "At that time they had a notorious prisoner, called Barabbas."
         },
         {
           "number": 17,
-          "text": "So also, the one with the two talents gained two more."
+          "text": "So when the crowd had gathered, Pilate asked them, \"Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?\""
         },
         {
           "number": 18,
-          "text": "But the man who had received the one talent went off, dug a hole in the ground and hid his master's money."
+          "text": "For he knew it was out of envy that they had handed Jesus over to him."
         },
         {
           "number": 19,
-          "text": "\"After a long time the master of those servants returned and settled accounts with them."
+          "text": "While Pilate was sitting on the judge's seat, his wife sent him this message: \"Don't have anything to do with that innocent man, for I have suffered a great deal today in a dream because of him.\""
         },
         {
           "number": 20,
-          "text": "The man who had received the five talents brought the other five. 'Master,' he said, 'you entrusted me with five talents. See, I have gained five more.'"
+          "text": "But the chief priests and the elders persuaded the crowd to ask for Barabbas and to have Jesus executed."
         },
         {
           "number": 21,
-          "text": "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'"
+          "text": "\"Which of the two do you want me to release to you?\" asked the governor. \"Barabbas,\" they answered."
         },
         {
           "number": 22,
-          "text": "\"The man with the two talents also came. 'Master,' he said, 'you entrusted me with two talents; see, I have gained two more.'"
+          "text": "\"What shall I do, then, with Jesus who is called Christ?\" Pilate asked. They all answered, \"Crucify him!\""
         },
         {
           "number": 23,
-          "text": "\"His master replied, 'Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!'"
+          "text": "\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\""
         },
         {
           "number": 24,
-          "text": "\"Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed."
+          "text": "When Pilate saw that he was getting nowhere, but that instead an uproar was starting, he took water and washed his hands in front of the crowd. \"I am innocent of this man's blood,\" he said. \"It is your responsibility!\""
         },
         {
           "number": 25,
-          "text": "So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.'"
+          "text": "All the people answered, \"Let his blood be on us and on our children!\""
         },
         {
           "number": 26,
-          "text": "\"His master replied, 'You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed?"
+          "text": "Then he released Barabbas to them. But he had Jesus flogged, and handed him over to be crucified."
         },
         {
           "number": 27,
-          "text": "Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest."
+          "text": "Then the governor's soldiers took Jesus into the Praetorium and gathered the whole company of soldiers around him."
         },
         {
           "number": 28,
-          "text": "\"'Take the talent from him and give it to the one who has the ten talents."
+          "text": "They stripped him and put a scarlet robe on him,"
         },
         {
           "number": 29,
-          "text": "For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him."
+          "text": "and then twisted together a crown of thorns and set it on his head. They put a staff in his right hand and knelt in front of him and mocked him. \"Hail, king of the Jews!\" they said."
         },
         {
           "number": 30,
-          "text": "And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.'"
+          "text": "They spit on him, and took the staff and struck him on the head again and again."
         },
         {
           "number": 31,
-          "text": "\"When the Son of Man comes in his glory, and all the angels with him, he will sit on his throne in heavenly glory."
+          "text": "After they had mocked him, they took off the robe and put his own clothes on him. Then they led him away to crucify him."
         },
         {
           "number": 32,
-          "text": "All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats."
+          "text": "As they were going out, they met a man from Cyrene, named Simon, and they forced him to carry the cross."
         },
         {
           "number": 33,
-          "text": "He will put the sheep on his right and the goats on his left."
+          "text": "They came to a place called Golgotha (which means The Place of the Skull)."
         },
         {
           "number": 34,
-          "text": "\"Then the King will say to those on his right, 'Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world."
+          "text": "There they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it."
         },
         {
           "number": 35,
-          "text": "For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,"
+          "text": "When they had crucified him, they divided up his clothes by casting lots."
         },
         {
           "number": 36,
-          "text": "I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.'"
+          "text": "And sitting down, they kept watch over him there."
         },
         {
           "number": 37,
-          "text": "\"Then the righteous will answer him, 'Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?"
+          "text": "Above his head they placed the written charge against him: THIS IS JESUS, THE KING OF THE JEWS."
         },
         {
           "number": 38,
-          "text": "When did we see you a stranger and invite you in, or needing clothes and clothe you?"
+          "text": "Two robbers were crucified with him, one on his right and one on his left."
         },
         {
           "number": 39,
-          "text": "When did we see you sick or in prison and go to visit you?'"
+          "text": "Those who passed by hurled insults at him, shaking their heads"
         },
         {
           "number": 40,
-          "text": "\"The King will reply, 'I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.'"
+          "text": "and saying, \"You who are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God!\""
         },
         {
           "number": 41,
-          "text": "\"Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels."
+          "text": "In the same way the chief priests, the teachers of the law and the elders mocked him."
         },
         {
           "number": 42,
-          "text": "For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,"
+          "text": "\"He saved others,\" they said, \"but he can't save himself! He's the King of Israel! Let him come down now from the cross, and we will believe in him."
         },
         {
           "number": 43,
-          "text": "I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.'"
+          "text": "He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.'\""
         },
         {
           "number": 44,
-          "text": "\"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'"
+          "text": "In the same way the robbers who were crucified with him also heaped insults on him."
         },
         {
           "number": 45,
-          "text": "\"He will reply, 'I tell you the truth, whatever you did not do for one of the least of these, you did not do for me.'"
+          "text": "From the sixth hour until the ninth hour darkness came over all the land."
         },
         {
           "number": 46,
-          "text": "\"Then they will go away to eternal punishment, but the righteous to eternal life.\""
+          "text": "About the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\""
+        },
+        {
+          "number": 47,
+          "text": "When some of those standing there heard this, they said, \"He's calling Elijah.\""
+        },
+        {
+          "number": 48,
+          "text": "Immediately one of them ran and got a sponge. He filled it with wine vinegar, put it on a stick, and offered it to Jesus to drink."
+        },
+        {
+          "number": 49,
+          "text": "The rest said, \"Now leave him alone. Let's see if Elijah comes to save him.\""
+        },
+        {
+          "number": 50,
+          "text": "And when Jesus had cried out again in a loud voice, he gave up his spirit."
+        },
+        {
+          "number": 51,
+          "text": "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook and the rocks split."
+        },
+        {
+          "number": 52,
+          "text": "The tombs broke open and the bodies of many holy people who had died were raised to life."
+        },
+        {
+          "number": 53,
+          "text": "They came out of the tombs, and after Jesus' resurrection they went into the holy city and appeared to many people."
+        },
+        {
+          "number": 54,
+          "text": "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified, and exclaimed, \"Surely he was the Son of God!\""
+        },
+        {
+          "number": 55,
+          "text": "Many women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs."
+        },
+        {
+          "number": 56,
+          "text": "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons."
+        },
+        {
+          "number": 57,
+          "text": "As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus."
+        },
+        {
+          "number": 58,
+          "text": "Going to Pilate, he asked for Jesus' body, and Pilate ordered that it be given to him."
+        },
+        {
+          "number": 59,
+          "text": "Joseph took the body, wrapped it in a clean linen cloth,"
+        },
+        {
+          "number": 60,
+          "text": "and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away."
+        },
+        {
+          "number": 61,
+          "text": "Mary Magdalene and the other Mary were sitting there opposite the tomb."
+        },
+        {
+          "number": 62,
+          "text": "The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate."
+        },
+        {
+          "number": 63,
+          "text": "\"Sir,\" they said, \"we remember that while he was still alive that deceiver said, 'After three days I will rise again.'"
+        },
+        {
+          "number": 64,
+          "text": "So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.\""
+        },
+        {
+          "number": 65,
+          "text": "\"Take a guard,\" Pilate answered. \"Go, make the tomb as secure as you know how.\""
+        },
+        {
+          "number": 66,
+          "text": "So they went and made the tomb secure by putting a seal on the stone and posting the guard."
         }
       ]
     },
@@ -385,609 +545,165 @@
       "book": "mat",
       "book_name": "마태복음",
       "english_book_name": "Matthew",
-      "chapter_number": 26,
+      "chapter_number": 28,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<예수를 죽이려고 의논하다(막 14:1-2; 눅 22:1-2; 요 11:45-53)> 예수께서 이 말씀을 다 마치시고 제자들에게 이르시되"
+          "text": "<살아나시다(막 16:1-8; 눅 24:1-12; 요 20:1-10)> 안식일이 다 지나고 안식 후 첫날이 되려는 새벽에 막달라 마리아와 다른 마리아가 무덤을 보려고 갔더니"
         },
         {
           "number": 2,
-          "text": "너희가 아는 바와 같이 이틀이 지나면 유월절이라 인자가 십자가에 못 박히기 위하여 팔리리라 하시더라"
+          "text": "큰 지진이 나며 주의 천사가 하늘로부터 내려와 돌을 굴려 내고 그 위에 앉았는데"
         },
         {
           "number": 3,
-          "text": "그 때에 대제사장들과 백성의 장로들이 가야바라 하는 대제사장의 관정에 모여"
+          "text": "그 형상이 번개 같고 그 옷은 눈 같이 희거늘"
         },
         {
           "number": 4,
-          "text": "예수를 흉계로 잡아 죽이려고 의논하되"
+          "text": "지키던 자들이 그를 무서워하여 떨며 죽은 사람과 같이 되었더라"
         },
         {
           "number": 5,
-          "text": "말하기를 민란이 날까 하노니 명절에는 하지 말자 하더라"
+          "text": "천사가 여자들에게 말하여 이르되 너희는 무서워하지 말라 십자가에 못 박히신 예수를 너희가 찾는 줄을 내가 아노라"
         },
         {
           "number": 6,
-          "text": "<예수의 머리에 향유를 붓다(막 14:3-9; 요 12:1-8)> 예수께서 베다니 나병환자 시몬의 집에 계실 때에"
+          "text": "그가 여기 계시지 않고 그가 말씀 하시던 대로 살아나셨느니라 와서 그가 누우셨던 곳을 보라"
         },
         {
           "number": 7,
-          "text": "한 여자가 매우 귀한 향유 한 옥합을 가지고 나아와서 식사하시는 예수의 머리에 부으니"
+          "text": "또 빨리 가서 그의 제자들에게 이르되 그가 죽은 자 가운데서 살아나셨고 너희보다 먼저 갈릴리로 가시나니 거기서 너희가 뵈오리라 하라 보라 내가 너희에게 일렀느니라 하거늘"
         },
         {
           "number": 8,
-          "text": "제자들이 보고 분개하여 이르되 무슨 의도로 이것을 허비하느냐"
+          "text": "그 여자들이 무서움과 큰 기쁨으로 빨리 무덤을 떠나 제자들에게 알리려고 달음질할새"
         },
         {
           "number": 9,
-          "text": "이것을 비싼 값에 팔아 가난한 자들에게 줄 수 있었겠도다 하거늘"
+          "text": "예수께서 그들을 만나 이르시되 평안하냐 하시거늘 여자들이 나아가 그 발을 붙잡고 경배하니"
         },
         {
           "number": 10,
-          "text": "예수께서 아시고 그들에게 이르시되 너희가 어찌하여 이 여자를 괴롭게 하느냐 그가 내게 좋은 일을 하였느니라"
+          "text": "이에 예수께서 이르시되 무서워하지 말라 가서 내 형제들에게 갈릴리로 가라 하라 거기서 나를 보리라 하시니라"
         },
         {
           "number": 11,
-          "text": "가난한 자들은 항상 너희와 함께 있거니와 나는 항상 함께 있지 아니하리라"
+          "text": "<경비병의 보고> 여자들이 갈 때 경비병 중 몇이 성에 들어가 모든 된 일을 대제사장들에게 알리니"
         },
         {
           "number": 12,
-          "text": "이 여자가 내 몸에 이 향유를 부은 것은 내 장례를 위하여 함이니라"
+          "text": "그들이 장로들과 함께 모여 의논하고 군인들에게 돈을 많이 주며"
         },
         {
           "number": 13,
-          "text": "내가 진실로 너희에게 이르노니 온 천하에 어디서든지 이 복음이 전파되는 곳에서는 이 여자가 행한 일도 말하여 그를 기억하리라 하시니라"
+          "text": "이르되 너희는 말하기를 그의 제자들이 밤에 와서 우리가 잘 때에 그를 도둑질하여 갔다 하라"
         },
         {
           "number": 14,
-          "text": "<유다가 배반하다(막 14:10-11; 눅 22:3-6)> 그 때에 열둘 중의 하나인 가룟 유다라 하는 자가 대제사장들에게 가서 말하되"
+          "text": "만일 이 말이 총독에게 들리면 우리가 권하여 너희로 근심하지 않게 하리라 하니"
         },
         {
           "number": 15,
-          "text": "내가 예수를 너희에게 넘겨 주리니 얼마나 주려느냐 하니 그들이 은 삼십을 달아 주거늘"
+          "text": "군인들이 돈을 받고 가르친 대로 하였으니 이 말이 오늘날까지 유대인 가운데 두루 퍼지니라"
         },
         {
           "number": 16,
-          "text": "그가 그 때부터 예수를 넘겨 줄 기회를 찾더라"
+          "text": "<제자들에게 할 일을 분부하시다(막 16:14-18; 눅 24:36-49; 요 20:19-23; 행 1:6-8)> 열한 제자가 갈릴리에 가서 예수께서 지시하신 산에 이르러"
         },
         {
           "number": 17,
-          "text": "<마지막 만찬(막 14:12-26; 눅 22:7-23; 요 13:21-30; 고전 11:23-25)> 무교절의 첫날에 제자들이 예수께 나아와서 이르되 유월절 음식 잡수실 것을 우리가 어디서 준비하기를 원하시나이까"
+          "text": "예수를 뵈옵고 경배하나 아직도 의심하는 사람들이 있더라"
         },
         {
           "number": 18,
-          "text": "이르시되 성안 아무에게 가서 이르되 선생님 말씀이 내 때가 가까이 왔으니 내 제자들과 함께 유월절을 네 집에서 지키겠다 하시더라 하라 하시니"
+          "text": "예수께서 나아와 말씀하여 이르시되 하늘과 땅의 모든 권세를 내게 주셨으니"
         },
         {
           "number": 19,
-          "text": "제자들이 예수께서 시키신 대로 하여 유월절을 준비하였더라"
+          "text": "그러므로 너희는 가서 모든 민족을 제자로 삼아 아버지와 아들과 성령의 이름으로 세례를 베풀고"
         },
         {
           "number": 20,
-          "text": "저물 때에 예수께서 열두 제자와 함께 앉으셨더니"
-        },
-        {
-          "number": 21,
-          "text": "그들이 먹을 때에 이르시되 내가 진실로 너희에게 이르노니 너희 중의 한 사람이 나를 팔리라 하시니"
-        },
-        {
-          "number": 22,
-          "text": "그들이 몹시 근심하여 각각 여짜오되 주여 나는 아니지요"
-        },
-        {
-          "number": 23,
-          "text": "대답하여 이르시되 나와 함께 그릇에 손을 넣는 그가 나를 팔리라"
-        },
-        {
-          "number": 24,
-          "text": "인자는 자기에 대하여 기록된 대로 가거니와 인자를 파는 그 사람에게는 화가 있으리로다 그 사람은 차라리 태어나지 아니하였더라면 제게 좋을 뻔하였느니라"
-        },
-        {
-          "number": 25,
-          "text": "예수를 파는 유다가 대답하여 이르되 랍비여 나는 아니지요 대답하시되 네가 말하였도다 하시니라"
-        },
-        {
-          "number": 26,
-          "text": "그들이 먹을 때에 예수께서 떡을 가지사 축복하시고 떼어 제자들에게 주시며 이르시되 받아서 먹으라 이것은 내 몸이니라 하시고"
-        },
-        {
-          "number": 27,
-          "text": "또 잔을 가지사 감사 기도 하시고 그들에게 주시며 이르시되 너희가 다 이것을 마시라"
-        },
-        {
-          "number": 28,
-          "text": "이것은 죄 사함을 얻게 하려고 많은 사람을 위하여 흘리는 바 나의 피 곧 언약의 피니라"
-        },
-        {
-          "number": 29,
-          "text": "그러나 너희에게 이르노니 내가 포도나무에서 난 것을 이제부터 내 아버지의 나라에서 새것으로 너희와 함께 마시는 날까지 마시지 아니하리라 하시니라"
-        },
-        {
-          "number": 30,
-          "text": "이에 그들이 찬미하고 감람 산으로 나아가니라"
-        },
-        {
-          "number": 31,
-          "text": "<베드로가 부인할 것을 예언하시다(막 14:27-31; 눅 22:31-34; 요 13:36-38)> 그 때에 예수께서 제자들에게 이르시되 오늘 밤에 너희가 다 나를 버리리라 기록된 바 내가 목자를 치리니 양의 떼가 흩어지리라 하였느니라"
-        },
-        {
-          "number": 32,
-          "text": "그러나 내가 살아난 후에 너희보다 먼저 갈릴리로 가리라"
-        },
-        {
-          "number": 33,
-          "text": "베드로가 대답하여 이르되 모두 주를 버릴지라도 나는 결코 버리지 않겠나이다"
-        },
-        {
-          "number": 34,
-          "text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 밤 닭 울기 전에 네가 세 번 나를 부인하리라"
-        },
-        {
-          "number": 35,
-          "text": "베드로가 이르되 내가 주와 함께 죽을지언정 주를 부인하지 않겠나이다 하고 모든 제자도 그와 같이 말하니라"
-        },
-        {
-          "number": 36,
-          "text": "<겟세마네에서 기도하시다(막 14:32-42; 눅 22:39-46)> 이에 예수께서 제자들과 함께 겟세마네라 하는 곳에 이르러 제자들에게 이르시되 내가 저기 가서 기도할 동안에 너희는 여기 앉아 있으라 하시고"
-        },
-        {
-          "number": 37,
-          "text": "베드로와 세베대의 두 아들을 데리고 가실새 고민하고 슬퍼하사"
-        },
-        {
-          "number": 38,
-          "text": "이에 말씀하시되 내 마음이 매우 고민하여 죽게 되었으니 너희는 여기 머물러 나와 함께 깨어 있으라 하시고"
-        },
-        {
-          "number": 39,
-          "text": "조금 나아가사 얼굴을 땅에 대시고 엎드려 기도하여 이르시되 내 아버지여 만일 할 만하시거든 이 잔을 내게서 지나가게 하옵소서 그러나 나의 원대로 마시옵고 아버지의 원대로 하옵소서 하시고"
-        },
-        {
-          "number": 40,
-          "text": "제자들에게 오사 그 자는 것을 보시고 베드로에게 말씀하시되 너희가 나와 함께 한 시간도 이렇게 깨어 있을 수 없더냐"
-        },
-        {
-          "number": 41,
-          "text": "시험에 들지 않게 깨어 기도하라 마음에는 원이로되 육신이 약하도다 하시고"
-        },
-        {
-          "number": 42,
-          "text": "다시 두 번째 나아가 기도하여 이르시되 내 아버지여 만일 내가 마시지 않고는 이 잔이 내게서 지나갈 수 없거든 아버지의 원대로 되기를 원하나이다 하시고"
-        },
-        {
-          "number": 43,
-          "text": "다시 오사 보신즉 그들이 자니 이는 그들의 눈이 피곤함일러라"
-        },
-        {
-          "number": 44,
-          "text": "또 그들을 두시고 나아가 세 번째 같은 말씀으로 기도하신 후"
-        },
-        {
-          "number": 45,
-          "text": "이에 제자들에게 오사 이르시되 이제는 자고 쉬라 보라 때가 가까이 왔으니 인자가 죄인의 손에 팔리느니라"
-        },
-        {
-          "number": 46,
-          "text": "일어나라 함께 가자 보라 나를 파는 자가 가까이 왔느니라"
-        },
-        {
-          "number": 47,
-          "text": "<잡히시다(막 14:43-50; 눅 22:47-53; 요 18:3-12)> 말씀하실 때에 열둘 중의 하나인 유다가 왔는데 대제사장들과 백성의 장로들에게서 파송된 큰 무리가 칼과 몽치를 가지고 그와 함께 하였더라"
-        },
-        {
-          "number": 48,
-          "text": "예수를 파는 자가 그들에게 군호를 짜 이르되 내가 입맞추는 자가 그이니 그를 잡으라 한지라"
-        },
-        {
-          "number": 49,
-          "text": "곧 예수께 나아와 랍비여 안녕하시옵니까 하고 입을 맞추니"
-        },
-        {
-          "number": 50,
-          "text": "예수께서 이르시되 친구여 네가 무엇을 하려고 왔는지 행하라 하신대 이에 그들이 나아와 예수께 손을 대어 잡는지라"
-        },
-        {
-          "number": 51,
-          "text": "예수와 함께 있던 자 중의 하나가 손을 펴 칼을 빼어 대제사장의 종을 쳐 그 귀를 떨어뜨리니"
-        },
-        {
-          "number": 52,
-          "text": "이에 예수께서 이르시되 네 칼을 도로 칼집에 꽂으라 칼을 가지는 자는 다 칼로 망하느니라"
-        },
-        {
-          "number": 53,
-          "text": "너는 내가 내 아버지께 구하여 지금 열두 군단 더 되는 천사를 보내시게 할 수 없는 줄로 아느냐"
-        },
-        {
-          "number": 54,
-          "text": "내가 만일 그렇게 하면 이런 일이 있으리라 한 성경이 어떻게 이루어지겠느냐 하시더라"
-        },
-        {
-          "number": 55,
-          "text": "그 때에 예수께서 무리에게 말씀하시되 너희가 강도를 잡는 것 같이 칼과 몽치를 가지고 나를 잡으러 나왔느냐 내가 날마다 성전에 앉아 가르쳤으되 너희가 나를 잡지 아니하였도다"
-        },
-        {
-          "number": 56,
-          "text": "그러나 이렇게 된 것은 다 선지자들의 글을 이루려 함이니라 하시더라 이에 제자들이 다 예수를 버리고 도망하니라"
-        },
-        {
-          "number": 57,
-          "text": "<공회 앞에 서시다(막 14:53-65; 눅 22:54-55, 63-71; 요 18:13-14, 19-24)> 예수를 잡은 자들이 그를 끌고 대제사장 가야바에게로 가니 거기 서기관과 장로들이 모여 있더라"
-        },
-        {
-          "number": 58,
-          "text": "베드로가 멀찍이 예수를 따라 대제사장의 집 뜰에까지 가서 그 결말을 보려고 안에 들어가 하인들과 함께 앉아 있더라"
-        },
-        {
-          "number": 59,
-          "text": "대제사장들과 온 공회가 예수를 죽이려고 그를 칠 거짓 증거를 찾으매"
-        },
-        {
-          "number": 60,
-          "text": "거짓 증인이 많이 왔으나 얻지 못하더니 후에 두 사람이 와서"
-        },
-        {
-          "number": 61,
-          "text": "이르되 이 사람의 말이 내가 하나님의 성전을 헐고 사흘 동안에 지을 수 있다 하더라 하니"
-        },
-        {
-          "number": 62,
-          "text": "대제사장이 일어서서 예수께 묻되 아무 대답도 없느냐 이 사람들이 너를 치는 증거가 어떠하냐 하되"
-        },
-        {
-          "number": 63,
-          "text": "예수께서 침묵하시거늘 대제사장이 이르되 내가 너로 살아 계신 하나님께 맹세하게 하노니 네가 하나님의 아들 그리스도인지 우리에게 말하라"
-        },
-        {
-          "number": 64,
-          "text": "예수께서 이르시되 네가 말하였느니라 그러나 내가 너희에게 이르노니 이후에 인자가 권능의 우편에 앉아 있는 것과 하늘 구름을 타고 오는 것을 너희가 보리라 하시니"
-        },
-        {
-          "number": 65,
-          "text": "이에 대제사장이 자기 옷을 찢으며 이르되 그가 신성 모독 하는 말을 하였으니 어찌 더 증인을 요구하리요 보라 너희가 지금 이 신성 모독 하는 말을 들었도다"
-        },
-        {
-          "number": 66,
-          "text": "너희 생각은 어떠하냐 대답하여 이르되 그는 사형에 해당하니라 하고"
-        },
-        {
-          "number": 67,
-          "text": "이에 예수의 얼굴에 침 뱉으며 주먹으로 치고 어떤 사람은 손바닥으로 때리며"
-        },
-        {
-          "number": 68,
-          "text": "이르되 그리스도야 우리에게 선지자 노릇을 하라 너를 친 자가 누구냐 하더라"
-        },
-        {
-          "number": 69,
-          "text": "<베드로가 예수를 알지 못한다고 하다(막 14:66-72; 눅 22:56-62; 요 18:15-18, 25-27)> 베드로가 바깥 뜰에 앉았더니 한 여종이 나아와 이르되 너도 갈릴리 사람 예수와 함께 있었도다 하거늘"
-        },
-        {
-          "number": 70,
-          "text": "베드로가 모든 사람 앞에서 부인하여 이르되 나는 네가 무슨 말을 하는지 알지 못하겠노라 하며"
-        },
-        {
-          "number": 71,
-          "text": "앞문까지 나아가니 다른 여종이 그를 보고 거기 있는 사람들에게 말하되 이 사람은 나사렛 예수와 함께 있었도다 하매"
-        },
-        {
-          "number": 72,
-          "text": "베드로가 맹세하고 또 부인하여 이르되 나는 그 사람을 알지 못하노라 하더라"
-        },
-        {
-          "number": 73,
-          "text": "조금 후에 곁에 섰던 사람들이 나아와 베드로에게 이르되 너도 진실로 그 도당이라 네 말소리가 너를 표명한다 하거늘"
-        },
-        {
-          "number": 74,
-          "text": "그가 저주하며 맹세하여 이르되 나는 그 사람을 알지 못하노라 하니 곧 닭이 울더라"
-        },
-        {
-          "number": 75,
-          "text": "이에 베드로가 예수의 말씀에 닭 울기 전에 네가 세 번 나를 부인하리라 하심이 생각나서 밖에 나가서 심히 통곡하니라"
+          "text": "내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라 볼지어다 내가 세상 끝날까지 너희와 항상 함께 있으리라 하시니라막1:1 <복음을 전파하다(마 3:1-12; 눅 3:1-9, 15-17; 요 1:19-23)> 하나님의 아들 예수 그리스도의 복음의 시작이라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "When Jesus had finished saying all these things, he said to his disciples,"
+          "text": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb."
         },
         {
           "number": 2,
-          "text": "\"As you know, the Passover is two days away--and the Son of Man will be handed over to be crucified.\""
+          "text": "There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it."
         },
         {
           "number": 3,
-          "text": "Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas,"
+          "text": "His appearance was like lightning, and his clothes were white as snow."
         },
         {
           "number": 4,
-          "text": "and they plotted to arrest Jesus in some sly way and kill him."
+          "text": "The guards were so afraid of him that they shook and became like dead men."
         },
         {
           "number": 5,
-          "text": "\"But not during the Feast,\" they said, \"or there may be a riot among the people.\""
+          "text": "The angel said to the women, \"Do not be afraid, for I know that you are looking for Jesus, who was crucified."
         },
         {
           "number": 6,
-          "text": "While Jesus was in Bethany in the home of a man known as Simon the Leper,"
+          "text": "He is not here; he has risen, just as he said. Come and see the place where he lay."
         },
         {
           "number": 7,
-          "text": "a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table."
+          "text": "Then go quickly and tell his disciples: 'He has risen from the dead and is going ahead of you into Galilee. There you will see him.' Now I have told you.\""
         },
         {
           "number": 8,
-          "text": "When the disciples saw this, they were indignant. \"Why this waste?\" they asked."
+          "text": "So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples."
         },
         {
           "number": 9,
-          "text": "\"This perfume could have been sold at a high price and the money given to the poor.\""
+          "text": "Suddenly Jesus met them. \"Greetings,\" he said. They came to him, clasped his feet and worshiped him."
         },
         {
           "number": 10,
-          "text": "Aware of this, Jesus said to them, \"Why are you bothering this woman? She has done a beautiful thing to me."
+          "text": "Then Jesus said to them, \"Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.\""
         },
         {
           "number": 11,
-          "text": "The poor you will always have with you, but you will not always have me."
+          "text": "While the women were on their way, some of the guards went into the city and reported to the chief priests everything that had happened."
         },
         {
           "number": 12,
-          "text": "When she poured this perfume on my body, she did it to prepare me for burial."
+          "text": "When the chief priests had met with the elders and devised a plan, they gave the soldiers a large sum of money,"
         },
         {
           "number": 13,
-          "text": "I tell you the truth, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.\""
+          "text": "telling them, \"You are to say, 'His disciples came during the night and stole him away while we were asleep.'"
         },
         {
           "number": 14,
-          "text": "Then one of the Twelve--the one called Judas Iscariot--went to the chief priests"
+          "text": "If this report gets to the governor, we will satisfy him and keep you out of trouble.\""
         },
         {
           "number": 15,
-          "text": "and asked, \"What are you willing to give me if I hand him over to you?\" So they counted out for him thirty silver coins."
+          "text": "So the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day."
         },
         {
           "number": 16,
-          "text": "From then on Judas watched for an opportunity to hand him over."
+          "text": "Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go."
         },
         {
           "number": 17,
-          "text": "On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, \"Where do you want us to make preparations for you to eat the Passover?\""
+          "text": "When they saw him, they worshiped him; but some doubted."
         },
         {
           "number": 18,
-          "text": "He replied, \"Go into the city to a certain man and tell him, 'The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.'\""
+          "text": "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me."
         },
         {
           "number": 19,
-          "text": "So the disciples did as Jesus had directed them and prepared the Passover."
-        },
-        {
-          "number": 20,
-          "text": "When evening came, Jesus was reclining at the table with the Twelve."
-        },
-        {
-          "number": 21,
-          "text": "And while they were eating, he said, \"I tell you the truth, one of you will betray me.\""
-        },
-        {
-          "number": 22,
-          "text": "They were very sad and began to say to him one after the other, \"Surely not I, Lord?\""
-        },
-        {
-          "number": 23,
-          "text": "Jesus replied, \"The one who has dipped his hand into the bowl with me will betray me."
-        },
-        {
-          "number": 24,
-          "text": "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.\""
-        },
-        {
-          "number": 25,
-          "text": "Then Judas, the one who would betray him, said, \"Surely not I, Rabbi?\" Jesus answered, \"Yes, it is you.\""
-        },
-        {
-          "number": 26,
-          "text": "While they were eating, Jesus took bread, gave thanks and broke it, and gave it to his disciples, saying, \"Take and eat; this is my body.\""
-        },
-        {
-          "number": 27,
-          "text": "Then he took the cup, gave thanks and offered it to them, saying, \"Drink from it, all of you."
-        },
-        {
-          "number": 28,
-          "text": "This is my blood of the covenant, which is poured out for many for the forgiveness of sins."
-        },
-        {
-          "number": 29,
-          "text": "I tell you, I will not drink of this fruit of the vine from now on until that day when I drink it anew with you in my Father's kingdom.\""
-        },
-        {
-          "number": 30,
-          "text": "When they had sung a hymn, they went out to the Mount of Olives."
-        },
-        {
-          "number": 31,
-          "text": "Then Jesus told them, \"This very night you will all fall away on account of me, for it is written: \"'I will strike the shepherd, and the sheep of the flock will be scattered.'"
-        },
-        {
-          "number": 32,
-          "text": "But after I have risen, I will go ahead of you into Galilee.\""
-        },
-        {
-          "number": 33,
-          "text": "Peter replied, \"Even if all fall away on account of you, I never will.\""
-        },
-        {
-          "number": 34,
-          "text": "\"I tell you the truth,\" Jesus answered, \"this very night, before the rooster crows, you will disown me three times.\""
-        },
-        {
-          "number": 35,
-          "text": "But Peter declared, \"Even if I have to die with you, I will never disown you.\" And all the other disciples said the same."
-        },
-        {
-          "number": 36,
-          "text": "Then Jesus went with his disciples to a place called Gethsemane, and he said to them, \"Sit here while I go over there and pray.\""
-        },
-        {
-          "number": 37,
-          "text": "He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled."
-        },
-        {
-          "number": 38,
-          "text": "Then he said to them, \"My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.\""
-        },
-        {
-          "number": 39,
-          "text": "Going a little farther, he fell with his face to the ground and prayed, \"My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.\""
-        },
-        {
-          "number": 40,
-          "text": "Then he returned to his disciples and found them sleeping. \"Could you men not keep watch with me for one hour?\" he asked Peter."
-        },
-        {
-          "number": 41,
-          "text": "\"Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.\""
-        },
-        {
-          "number": 42,
-          "text": "He went away a second time and prayed, \"My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.\""
-        },
-        {
-          "number": 43,
-          "text": "When he came back, he again found them sleeping, because their eyes were heavy."
-        },
-        {
-          "number": 44,
-          "text": "So he left them and went away once more and prayed the third time, saying the same thing."
-        },
-        {
-          "number": 45,
-          "text": "Then he returned to the disciples and said to them, \"Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners."
-        },
-        {
-          "number": 46,
-          "text": "Rise, let us go! Here comes my betrayer!\""
-        },
-        {
-          "number": 47,
-          "text": "While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people."
-        },
-        {
-          "number": 48,
-          "text": "Now the betrayer had arranged a signal with them: \"The one I kiss is the man; arrest him.\""
-        },
-        {
-          "number": 49,
-          "text": "Going at once to Jesus, Judas said, \"Greetings, Rabbi!\" and kissed him."
-        },
-        {
-          "number": 50,
-          "text": "Jesus replied, \"Friend, do what you came for.\" Then the men stepped forward, seized Jesus and arrested him."
-        },
-        {
-          "number": 51,
-          "text": "With that, one of Jesus' companions reached for his sword, drew it out and struck the servant of the high priest, cutting off his ear."
-        },
-        {
-          "number": 52,
-          "text": "\"Put your sword back in its place,\" Jesus said to him, \"for all who draw the sword will die by the sword."
-        },
-        {
-          "number": 53,
-          "text": "Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?"
-        },
-        {
-          "number": 54,
-          "text": "But how then would the Scriptures be fulfilled that say it must happen in this way?\""
-        },
-        {
-          "number": 55,
-          "text": "At that time Jesus said to the crowd, \"Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me."
-        },
-        {
-          "number": 56,
-          "text": "But this has all taken place that the writings of the prophets might be fulfilled.\" Then all the disciples deserted him and fled."
-        },
-        {
-          "number": 57,
-          "text": "Those who had arrested Jesus took him to Caiaphas, the high priest, where the teachers of the law and the elders had assembled."
-        },
-        {
-          "number": 58,
-          "text": "But Peter followed him at a distance, right up to the courtyard of the high priest. He entered and sat down with the guards to see the outcome."
-        },
-        {
-          "number": 59,
-          "text": "The chief priests and the whole Sanhedrin were looking for false evidence against Jesus so that they could put him to death."
-        },
-        {
-          "number": 60,
-          "text": "But they did not find any, though many false witnesses came forward. Finally two came forward"
-        },
-        {
-          "number": 61,
-          "text": "and declared, \"This fellow said, 'I am able to destroy the temple of God and rebuild it in three days.'\""
-        },
-        {
-          "number": 62,
-          "text": "Then the high priest stood up and said to Jesus, \"Are you not going to answer? What is this testimony that these men are bringing against you?\""
-        },
-        {
-          "number": 63,
-          "text": "But Jesus remained silent. The high priest said to him, \"I charge you under oath by the living God: Tell us if you are the Christ, the Son of God.\""
-        },
-        {
-          "number": 64,
-          "text": "\"Yes, it is as you say,\" Jesus replied. \"But I say to all of you: In the future you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.\""
-        },
-        {
-          "number": 65,
-          "text": "Then the high priest tore his clothes and said, \"He has spoken blasphemy! Why do we need any more witnesses? Look, now you have heard the blasphemy."
-        },
-        {
-          "number": 66,
-          "text": "What do you think?\" \"He is worthy of death,\" they answered."
-        },
-        {
-          "number": 67,
-          "text": "Then they spit in his face and struck him with their fists. Others slapped him"
-        },
-        {
-          "number": 68,
-          "text": "and said, \"Prophesy to us, Christ. Who hit you?\""
-        },
-        {
-          "number": 69,
-          "text": "Now Peter was sitting out in the courtyard, and a servant girl came to him. \"You also were with Jesus of Galilee,\" she said."
-        },
-        {
-          "number": 70,
-          "text": "But he denied it before them all. \"I don't know what you're talking about,\" he said."
-        },
-        {
-          "number": 71,
-          "text": "Then he went out to the gateway, where another girl saw him and said to the people there, \"This fellow was with Jesus of Nazareth.\""
-        },
-        {
-          "number": 72,
-          "text": "He denied it again, with an oath: \"I don't know the man!\""
-        },
-        {
-          "number": 73,
-          "text": "After a little while, those standing there went up to Peter and said, \"Surely you are one of them, for your accent gives you away.\""
-        },
-        {
-          "number": 74,
-          "text": "Then he began to call down curses on himself and he swore to them, \"I don't know the man!\" Immediately a rooster crowed."
-        },
-        {
-          "number": 75,
-          "text": "Then Peter remembered the word Jesus had spoken: \"Before the rooster crows, you will disown me three times.\" And he went outside and wept bitterly."
+          "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
         }
       ]
     }
