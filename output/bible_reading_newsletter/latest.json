@@ -1,463 +1,407 @@
 {
-  "target_date": "2026-10-20",
-  "reference": "마가복음 6-8장",
-  "generated_at": "2026-10-19T23:19:18Z",
+  "target_date": "2026-10-21",
+  "reference": "마가복음 9-11장",
+  "generated_at": "2026-10-20T22:56:16Z",
   "chapters": [
     {
       "book": "mar",
       "book_name": "마가복음",
       "english_book_name": "Mark",
-      "chapter_number": 6,
+      "chapter_number": 9,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<고향에서 배척을 받으시다(마 13:53-58; 눅 4:16-30)> 예수께서 거기를 떠나사 고향으로 가시니 제자들도 따르니라"
+          "text": "또 그들에게 이르시되 내가 진실로 너희에게 이르노니 여기 서 있는 사람 중에는 죽기 전에 하나님의 나라가 권능으로 임하는 것을 볼 자들도 있느니라 하시니라"
         },
         {
           "number": 2,
-          "text": "안식일이 되어 회당에서 가르치시니 많은 사람이 듣고 놀라 이르되 이 사람이 어디서 이런 것을 얻었느냐 이 사람이 받은 지혜와 그 손으로 이루어지는 이런 권능이 어찌됨이냐"
+          "text": "<영광스러운 모습으로 변형되시다(마 17:1-13; 눅 9:28-36)> 엿새 후에 예수께서 베드로와 야고보와 요한을 데리시고 따로 높은 산에 올라가셨더니 그들 앞에서 변형되사"
         },
         {
           "number": 3,
-          "text": "이 사람이 마리아의 아들 목수가 아니냐 야고보와 요셉과 유다와 시몬의 형제가 아니냐 그 누이들이 우리와 함께 여기 있지 아니하냐 하고 예수를 배척한지라"
+          "text": "그 옷이 광채가 나며 세상에서 빨래하는 자가 그렇게 희게 할 수 없을 만큼 매우 희어졌더라"
         },
         {
           "number": 4,
-          "text": "예수께서 그들에게 이르시되 선지자가 자기 고향과 자기 친척과 자기 집 외에서는 존경을 받지 못함이 없느니라 하시며"
+          "text": "이에 엘리야가 모세와 함께 그들에게 나타나 예수와 더불어 말하거늘"
         },
         {
           "number": 5,
-          "text": "거기서는 아무 권능도 행하실 수 없어 다만 소수의 병자에게 안수하여 고치실 뿐이었고"
+          "text": "베드로가 예수께 고하되 랍비여 우리가 여기 있는 것이 좋사오니 우리가 초막 셋을 짓되 하나는 주를 위하여, 하나는 모세를 위하여, 하나는 엘리야를 위하여 하사이다 하니"
         },
         {
           "number": 6,
-          "text": "그들이 믿지 않음을 이상히 여기셨더라 막6:이에 <열두 제자를 부르사 둘씩 보내시다(마 10:1, 5-15; 눅 9:1-6)> 모든 촌에 두루 다니시며 가르치시더라"
+          "text": "이는 그들이 몹시 무서워하므로 그가 무슨 말을 할지 알지 못함이더라"
         },
         {
           "number": 7,
-          "text": "열두 제자를 부르사 둘씩 둘씩 보내시며 더러운 귀신을 제어하는 권능을 주시고"
+          "text": "마침 구름이 와서 그들을 덮으며 구름 속에서 소리가 나되 이는 내 사랑하는 아들이니 너희는 그의 말을 들으라 하는지라"
         },
         {
           "number": 8,
-          "text": "명하시되 여행을 위하여 지팡이 외에는 양식이나 배낭이나 전대의 돈이나 아무 것도 가지지 말며"
+          "text": "문득 둘러보니 아무도 보이지 아니하고 오직 예수와 자기들뿐이었더라"
         },
         {
           "number": 9,
-          "text": "신만 신고 두 벌 옷도 입지 말라 하시고"
+          "text": "그들이 산에서 내려올 때에 예수께서 경고하시되 인자가 죽은 자 가운데서 살아날 때까지는 본 것을 아무에게도 이르지 말라 하시니"
         },
         {
           "number": 10,
-          "text": "또 이르시되 어디서든지 누구의 집에 들어가거든 그 곳을 떠나기까지 거기 유하라"
+          "text": "그들이 이 말씀을 마음에 두며 서로 문의하되 죽은 자 가운데서 살아나는 것이 무엇일까 하고"
         },
         {
           "number": 11,
-          "text": "어느 곳에서든지 너희를 영접하지 아니하고 너희 말을 듣지도 아니하거든 거기서 나갈 때에 발 아래 먼지를 떨어버려 그들에게 증거를 삼으라 하시니"
+          "text": "이에 예수께 묻자와 이르되 어찌하여 서기관들이 엘리야가 먼저 와야 하리라 하나이까"
         },
         {
           "number": 12,
-          "text": "제자들이 나가서 회개하라 전파하고"
+          "text": "이르시되 엘리야가 과연 먼저 와서 모든 것을 회복하거니와 어찌 인자에 대하여 기록하기를 많은 고난을 받고 멸시를 당하리라 하였느냐"
         },
         {
           "number": 13,
-          "text": "많은 귀신을 쫓아내며 많은 병자에게 기름을 발라 고치더라"
+          "text": "그러나 내가 너희에게 이르노니 엘리야가 왔으되 기록된 바와 같이 사람들이 함부로 대우하였느니라 하시니라"
         },
         {
           "number": 14,
-          "text": "<세례 요한의 죽음(마 14:1-12; 눅 9:7-9)> 이에 예수의 이름이 드러난지라 헤롯 왕이 듣고 이르되 이는 세례 요한이 죽은 자 가운데서 살아났도다 그러므로 이런 능력이 그 속에서 일어나느니라 하고"
+          "text": "<귀신 들린 아이를 고치시다(마 17:14-20; 눅 9:37-43 상)> 이에 그들이 제자들에게 와서 보니 큰 무리가 그들을 둘러싸고 서기관들이 그들과 더불어 변론하고 있더라"
         },
         {
           "number": 15,
-          "text": "어떤 이는 그가 엘리야라 하고 또 어떤 이는 그가 선지자니 옛 선지자 중의 하나와 같다 하되"
+          "text": "온 무리가 곧 예수를 보고 매우 놀라며 달려와 문안하거늘"
         },
         {
           "number": 16,
-          "text": "헤롯은 듣고 이르되 내가 목 벤 요한 그가 살아났다 하더라"
+          "text": "예수께서 물으시되 너희가 무엇을 그들과 변론하느냐"
         },
         {
           "number": 17,
-          "text": "전에 헤롯이 자기가 동생 빌립의 아내 헤로디아에게 장가 든 고로 이 여자를 위하여 사람을 보내어 요한을 잡아 옥에 가두었으니"
+          "text": "무리 중의 하나가 대답하되 선생님 말 못하게 귀신 들린 내 아들을 선생님께 데려왔나이다"
         },
         {
           "number": 18,
-          "text": "이는 요한이 헤롯에게 말하되 동생의 아내를 취한 것이 옳지 않다 하였음이라"
+          "text": "귀신이 어디서든지 그를 잡으면 거꾸러져 거품을 흘리며 이를 갈며 그리고 파리해지는지라 내가 선생님의 제자들에게 내쫓아 달라 하였으나 그들이 능히 하지 못하더이다"
         },
         {
           "number": 19,
-          "text": "헤로디아가 요한을 원수로 여겨 죽이고자 하였으되 하지 못한 것은"
+          "text": "대답하여 이르시되 믿음이 없는 세대여 내가 얼마나 너희와 함께 있으며 얼마나 너희에게 참으리요 그를 내게로 데려오라 하시매"
         },
         {
           "number": 20,
-          "text": "헤롯이 요한을 의롭고 거룩한 사람으로 알고 두려워하여 보호하며 또 그의 말을 들을 때에 크게 번민을 하면서도 달갑게 들음이러라"
+          "text": "이에 데리고 오니 귀신이 예수를 보고 곧 그 아이로 심히 경련을 일으키게 하는지라 그가 땅에 엎드러져 구르며 거품을 흘리더라"
         },
         {
           "number": 21,
-          "text": "마침 기회가 좋은 날이 왔으니 곧 헤롯이 자기 생일에 대신들과 천부장들과 갈릴리의 귀인들로 더불어 잔치할새"
+          "text": "예수께서 그 아버지에게 물으시되 언제부터 이렇게 되었느냐 하시니 이르되 어릴 때부터니이다"
         },
         {
           "number": 22,
-          "text": "헤로디아의 딸이 친히 들어와 춤을 추어 헤롯과 그와 함께 앉은 자들을 기쁘게 한지라 왕이 그 소녀에게 이르되 무엇이든지 네가 원하는 것을 내게 구하라 내가 주리라 하고"
+          "text": "귀신이 그를 죽이려고 불과 물에 자주 던졌나이다 그러나 무엇을 하실 수 있거든 우리를 불쌍히 여기사 도와 주옵소서"
         },
         {
           "number": 23,
-          "text": "또 맹세하기를 무엇이든지 네가 내게 구하면 내 나라의 절반까지라도 주리라 하거늘"
+          "text": "예수께서 이르시되 할 수 있거든이 무슨 말이냐 믿는 자에게는 능히 하지 못할 일이 없느니라 하시니"
         },
         {
           "number": 24,
-          "text": "그가 나가서 그 어머니에게 말하되 내가 무엇을 구하리이까 그 어머니가 이르되 세례 요한의 머리를 구하라 하니"
+          "text": "곧 그 아이의 아버지가 소리를 질러 이르되 내가 믿나이다 나의 믿음 없는 것을 도와 주소서 하더라"
         },
         {
           "number": 25,
-          "text": "그가 곧 왕에게 급히 들어가 구하여 이르되 세례 요한의 머리를 소반에 얹어 곧 내게 주기를 원하옵나이다 하니"
+          "text": "예수께서 무리가 달려와 모이는 것을 보시고 그 더러운 귀신을 꾸짖어 이르시되 말 못하고 못 듣는 귀신아 내가 네게 명하노니 그 아이에게서 나오고 다시 들어가지 말라 하시매"
         },
         {
           "number": 26,
-          "text": "왕이 심히 근심하나 자기가 맹세한 것과 그 앉은 자들로 인하여 그를 거절할 수 없는지라"
+          "text": "귀신이 소리 지르며 아이로 심히 경련을 일으키게 하고 나가니 그 아이가 죽은 것 같이 되어 많은 사람이 말하기를 죽었다 하나"
         },
         {
           "number": 27,
-          "text": "왕이 곧 시위병 하나를 보내어 요한의 머리를 가져오라 명하니 그 사람이 나가 옥에서 요한을 목 베어"
+          "text": "예수께서 그 손을 잡아 일으키시니 이에 일어서니라"
         },
         {
           "number": 28,
-          "text": "그 머리를 소반에 얹어다가 소녀에게 주니 소녀가 이것을 그 어머니에게 주니라"
+          "text": "집에 들어가시매 제자들이 조용히 묻자오되 우리는 어찌하여 능히 그 귀신을 쫓아내지 못하였나이까"
         },
         {
           "number": 29,
-          "text": "요한의 제자들이 듣고 와서 시체를 가져다가 장사하니라"
+          "text": "이르시되 기도 외에 다른 것으로는 이런 종류가 나갈 수 없느니라 하시니라"
         },
         {
           "number": 30,
-          "text": "<오천 명을 먹이시다(마 14:13-21; 눅 9:10-17; 요 6:1-14)> 사도들이 예수께 모여 자기들이 행한 것과 가르친 것을 낱낱이 고하니"
+          "text": "<죽음과 부활을 두 번째로 말씀하시다(마 17:22-23; 눅 9:43 하-45)> 그 곳을 떠나 갈릴리 가운데로 지날새 예수께서 아무에게도 알리고자 아니하시니"
         },
         {
           "number": 31,
-          "text": "이르시되 너희는 따로 한적한 곳에 가서 잠깐 쉬어라 하시니 이는 오고 가는 사람이 많아 음식 먹을 겨를도 없음이라"
+          "text": "이는 제자들을 가르치시며 또 인자가 사람들의 손에 넘겨져 죽임을 당하고 죽은 지 삼 일만에 살아나리라는 것을 말씀하셨기 때문이더라"
         },
         {
           "number": 32,
-          "text": "이에 배를 타고 따로 한적한 곳에 갈새"
+          "text": "그러나 제자들은 이 말씀을 깨닫지 못하고 묻기도 두려워하더라"
         },
         {
           "number": 33,
-          "text": "그들이 가는 것을 보고 많은 사람이 그들인 줄 안지라 모든 고을로부터 도보로 그 곳에 달려와 그들보다 먼저 갔더라"
+          "text": "<누가 크냐(마 18:1-5; 눅 9:46-48)> 가버나움에 이르러 집에 계실새 제자들에게 물으시되 너희가 길에서 서로 토론한 것이 무엇이냐 하시되"
         },
         {
           "number": 34,
-          "text": "예수께서 나오사 큰 무리를 보시고 그 목자 없는 양 같음으로 인하여 불쌍히 여기사 이에 여러 가지로 가르치시더라"
+          "text": "그들이 잠잠하니 이는 길에서 서로 누가 크냐 하고 쟁론하였음이라"
         },
         {
           "number": 35,
-          "text": "때가 저물어가매 제자들이 예수께 나아와 여짜오되 이 곳은 빈 들이요 날도 저물어가니"
+          "text": "예수께서 앉으사 열두 제자를 불러서 이르시되 누구든지 첫째가 되고자 하면 뭇 사람의 끝이 되며 뭇 사람을 섬기는 자가 되어야 하리라 하시고"
         },
         {
           "number": 36,
-          "text": "무리를 보내어 두루 촌과 마을로 가서 무엇을 사 먹게 하옵소서"
+          "text": "어린 아이 하나를 데려다가 그들 가운데 세우시고 안으시며 제자들에게 이르시되"
         },
         {
           "number": 37,
-          "text": "대답하여 이르시되 너희가 먹을 것을 주라 하시니 여짜오되 우리가 가서 이백 데나리온의 떡을 사다 먹이리이까"
+          "text": "누구든지 내 이름으로 이런 어린 아이 하나를 영접하면 곧 나를 영접함이요 누구든지 나를 영접하면 나를 영접함이 아니요 나를 보내신 이를 영접함이니라"
         },
         {
           "number": 38,
-          "text": "이르시되 너희에게 떡 몇 개나 있는지 가서 보라 하시니 알아보고 이르되 떡 다섯 개와 물고기 두 마리가 있더이다 하거늘"
+          "text": "<우리를 위하는 사람(마 18:6-9; 눅 9:49-50; 17:1-2)> 요한이 예수께 여짜오되 선생님 우리를 따르지 않는 어떤 자가 주의 이름으로 귀신을 내쫓는 것을 우리가 보고 우리를 따르지 아니하므로 금하였나이다"
         },
         {
           "number": 39,
-          "text": "제자들에게 명하사 그 모든 사람으로 떼를 지어 푸른 잔디 위에 앉게 하시니"
+          "text": "예수께서 이르시되 금하지 말라 내 이름을 의탁하여 능한 일을 행하고 즉시로 나를 비방할 자가 없느니라"
         },
         {
           "number": 40,
-          "text": "떼로 백 명씩 또는 오십 명씩 앉은지라"
+          "text": "우리를 반대하지 않는 자는 우리를 위하는 자니라"
         },
         {
           "number": 41,
-          "text": "예수께서 떡 다섯 개와 물고기 두 마리를 가지사 하늘을 우러러 축사하시고 떡을 떼어 제자들에게 주어 사람들에게 나누어 주게 하시고 또 물고기 두 마리도 모든 사람에게 나누시매"
+          "text": "누구든지 너희가 그리스도에게 속한 자라 하여 물 한 그릇이라도 주면 내가 진실로 너희에게 이르노니 그가 결코 상을 잃지 않으리라"
         },
         {
           "number": 42,
-          "text": "다 배불리 먹고"
+          "text": "또 누구든지 나를 믿는 이 작은 자들 중 하나라도 실족하게 하면 차라리 연자맷돌이 그 목에 매여 바다에 던져지는 것이 나으리라"
         },
         {
           "number": 43,
-          "text": "남은 떡 조각과 물고기를 열두 바구니에 차게 거두었으며"
+          "text": "만일 네 손이 너를 범죄하게 하거든 찍어버리라 장애인으로 영생에 들어가는 것이 두 손을 가지고 지옥 곧 꺼지지 않는 불에 들어가는 것보다 나으니라"
         },
         {
           "number": 44,
-          "text": "떡을 먹은 남자는 오천 명이었더라"
+          "text": "(없음)"
         },
         {
           "number": 45,
-          "text": "<바다 위로 걸으시다(마 14:22-33; 요 6:15-21)> 예수께서 즉시 제자들을 재촉하사 자기가 무리를 보내는 동안에 배 타고 앞서 건너편 벳새다로 가게 하시고"
+          "text": "만일 네 발이 너를 범죄하게 하거든 찍어버리라 다리 저는 자로 영생에 들어가는 것이 두 발을 가지고 지옥에 던져지는 것보다 나으니라"
         },
         {
           "number": 46,
-          "text": "무리를 작별하신 후에 기도하러 산으로 가시니라"
+          "text": "(없음)"
         },
         {
           "number": 47,
-          "text": "저물매 배는 바다 가운데 있고 예수께서는 홀로 뭍에 계시다가"
+          "text": "만일 네 눈이 너를 범죄하게 하거든 빼버리라 한 눈으로 하나님의 나라에 들어가는 것이 두 눈을 가지고 지옥에 던져지는 것보다 나으니라"
         },
         {
           "number": 48,
-          "text": "바람이 거스르므로 제자들이 힘겹게 노 젓는 것을 보시고 밤 사경쯤에 바다 위로 걸어서 그들에게 오사 지나가려고 하시매"
+          "text": "거기에서는 구더기도 죽지 않고 불도 꺼지지 아니하느니라"
         },
         {
           "number": 49,
-          "text": "제자들이 그가 바다 위로 걸어 오심을 보고 유령인가 하여 소리 지르니"
+          "text": "사람마다 불로써 소금 치듯 함을 받으리라"
         },
         {
           "number": 50,
-          "text": "그들이 다 예수를 보고 놀람이라 이에 예수께서 곧 그들에게 말씀하여 이르시되 안심하라 내니 두려워하지 말라 하시고"
-        },
-        {
-          "number": 51,
-          "text": "배에 올라 그들에게 가시니 바람이 그치는지라 제자들이 마음에 심히 놀라니"
-        },
-        {
-          "number": 52,
-          "text": "이는 그들이 그 떡 떼시던 일을 깨닫지 못하고 도리어 그 마음이 둔하여졌음이러라"
-        },
-        {
-          "number": 53,
-          "text": "<게네사렛에서 병자들을 고치시다(마 14:34-36)> 건너가 게네사렛 땅에 이르러 대고"
-        },
-        {
-          "number": 54,
-          "text": "배에서 내리니 사람들이 곧 예수신 줄을 알고"
-        },
-        {
-          "number": 55,
-          "text": "그 온 지방으로 달려 돌아 다니며 예수께서 어디 계시다는 말을 듣는 대로 병든 자를 침상째로 메고 나아오니"
-        },
-        {
-          "number": 56,
-          "text": "아무 데나 예수께서 들어가시는 지방이나 도시나 마을에서 병자를 시장에 두고 예수께 그의 옷 가에라도 손을 대게 하시기를 간구하니 손을 대는 자는 다 성함을 얻으니라"
+          "text": "소금은 좋은 것이로되 만일 소금이 그 맛을 잃으면 무엇으로 이를 짜게 하리요 너희 속에 소금을 두고 서로 화목하라 하시니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Jesus left there and went to his hometown, accompanied by his disciples."
+          "text": "And he said to them, \"I tell you the truth, some who are standing here will not taste death before they see the kingdom of God come with power.\""
         },
         {
           "number": 2,
-          "text": "When the Sabbath came, he began to teach in the synagogue, and many who heard him were amazed. \"Where did this man get these things?\" they asked. \"What's this wisdom that has been given him, that he even does miracles!"
+          "text": "After six days Jesus took Peter, James and John with him and led them up a high mountain, where they were all alone. There he was transfigured before them."
         },
         {
           "number": 3,
-          "text": "Isn't this the carpenter? Isn't this Mary's son and the brother of James, Joseph, Judas and Simon? Aren't his sisters here with us?\" And they took offense at him."
+          "text": "His clothes became dazzling white, whiter than anyone in the world could bleach them."
         },
         {
           "number": 4,
-          "text": "Jesus said to them, \"Only in his hometown, among his relatives and in his own house is a prophet without honor.\""
+          "text": "And there appeared before them Elijah and Moses, who were talking with Jesus."
         },
         {
           "number": 5,
-          "text": "He could not do any miracles there, except lay his hands on a few sick people and heal them."
+          "text": "Peter said to Jesus, \"Rabbi, it is good for us to be here. Let us put up three shelters--one for you, one for Moses and one for Elijah.\""
         },
         {
           "number": 6,
-          "text": "And he was amazed at their lack of faith. Then Jesus went around teaching from village to village."
+          "text": "(He did not know what to say, they were so frightened.)"
         },
         {
           "number": 7,
-          "text": "Calling the Twelve to him, he sent them out two by two and gave them authority over evil spirits."
+          "text": "Then a cloud appeared and enveloped them, and a voice came from the cloud: \"This is my Son, whom I love. Listen to him!\""
         },
         {
           "number": 8,
-          "text": "These were his instructions: \"Take nothing for the journey except a staff--no bread, no bag, no money in your belts."
+          "text": "Suddenly, when they looked around, they no longer saw anyone with them except Jesus."
         },
         {
           "number": 9,
-          "text": "Wear sandals but not an extra tunic."
+          "text": "As they were coming down the mountain, Jesus gave them orders not to tell anyone what they had seen until the Son of Man had risen from the dead."
         },
         {
           "number": 10,
-          "text": "Whenever you enter a house, stay there until you leave that town."
+          "text": "They kept the matter to themselves, discussing what \"rising from the dead\" meant."
         },
         {
           "number": 11,
-          "text": "And if any place will not welcome you or listen to you, shake the dust off your feet when you leave, as a testimony against them.\""
+          "text": "And they asked him, \"Why do the teachers of the law say that Elijah must come first?\""
         },
         {
           "number": 12,
-          "text": "They went out and preached that people should repent."
+          "text": "Jesus replied, \"To be sure, Elijah does come first, and restores all things. Why then is it written that the Son of Man must suffer much and be rejected?"
         },
         {
           "number": 13,
-          "text": "They drove out many demons and anointed many sick people with oil and healed them."
+          "text": "But I tell you, Elijah has come, and they have done to him everything they wished, just as it is written about him.\""
         },
         {
           "number": 14,
-          "text": "King Herod heard about this, for Jesus' name had become well known. Some were saying, \"John the Baptist has been raised from the dead, and that is why miraculous powers are at work in him.\""
+          "text": "When they came to the other disciples, they saw a large crowd around them and the teachers of the law arguing with them."
         },
         {
           "number": 15,
-          "text": "Others said, \"He is Elijah.\" And still others claimed, \"He is a prophet, like one of the prophets of long ago.\""
+          "text": "As soon as all the people saw Jesus, they were overwhelmed with wonder and ran to greet him."
         },
         {
           "number": 16,
-          "text": "But when Herod heard this, he said, \"John, the man I beheaded, has been raised from the dead!\""
+          "text": "\"What are you arguing with them about?\" he asked."
         },
         {
           "number": 17,
-          "text": "For Herod himself had given orders to have John arrested, and he had him bound and put in prison. He did this because of Herodias, his brother Philip's wife, whom he had married."
+          "text": "A man in the crowd answered, \"Teacher, I brought you my son, who is possessed by a spirit that has robbed him of speech."
         },
         {
           "number": 18,
-          "text": "For John had been saying to Herod, \"It is not lawful for you to have your brother's wife.\""
+          "text": "Whenever it seizes him, it throws him to the ground. He foams at the mouth, gnashes his teeth and becomes rigid. I asked your disciples to drive out the spirit, but they could not.\""
         },
         {
           "number": 19,
-          "text": "So Herodias nursed a grudge against John and wanted to kill him. But she was not able to,"
+          "text": "\"O unbelieving generation,\" Jesus replied, \"how long shall I stay with you? How long shall I put up with you? Bring the boy to me.\""
         },
         {
           "number": 20,
-          "text": "because Herod feared John and protected him, knowing him to be a righteous and holy man. When Herod heard John, he was greatly puzzled; yet he liked to listen to him."
+          "text": "So they brought him. When the spirit saw Jesus, it immediately threw the boy into a convulsion. He fell to the ground and rolled around, foaming at the mouth."
         },
         {
           "number": 21,
-          "text": "Finally the opportune time came. On his birthday Herod gave a banquet for his high officials and military commanders and the leading men of Galilee."
+          "text": "Jesus asked the boy's father, \"How long has he been like this?\" \"From childhood,\" he answered."
         },
         {
           "number": 22,
-          "text": "When the daughter of Herodias came in and danced, she pleased Herod and his dinner guests. The king said to the girl, \"Ask me for anything you want, and I'll give it to you.\""
+          "text": "\"It has often thrown him into fire or water to kill him. But if you can do anything, take pity on us and help us.\""
         },
         {
           "number": 23,
-          "text": "And he promised her with an oath, \"Whatever you ask I will give you, up to half my kingdom.\""
+          "text": "\"'If you can'?\" said Jesus. \"Everything is possible for him who believes.\""
         },
         {
           "number": 24,
-          "text": "She went out and said to her mother, \"What shall I ask for?\" \"The head of John the Baptist,\" she answered."
+          "text": "Immediately the boy's father exclaimed, \"I do believe; help me overcome my unbelief!\""
         },
         {
           "number": 25,
-          "text": "At once the girl hurried in to the king with the request: \"I want you to give me right now the head of John the Baptist on a platter.\""
+          "text": "When Jesus saw that a crowd was running to the scene, he rebuked the evil spirit. \"You deaf and mute spirit,\" he said, \"I command you, come out of him and never enter him again.\""
         },
         {
           "number": 26,
-          "text": "The king was greatly distressed, but because of his oaths and his dinner guests, he did not want to refuse her."
+          "text": "The spirit shrieked, convulsed him violently and came out. The boy looked so much like a corpse that many said, \"He's dead.\""
         },
         {
           "number": 27,
-          "text": "So he immediately sent an executioner with orders to bring John's head. The man went, beheaded John in the prison,"
+          "text": "But Jesus took him by the hand and lifted him to his feet, and he stood up."
         },
         {
           "number": 28,
-          "text": "and brought back his head on a platter. He presented it to the girl, and she gave it to her mother."
+          "text": "After Jesus had gone indoors, his disciples asked him privately, \"Why couldn't we drive it out?\""
         },
         {
           "number": 29,
-          "text": "On hearing of this, John's disciples came and took his body and laid it in a tomb."
+          "text": "He replied, \"This kind can come out only by prayer.\""
         },
         {
           "number": 30,
-          "text": "The apostles gathered around Jesus and reported to him all they had done and taught."
+          "text": "They left that place and passed through Galilee. Jesus did not want anyone to know where they were,"
         },
         {
           "number": 31,
-          "text": "Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, \"Come with me by yourselves to a quiet place and get some rest.\""
+          "text": "because he was teaching his disciples. He said to them, \"The Son of Man is going to be betrayed into the hands of men. They will kill him, and after three days he will rise.\""
         },
         {
           "number": 32,
-          "text": "So they went away by themselves in a boat to a solitary place."
+          "text": "But they did not understand what he meant and were afraid to ask him about it."
         },
         {
           "number": 33,
-          "text": "But many who saw them leaving recognized them and ran on foot from all the towns and got there ahead of them."
+          "text": "They came to Capernaum. When he was in the house, he asked them, \"What were you arguing about on the road?\""
         },
         {
           "number": 34,
-          "text": "When Jesus landed and saw a large crowd, he had compassion on them, because they were like sheep without a shepherd. So he began teaching them many things."
+          "text": "But they kept quiet because on the way they had argued about who was the greatest."
         },
         {
           "number": 35,
-          "text": "By this time it was late in the day, so his disciples came to him. \"This is a remote place,\" they said, \"and it's already very late."
+          "text": "Sitting down, Jesus called the Twelve and said, \"If anyone wants to be first, he must be the very last, and the servant of all.\""
         },
         {
           "number": 36,
-          "text": "Send the people away so they can go to the surrounding countryside and villages and buy themselves something to eat.\""
+          "text": "He took a little child and had him stand among them. Taking him in his arms, he said to them,"
         },
         {
           "number": 37,
-          "text": "But he answered, \"You give them something to eat.\" They said to him, \"That would take eight months of a man's wages! Are we to go and spend that much on bread and give it to them to eat?\""
+          "text": "\"Whoever welcomes one of these little children in my name welcomes me; and whoever welcomes me does not welcome me but the one who sent me.\""
         },
         {
           "number": 38,
-          "text": "\"How many loaves do you have?\" he asked. \"Go and see.\" When they found out, they said, \"Five--and two fish.\""
+          "text": "\"Teacher,\" said John, \"we saw a man driving out demons in your name and we told him to stop, because he was not one of us.\""
         },
         {
           "number": 39,
-          "text": "Then Jesus directed them to have all the people sit down in groups on the green grass."
+          "text": "\"Do not stop him,\" Jesus said. \"No one who does a miracle in my name can in the next moment say anything bad about me,"
         },
         {
           "number": 40,
-          "text": "So they sat down in groups of hundreds and fifties."
+          "text": "for whoever is not against us is for us."
         },
         {
           "number": 41,
-          "text": "Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves. Then he gave them to his disciples to set before the people. He also divided the two fish among them all."
+          "text": "I tell you the truth, anyone who gives you a cup of water in my name because you belong to Christ will certainly not lose his reward."
         },
         {
           "number": 42,
-          "text": "They all ate and were satisfied,"
+          "text": "\"And if anyone causes one of these little ones who believe in me to sin, it would be better for him to be thrown into the sea with a large millstone tied around his neck."
         },
         {
           "number": 43,
-          "text": "and the disciples picked up twelve basketfuls of broken pieces of bread and fish."
-        },
-        {
-          "number": 44,
-          "text": "The number of the men who had eaten was five thousand."
+          "text": "If your hand causes you to sin, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out."
         },
         {
           "number": 45,
-          "text": "Immediately Jesus made his disciples get into the boat and go on ahead of him to Bethsaida, while he dismissed the crowd."
-        },
-        {
-          "number": 46,
-          "text": "After leaving them, he went up on a mountainside to pray."
+          "text": "And if your foot causes you to sin, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell."
         },
         {
           "number": 47,
-          "text": "When evening came, the boat was in the middle of the lake, and he was alone on land."
+          "text": "And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,"
         },
         {
           "number": 48,
-          "text": "He saw the disciples straining at the oars, because the wind was against them. About the fourth watch of the night he went out to them, walking on the lake. He was about to pass by them,"
+          "text": "where \"'their worm does not die, and the fire is not quenched.'"
         },
         {
           "number": 49,
-          "text": "but when they saw him walking on the lake, they thought he was a ghost. They cried out,"
+          "text": "Everyone will be salted with fire."
         },
         {
           "number": 50,
-          "text": "because they all saw him and were terrified. Immediately he spoke to them and said, \"Take courage! It is I. Don't be afraid.\""
-        },
-        {
-          "number": 51,
-          "text": "Then he climbed into the boat with them, and the wind died down. They were completely amazed,"
-        },
-        {
-          "number": 52,
-          "text": "for they had not understood about the loaves; their hearts were hardened."
-        },
-        {
-          "number": 53,
-          "text": "When they had crossed over, they landed at Gennesaret and anchored there."
-        },
-        {
-          "number": 54,
-          "text": "As soon as they got out of the boat, people recognized Jesus."
-        },
-        {
-          "number": 55,
-          "text": "They ran throughout that whole region and carried the sick on mats to wherever they heard he was."
-        },
-        {
-          "number": 56,
-          "text": "And wherever he went--into villages, towns or countryside--they placed the sick in the marketplaces. They begged him to let them touch even the edge of his cloak, and all who touched him were healed."
+          "text": "\"Salt is good, but if it loses its saltiness, how can you make it salty again? Have salt in yourselves, and be at peace with each other.\""
         }
       ]
     },
@@ -465,301 +409,425 @@
       "book": "mar",
       "book_name": "마가복음",
       "english_book_name": "Mark",
-      "chapter_number": 7,
+      "chapter_number": 10,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<장로들의 전통(마 15:1-20)> 바리새인들과 또 서기관 중 몇이 예루살렘에서 와서 예수께 모여들었다가"
+          "text": "<이혼에 대하여 가르치시다(마 19:1-12)> 예수께서 거기서 떠나 유대 지경과 요단 강 건너편으로 가시니 무리가 다시 모여들거늘 예수께서 다시 전례대로 가르치시더니"
         },
         {
           "number": 2,
-          "text": "그의 제자 중 몇 사람이 부정한 손 곧 씻지 아니한 손으로 떡 먹는 것을 보았더라"
+          "text": "바리새인들이 예수께 나아와 그를 시험하여 묻되 사람이 아내를 버리는 것이 옳으니이까"
         },
         {
           "number": 3,
-          "text": "(바리새인들과 모든 유대인들은 장로들의 전통을 지키어 손을 잘 씻지 않고서는 음식을 먹지 아니하며"
+          "text": "대답하여 이르시되 모세가 어떻게 너희에게 명하였느냐"
         },
         {
           "number": 4,
-          "text": "또 시장에서 돌아와서도 물을 뿌리지 않고서는 먹지 아니하며 그 외에도 여러 가지를 지키어 오는 것이 있으니 잔과 주발과 놋그릇을 씻음이러라)"
+          "text": "이르되 모세는 이혼 증서를 써주어 버리기를 허락하였나이다"
         },
         {
           "number": 5,
-          "text": "이에 바리새인들과 서기관들이 예수께 묻되 어찌하여 당신의 제자들은 장로들의 전통을 준행하지 아니하고 부정한 손으로 떡을 먹나이까"
+          "text": "예수께서 그들에게 이르시되 너희 마음이 완악함으로 말미암아 이 명령을 기록하였거니와"
         },
         {
           "number": 6,
-          "text": "이르시되 이사야가 너희 외식하는 자에 대하여 잘 예언하였도다 기록하였으되 이 백성이 입술로는 나를 공경하되 마음은 내게서 멀도다"
+          "text": "창조 때로부터 사람을 남자와 여자로 지으셨으니"
         },
         {
           "number": 7,
-          "text": "사람의 계명으로 교훈을 삼아 가르치니 나를 헛되이 경배하는도다 하였느니라"
+          "text": "이러므로 사람이 그 부모를 떠나서"
         },
         {
           "number": 8,
-          "text": "너희가 하나님의 계명은 버리고 사람의 전통을 지키느니라"
+          "text": "그 둘이 한 몸이 될지니라 이러한즉 이제 둘이 아니요 한 몸이니"
         },
         {
           "number": 9,
-          "text": "또 이르시되 너희가 너희 전통을 지키려고 하나님의 계명을 잘 저버리는도다"
+          "text": "그러므로 하나님이 짝지어 주신 것을 사람이 나누지 못할지니라 하시더라"
         },
         {
           "number": 10,
-          "text": "모세는 네 부모를 공경하라 하고 또 아버지나 어머니를 모욕하는 자는 죽임을 당하리라 하였거늘"
+          "text": "집에서 제자들이 다시 이 일을 물으니"
         },
         {
           "number": 11,
-          "text": "너희는 이르되 사람이 아버지에게나 어머니에게나 말하기를 내가 드려 유익하게 할 것이 고르반 곧 하나님께 드림이 되었다고 하기만 하면 그만이라 하고"
+          "text": "이르시되 누구든지 그 아내를 버리고 다른 데에 장가 드는 자는 본처에게 간음을 행함이요"
         },
         {
           "number": 12,
-          "text": "자기 아버지나 어머니에게 다시 아무 것도 하여 드리기를 허락하지 아니하여"
+          "text": "또 아내가 남편을 버리고 다른 데로 시집 가면 간음을 행함이니라"
         },
         {
           "number": 13,
-          "text": "너희가 전한 전통으로 하나님의 말씀을 폐하며 또 이같은 일을 많이 행하느니라 하시고"
+          "text": "<어린 아이들을 축복하시다(마 19:13-15; 눅 18:15-17)> 사람들이 예수께서 만져 주심을 바라고 어린 아이들을 데리고 오매 제자들이 꾸짖거늘"
         },
         {
           "number": 14,
-          "text": "무리를 다시 불러 이르시되 너희는 다 내 말을 듣고 깨달으라"
+          "text": "예수께서 보시고 노하시어 이르시되 어린 아이들이 내게 오는 것을 용납하고 금하지 말라 하나님의 나라가 이런 자의 것이니라"
         },
         {
           "number": 15,
-          "text": "무엇이든지 밖에서 사람에게로 들어가는 것은 능히 사람을 더럽게 하지 못하되"
+          "text": "내가 진실로 너희에게 이르노니 누구든지 하나님의 나라를 어린 아이와 같이 받들지 않는 자는 결단코 그 곳에 들어가지 못하리라 하시고"
         },
         {
           "number": 16,
-          "text": "사람 안에서 나오는 것이 사람을 더럽게 하는 것이니라 하시고"
+          "text": "그 어린 아이들을 안고 그들 위에 안수하시고 축복하시니라"
         },
         {
           "number": 17,
-          "text": "무리를 떠나 집으로 들어가시니 제자들이 그 비유를 묻자온대"
+          "text": "<재물이 많은 사람(마 19:16-30; 눅 18:18-30)> 예수께서 길에 나가실새 한 사람이 달려와서 꿇어 앉아 묻자오되 선한 선생님이여 내가 무엇을 하여야 영생을 얻으리이까"
         },
         {
           "number": 18,
-          "text": "예수께서 이르시되 너희도 이렇게 깨달음이 없느냐 무엇이든지 밖에서 들어가는 것이 능히 사람을 더럽게 하지 못함을 알지 못하느냐"
+          "text": "예수께서 이르시되 네가 어찌하여 나를 선하다 일컫느냐 하나님 한 분 외에는 선한 이가 없느니라"
         },
         {
           "number": 19,
-          "text": "이는 마음으로 들어가지 아니하고 배로 들어가 뒤로 나감이라 이러므로 모든 음식물을 깨끗하다 하시니라"
+          "text": "네가 계명을 아나니 살인하지 말라, 간음하지 말라, 도둑질하지 말라, 거짓 증언 하지 말라, 속여 빼앗지 말라, 네 부모를 공경하라 하였느니라"
         },
         {
           "number": 20,
-          "text": "또 이르시되 사람에게서 나오는 그것이 사람을 더럽게 하느니라"
+          "text": "그가 여짜오되 선생님이여 이것은 내가 어려서부터 다 지켰나이다"
         },
         {
           "number": 21,
-          "text": "속에서 곧 사람의 마음에서 나오는 것은 악한 생각 곧 음란과 도둑질과 살인과"
+          "text": "예수께서 그를 보시고 사랑하사 이르시되 네게 아직도 한 가지 부족한 것이 있으니 가서 네게 있는 것을 다 팔아 가난한 자들에게 주라 그리하면 하늘에서 보화가 네게 있으리라 그리고 와서 나를 따르라 하시니"
         },
         {
           "number": 22,
-          "text": "간음과 탐욕과 악독과 속임과 음탕과 질투와 비방과 교만과 우매함이니"
+          "text": "그 사람은 재물이 많은 고로 이 말씀으로 인하여 슬픈 기색을 띠고 근심하며 가니라"
         },
         {
           "number": 23,
-          "text": "이 모든 악한 것이 다 속에서 나와서 사람을 더럽게 하느니라"
+          "text": "예수께서 둘러 보시고 제자들에게 이르시되 재물이 있는 자는 하나님의 나라에 들어가기가 심히 어렵도다 하시니"
         },
         {
           "number": 24,
-          "text": "<수로보니게 여자의 믿음(마 15:21-28)> 예수께서 일어나사 거기를 떠나 두로 지방으로 가서 한 집에 들어가 아무도 모르게 하시려 하나 숨길 수 없더라"
+          "text": "제자들이 그 말씀에 놀라는지라 예수께서 다시 대답하여 이르시되 얘들아 하나님의 나라에 들어가기가 얼마나 어려운지"
         },
         {
           "number": 25,
-          "text": "이에 더러운 귀신 들린 어린 딸을 둔 한 여자가 예수의 소문을 듣고 곧 와서 그 발 아래에 엎드리니"
+          "text": "낙타가 바늘귀로 나가는 것이 부자가 하나님의 나라에 들어가는 것보다 쉬우니라 하시니"
         },
         {
           "number": 26,
-          "text": "그 여자는 헬라인이요 수로보니게 족속이라 자기 딸에게서 귀신 쫓아내 주시기를 간구하거늘"
+          "text": "제자들이 매우 놀라 서로 말하되 그런즉 누가 구원을 얻을 수 있는가 하니"
         },
         {
           "number": 27,
-          "text": "예수께서 이르시되 자녀로 먼저 배불리 먹게 할지니 자녀의 떡을 취하여 개들에게 던짐이 마땅치 아니하니라"
+          "text": "예수께서 그들을 보시며 이르시되 사람으로는 할 수 없으되 하나님으로는 그렇지 아니하니 하나님으로서는 다 하실 수 있느니라"
         },
         {
           "number": 28,
-          "text": "여자가 대답하여 이르되 주여 옳소이다마는 상 아래 개들도 아이들이 먹던 부스러기를 먹나이다"
+          "text": "베드로가 여짜와 이르되 보소서 우리가 모든 것을 버리고 주를 따랐나이다"
         },
         {
           "number": 29,
-          "text": "예수께서 이르시되 이 말을 하였으니 돌아가라 귀신이 네 딸에게서 나갔느니라 하시매"
+          "text": "예수께서 이르시되 내가 진실로 너희에게 이르노니 나와 복음을 위하여 집이나 형제나 자매나 어머니나 아버지나 자식이나 전토를 버린 자는"
         },
         {
           "number": 30,
-          "text": "여자가 집에 돌아가 본즉 아이가 침상에 누웠고 귀신이 나갔더라"
+          "text": "현세에 있어 집과 형제와 자매와 어머니와 자식과 전토를 백 배나 받되 박해를 겸하여 받고 내세에 영생을 받지 못할 자가 없느니라"
         },
         {
           "number": 31,
-          "text": "<귀 먹고 말 더듬는 사람을 고치시다> 예수께서 다시 두로 지방에서 나와 시돈을 지나고 데가볼리 지방을 통과하여 갈릴리 호수에 이르시매"
+          "text": "그러나 먼저 된 자로서 나중 되고 나중 된 자로서 먼저 될 자가 많으니라"
         },
         {
           "number": 32,
-          "text": "사람들이 귀 먹고 말 더듬는 자를 데리고 예수께 나아와 안수하여 주시기를 간구하거늘"
+          "text": "<죽음과 부활을 세 번째로 이르시다(마 20:17-19; 눅 18:31-34)> 예루살렘으로 올라가는 길에 예수께서 그들 앞에 서서 가시는데 그들이 놀라고 따르는 자들은 두려워하더라 이에 다시 열두 제자를 데리시고 자기가 당할 일을 말씀하여 이르시되"
         },
         {
           "number": 33,
-          "text": "예수께서 그 사람을 따로 데리고 무리를 떠나사 손가락을 그의 양 귀에 넣고 침을 뱉어 그의 혀에 손을 대시며"
+          "text": "보라 우리가 예루살렘에 올라가노니 인자가 대제사장들과 서기관들에게 넘겨지매 그들이 죽이기로 결의하고 이방인들에게 넘겨 주겠고"
         },
         {
           "number": 34,
-          "text": "하늘을 우러러 탄식하시며 그에게 이르시되 에바다 하시니 이는 열리라는 뜻이라"
+          "text": "그들은 능욕하며 침 뱉으며 채찍질하고 죽일 것이나 그는 삼 일 만에 살아나리라 하시니라"
         },
         {
           "number": 35,
-          "text": "그의 귀가 열리고 혀가 맺힌 것이 곧 풀려 말이 분명하여졌더라"
+          "text": "<야고보와 요한이 구하는 것(마 20:20-28)> 세베대의 아들 야고보와 요한이 주께 나아와 여짜오되 선생님이여 무엇이든지 우리가 구하는 바를 우리에게 하여 주시기를 원하옵나이다"
         },
         {
           "number": 36,
-          "text": "예수께서 그들에게 경고하사 아무에게도 이르지 말라 하시되 경고하실수록 그들이 더욱 널리 전파하니"
+          "text": "이르시되 너희에게 무엇을 하여 주기를 원하느냐"
         },
         {
           "number": 37,
-          "text": "사람들이 심히 놀라 이르되 그가 모든 것을 잘하였도다 못 듣는 사람도 듣게 하고 말 못하는 사람도 말하게 한다 하니라"
+          "text": "여짜오되 주의 영광중에서 우리를 하나는 주의 우편에, 하나는 좌편에 앉게 하여 주옵소서"
+        },
+        {
+          "number": 38,
+          "text": "예수께서 이르시되 너희는 너희가 구하는 것을 알지 못하는도다 내가 마시는 잔을 너희가 마실 수 있으며 내가 받는 세례를 너희가 받을 수 있느냐"
+        },
+        {
+          "number": 39,
+          "text": "그들이 말하되 할 수 있나이다 예수께서 이르시되 너희는 내가 마시는 잔을 마시며 내가 받는 세례를 받으려니와"
+        },
+        {
+          "number": 40,
+          "text": "내 좌우편에 앉는 것은 내가 줄 것이 아니라 누구를 위하여 준비되었든지 그들이 얻을 것이니라"
+        },
+        {
+          "number": 41,
+          "text": "열 제자가 듣고 야고보와 요한에 대하여 화를 내거늘"
+        },
+        {
+          "number": 42,
+          "text": "예수께서 불러다가 이르시되 이방인의 집권자들이 그들을 임의로 주관하고 그 고관들이 그들에게 권세를 부리는 줄을 너희가 알거니와"
+        },
+        {
+          "number": 43,
+          "text": "너희 중에는 그렇지 않을지니 너희 중에 누구든지 크고자 하는 자는 너희를 섬기는 자가 되고"
+        },
+        {
+          "number": 44,
+          "text": "너희 중에 누구든지 으뜸이 되고자 하는 자는 모든 사람의 종이 되어야 하리라"
+        },
+        {
+          "number": 45,
+          "text": "인자가 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기 목숨을 많은 사람의 대속물로 주려 함이니라"
+        },
+        {
+          "number": 46,
+          "text": "<맹인 바디매오가 고침을 받다(마 20:29-34; 눅 18:35-43)> 그들이 여리고에 이르렀더니 예수께서 제자들과 허다한 무리와 함께 여리고에서 나가실 때에 디매오의 아들인 맹인 거지 바디매오가 길 가에 앉았다가"
+        },
+        {
+          "number": 47,
+          "text": "나사렛 예수시란 말을 듣고 소리 질러 이르되 다윗의 자손 예수여 나를 불쌍히 여기소서 하거늘"
+        },
+        {
+          "number": 48,
+          "text": "많은 사람이 꾸짖어 잠잠하라 하되 그가 더욱 크게 소리 질러 이르되 다윗의 자손이여 나를 불쌍히 여기소서 하는지라"
+        },
+        {
+          "number": 49,
+          "text": "예수께서 머물러 서서 그를 부르라 하시니 그들이 그 맹인을 부르며 이르되 안심하고 일어나라 그가 너를 부르신다 하매"
+        },
+        {
+          "number": 50,
+          "text": "맹인이 겉옷을 내버리고 뛰어 일어나 예수께 나아오거늘"
+        },
+        {
+          "number": 51,
+          "text": "예수께서 말씀하여 이르시되 네게 무엇을 하여 주기를 원하느냐 맹인이 이르되 선생님이여 보기를 원하나이다"
+        },
+        {
+          "number": 52,
+          "text": "예수께서 이르시되 가라 네 믿음이 너를 구원하였느니라 하시니 그가 곧 보게 되어 예수를 길에서 따르니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "The Pharisees and some of the teachers of the law who had come from Jerusalem gathered around Jesus and"
+          "text": "Jesus then left that place and went into the region of Judea and across the Jordan. Again crowds of people came to him, and as was his custom, he taught them."
         },
         {
           "number": 2,
-          "text": "saw some of his disciples eating food with hands that were \"unclean,\" that is, unwashed."
+          "text": "Some Pharisees came and tested him by asking, \"Is it lawful for a man to divorce his wife?\""
         },
         {
           "number": 3,
-          "text": "(The Pharisees and all the Jews do not eat unless they give their hands a ceremonial washing, holding to the tradition of the elders."
+          "text": "\"What did Moses command you?\" he replied."
         },
         {
           "number": 4,
-          "text": "When they come from the marketplace they do not eat unless they wash. And they observe many other traditions, such as the washing of cups, pitchers and kettles.)"
+          "text": "They said, \"Moses permitted a man to write a certificate of divorce and send her away.\""
         },
         {
           "number": 5,
-          "text": "So the Pharisees and teachers of the law asked Jesus, \"Why don't your disciples live according to the tradition of the elders instead of eating their food with 'unclean' hands?\""
+          "text": "\"It was because your hearts were hard that Moses wrote you this law,\" Jesus replied."
         },
         {
           "number": 6,
-          "text": "He replied, \"Isaiah was right when he prophesied about you hypocrites; as it is written: \"'These people honor me with their lips, but their hearts are far from me."
+          "text": "\"But at the beginning of creation God 'made them male and female.'"
         },
         {
           "number": 7,
-          "text": "They worship me in vain; their teachings are but rules taught by men.'"
+          "text": "'For this reason a man will leave his father and mother and be united to his wife,"
         },
         {
           "number": 8,
-          "text": "You have let go of the commands of God and are holding on to the traditions of men.\""
+          "text": "and the two will become one flesh.' So they are no longer two, but one."
         },
         {
           "number": 9,
-          "text": "And he said to them: \"You have a fine way of setting aside the commands of God in order to observe your own traditions!"
+          "text": "Therefore what God has joined together, let man not separate.\""
         },
         {
           "number": 10,
-          "text": "For Moses said, 'Honor your father and your mother,' and, 'Anyone who curses his father or mother must be put to death.'"
+          "text": "When they were in the house again, the disciples asked Jesus about this."
         },
         {
           "number": 11,
-          "text": "But you say that if a man says to his father or mother: 'Whatever help you might otherwise have received from me is Corban' (that is, a gift devoted to God),"
+          "text": "He answered, \"Anyone who divorces his wife and marries another woman commits adultery against her."
         },
         {
           "number": 12,
-          "text": "then you no longer let him do anything for his father or mother."
+          "text": "And if she divorces her husband and marries another man, she commits adultery.\""
         },
         {
           "number": 13,
-          "text": "Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that.\""
+          "text": "People were bringing little children to Jesus to have him touch them, but the disciples rebuked them."
         },
         {
           "number": 14,
-          "text": "Again Jesus called the crowd to him and said, \"Listen to me, everyone, and understand this."
+          "text": "When Jesus saw this, he was indignant. He said to them, \"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."
         },
         {
           "number": 15,
-          "text": "Nothing outside a man can make him 'unclean' by going into him. Rather, it is what comes out of a man that makes him 'unclean.'\""
+          "text": "I tell you the truth, anyone who will not receive the kingdom of God like a little child will never enter it.\""
+        },
+        {
+          "number": 16,
+          "text": "And he took the children in his arms, put his hands on them and blessed them."
         },
         {
           "number": 17,
-          "text": "After he had left the crowd and entered the house, his disciples asked him about this parable."
+          "text": "As Jesus started on his way, a man ran up to him and fell on his knees before him. \"Good teacher,\" he asked, \"what must I do to inherit eternal life?\""
         },
         {
           "number": 18,
-          "text": "\"Are you so dull?\" he asked. \"Don't you see that nothing that enters a man from the outside can make him 'unclean'?"
+          "text": "\"Why do you call me good?\" Jesus answered. \"No one is good--except God alone."
         },
         {
           "number": 19,
-          "text": "For it doesn't go into his heart but into his stomach, and then out of his body.\" (In saying this, Jesus declared all foods \"clean.\")"
+          "text": "You know the commandments: 'Do not murder, do not commit adultery, do not steal, do not give false testimony, do not defraud, honor your father and mother.'\""
         },
         {
           "number": 20,
-          "text": "He went on: \"What comes out of a man is what makes him 'unclean.'"
+          "text": "\"Teacher,\" he declared, \"all these I have kept since I was a boy.\""
         },
         {
           "number": 21,
-          "text": "For from within, out of men's hearts, come evil thoughts, sexual immorality, theft, murder, adultery,"
+          "text": "Jesus looked at him and loved him. \"One thing you lack,\" he said. \"Go, sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.\""
         },
         {
           "number": 22,
-          "text": "greed, malice, deceit, lewdness, envy, slander, arrogance and folly."
+          "text": "At this the man's face fell. He went away sad, because he had great wealth."
         },
         {
           "number": 23,
-          "text": "All these evils come from inside and make a man 'unclean.'\""
+          "text": "Jesus looked around and said to his disciples, \"How hard it is for the rich to enter the kingdom of God!\""
         },
         {
           "number": 24,
-          "text": "Jesus left that place and went to the vicinity of Tyre. He entered a house and did not want anyone to know it; yet he could not keep his presence secret."
+          "text": "The disciples were amazed at his words. But Jesus said again, \"Children, how hard it is to enter the kingdom of God!"
         },
         {
           "number": 25,
-          "text": "In fact, as soon as she heard about him, a woman whose little daughter was possessed by an evil spirit came and fell at his feet."
+          "text": "It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.\""
         },
         {
           "number": 26,
-          "text": "The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter."
+          "text": "The disciples were even more amazed, and said to each other, \"Who then can be saved?\""
         },
         {
           "number": 27,
-          "text": "\"First let the children eat all they want,\" he told her, \"for it is not right to take the children's bread and toss it to their dogs.\""
+          "text": "Jesus looked at them and said, \"With man this is impossible, but not with God; all things are possible with God.\""
         },
         {
           "number": 28,
-          "text": "\"Yes, Lord,\" she replied, \"but even the dogs under the table eat the children's crumbs.\""
+          "text": "Peter said to him, \"We have left everything to follow you!\""
         },
         {
           "number": 29,
-          "text": "Then he told her, \"For such a reply, you may go; the demon has left your daughter.\""
+          "text": "\"I tell you the truth,\" Jesus replied, \"no one who has left home or brothers or sisters or mother or father or children or fields for me and the gospel"
         },
         {
           "number": 30,
-          "text": "She went home and found her child lying on the bed, and the demon gone."
+          "text": "will fail to receive a hundred times as much in this present age (homes, brothers, sisters, mothers, children and fields--and with them, persecutions) and in the age to come, eternal life."
         },
         {
           "number": 31,
-          "text": "Then Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee and into the region of the Decapolis."
+          "text": "But many who are first will be last, and the last first.\""
         },
         {
           "number": 32,
-          "text": "There some people brought to him a man who was deaf and could hardly talk, and they begged him to place his hand on the man."
+          "text": "They were on their way up to Jerusalem, with Jesus leading the way, and the disciples were astonished, while those who followed were afraid. Again he took the Twelve aside and told them what was going to happen to him."
         },
         {
           "number": 33,
-          "text": "After he took him aside, away from the crowd, Jesus put his fingers into the man's ears. Then he spit and touched the man's tongue."
+          "text": "\"We are going up to Jerusalem,\" he said, \"and the Son of Man will be betrayed to the chief priests and teachers of the law. They will condemn him to death and will hand him over to the Gentiles,"
         },
         {
           "number": 34,
-          "text": "He looked up to heaven and with a deep sigh said to him, \"Ephphatha!\" (which means, \"Be opened!\")."
+          "text": "who will mock him and spit on him, flog him and kill him. Three days later he will rise.\""
         },
         {
           "number": 35,
-          "text": "At this, the man's ears were opened, his tongue was loosened and he began to speak plainly."
+          "text": "Then James and John, the sons of Zebedee, came to him. \"Teacher,\" they said, \"we want you to do for us whatever we ask.\""
         },
         {
           "number": 36,
-          "text": "Jesus commanded them not to tell anyone. But the more he did so, the more they kept talking about it."
+          "text": "\"What do you want me to do for you?\" he asked."
         },
         {
           "number": 37,
-          "text": "People were overwhelmed with amazement. \"He has done everything well,\" they said. \"He even makes the deaf hear and the mute speak.\""
+          "text": "They replied, \"Let one of us sit at your right and the other at your left in your glory.\""
+        },
+        {
+          "number": 38,
+          "text": "\"You don't know what you are asking,\" Jesus said. \"Can you drink the cup I drink or be baptized with the baptism I am baptized with?\""
+        },
+        {
+          "number": 39,
+          "text": "\"We can,\" they answered. Jesus said to them, \"You will drink the cup I drink and be baptized with the baptism I am baptized with,"
+        },
+        {
+          "number": 40,
+          "text": "but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared.\""
+        },
+        {
+          "number": 41,
+          "text": "When the ten heard about this, they became indignant with James and John."
+        },
+        {
+          "number": 42,
+          "text": "Jesus called them together and said, \"You know that those who are regarded as rulers of the Gentiles lord it over them, and their high officials exercise authority over them."
+        },
+        {
+          "number": 43,
+          "text": "Not so with you. Instead, whoever wants to become great among you must be your servant,"
+        },
+        {
+          "number": 44,
+          "text": "and whoever wants to be first must be slave of all."
+        },
+        {
+          "number": 45,
+          "text": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\""
+        },
+        {
+          "number": 46,
+          "text": "Then they came to Jericho. As Jesus and his disciples, together with a large crowd, were leaving the city, a blind man, Bartimaeus (that is, the Son of Timaeus), was sitting by the roadside begging."
+        },
+        {
+          "number": 47,
+          "text": "When he heard that it was Jesus of Nazareth, he began to shout, \"Jesus, Son of David, have mercy on me!\""
+        },
+        {
+          "number": 48,
+          "text": "Many rebuked him and told him to be quiet, but he shouted all the more, \"Son of David, have mercy on me!\""
+        },
+        {
+          "number": 49,
+          "text": "Jesus stopped and said, \"Call him.\" So they called to the blind man, \"Cheer up! On your feet! He's calling you.\""
+        },
+        {
+          "number": 50,
+          "text": "Throwing his cloak aside, he jumped to his feet and came to Jesus."
+        },
+        {
+          "number": 51,
+          "text": "\"What do you want me to do for you?\" Jesus asked him. The blind man said, \"Rabbi, I want to see.\""
+        },
+        {
+          "number": 52,
+          "text": "\"Go,\" said Jesus, \"your faith has healed you.\" Immediately he received his sight and followed Jesus along the road. MAR"
         }
       ]
     },
@@ -767,313 +835,269 @@
       "book": "mar",
       "book_name": "마가복음",
       "english_book_name": "Mark",
-      "chapter_number": 8,
+      "chapter_number": 11,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<사천 명을 먹이시다(마 15:32-39)> 그 무렵에 또 큰 무리가 있어 먹을 것이 없는지라 예수께서 제자들을 불러 이르시되"
+          "text": "<예루살렘에 들어가시다(마 21:1-11; 눅 19:28-40; 요 12:12-19)> 그들이 예루살렘에 가까이 와서 감람 산 벳바게와 베다니에 이르렀을 때에 예수께서 제자 중 둘을 보내시며"
         },
         {
           "number": 2,
-          "text": "내가 무리를 불쌍히 여기노라 그들이 나와 함께 있은 지 이미 사흘이 지났으나 먹을 것이 없도다"
+          "text": "이르시되 너희는 맞은편 마을로 가라 그리로 들어가면 곧 아직 아무도 타 보지 않은 나귀 새끼가 매여 있는 것을 보리니 풀어 끌고 오라"
         },
         {
           "number": 3,
-          "text": "만일 내가 그들을 굶겨 집으로 보내면 길에서 기진하리라 그 중에는 멀리서 온 사람들도 있느니라"
+          "text": "만일 누가 너희에게 왜 이렇게 하느냐 묻거든 주가 쓰시겠다 하라 그리하면 즉시 이리로 보내리라 하시니"
         },
         {
           "number": 4,
-          "text": "제자들이 대답하되 이 광야 어디서 떡을 얻어 이 사람들로 배부르게 할 수 있으리이까"
+          "text": "제자들이 가서 본즉 나귀 새끼가 문 앞 거리에 매여 있는지라 그것을 푸니"
         },
         {
           "number": 5,
-          "text": "예수께서 물으시되 너희에게 떡 몇 개나 있느냐 이르되 일곱이로소이다 하거늘"
+          "text": "거기 서 있는 사람 중 어떤 이들이 이르되 나귀 새끼를 풀어 무엇 하려느냐 하매"
         },
         {
           "number": 6,
-          "text": "예수께서 무리를 명하여 땅에 앉게 하시고 떡 일곱 개를 가지사 축사하시고 떼어 제자들에게 주어 나누어 주게 하시니 제자들이 무리에게 나누어 주더라"
+          "text": "제자들이 예수께서 이르신 대로 말한대 이에 허락하는지라"
         },
         {
           "number": 7,
-          "text": "또 작은 생선 두어 마리가 있는지라 이에 축복하시고 명하사 이것도 나누어 주게 하시니"
+          "text": "나귀 새끼를 예수께로 끌고 와서 자기들의 겉옷을 그 위에 얹어 놓으매 예수께서 타시니"
         },
         {
           "number": 8,
-          "text": "배불리 먹고 남은 조각 일곱 광주리를 거두었으며"
+          "text": "많은 사람들은 자기들의 겉옷을, 또 다른 이들은 들에서 벤 나뭇가지를 길에 펴며"
         },
         {
           "number": 9,
-          "text": "사람은 약 사천 명이었더라 예수께서 그들을 흩어 보내시고"
+          "text": "앞에서 가고 뒤에서 따르는 자들이 소리 지르되 호산나 찬송하리로다 주의 이름으로 오시는 이여"
         },
         {
           "number": 10,
-          "text": "곧 제자들과 함께 배에 오르사 달마누다 지방으로 가시니라"
+          "text": "찬송하리로다 오는 우리 조상 다윗의 나라여 가장 높은 곳에서 호산나 하더라"
         },
         {
           "number": 11,
-          "text": "<이 세대가 표적을 구하나(마 16:1-4)> 바리새인들이 나와서 예수를 힐난하며 그를 시험하여 하늘로부터 오는 표적을 구하거늘"
+          "text": "예수께서 예루살렘에 이르러 성전에 들어가사 모든 것을 둘러 보시고 때가 이미 저물매 열두 제자를 데리시고 베다니에 나가시니라"
         },
         {
           "number": 12,
-          "text": "예수께서 마음속으로 깊이 탄식하시며 이르시되 어찌하여 이 세대가 표적을 구하느냐 내가 진실로 너희에게 이르노니 이 세대에 표적을 주지 아니하리라 하시고"
+          "text": "<무화과나무에게 이르시다(마 21:18-19)> 이튿날 그들이 베다니에서 나왔을 때에 예수께서 시장하신지라"
         },
         {
           "number": 13,
-          "text": "그들을 떠나 다시 배에 올라 건너편으로 가시니라"
+          "text": "멀리서 잎사귀 있는 한 무화과나무를 보시고 혹 그 나무에 무엇이 있을까 하여 가셨더니 가서 보신즉 잎사귀 외에 아무 것도 없더라 이는 무화과의 때가 아님이라"
         },
         {
           "number": 14,
-          "text": "<바리새인들과 헤롯의 누룩(마 16:5-12)> 제자들이 떡 가져오기를 잊었으매 배에 떡 한 개밖에 그들에게 없더라"
+          "text": "예수께서 나무에게 말씀하여 이르시되 이제부터 영원토록 사람이 네게서 열매를 따 먹지 못하리라 하시니 제자들이 이를 듣더라"
         },
         {
           "number": 15,
-          "text": "예수께서 경고하여 이르시되 삼가 바리새인들의 누룩과 헤롯의 누룩을 주의하라 하시니"
+          "text": "<성전을 깨끗하게 하시다(마 21:12-17; 눅 19:45-48; 요 2:13-22)> 그들이 예루살렘에 들어가니라 예수께서 성전에 들어가사 성전 안에서 매매하는 자들을 내쫓으시며 돈 바꾸는 자들의 상과 비둘기 파는 자들의 의자를 둘러 엎으시며"
         },
         {
           "number": 16,
-          "text": "제자들이 서로 수군거리기를 이는 우리에게 떡이 없음이로다 하거늘"
+          "text": "아무나 물건을 가지고 성전 안으로 지나다님을 허락하지 아니하시고"
         },
         {
           "number": 17,
-          "text": "예수께서 아시고 이르시되 너희가 어찌 떡이 없음으로 수군거리느냐 아직도 알지 못하며 깨닫지 못하느냐 너희 마음이 둔하냐"
+          "text": "이에 가르쳐 이르시되 기록된 바 내 집은 만민이 기도하는 집이라 칭함을 받으리라고 하지 아니하였느냐 너희는 강도의 소굴을 만들었도다 하시매"
         },
         {
           "number": 18,
-          "text": "너희가 눈이 있어도 보지 못하며 귀가 있어도 듣지 못하느냐 또 기억하지 못하느냐"
+          "text": "대제사장들과 서기관들이 듣고 예수를 어떻게 죽일까 하고 꾀하니 이는 무리가 다 그의 교훈을 놀랍게 여기므로 그를 두려워함일러라"
         },
         {
           "number": 19,
-          "text": "내가 떡 다섯 개를 오천 명에게 떼어 줄 때에 조각 몇 바구니를 거두었더냐 이르되 열둘이니이다"
+          "text": "그리고 날이 저물매 그들이 성 밖으로 나가더라"
         },
         {
           "number": 20,
-          "text": "또 일곱 개를 사천 명에게 떼어 줄 때에 조각 몇 광주리를 거두었더냐 이르되 일곱이니이다"
+          "text": "<무화과나무가 마르다(마 21:20-22)> 그들이 아침에 지나갈 때에 무화과나무가 뿌리째 마른 것을 보고"
         },
         {
           "number": 21,
-          "text": "이르시되 아직도 깨닫지 못하느냐 하시니라"
+          "text": "베드로가 생각이 나서 여짜오되 랍비여 보소서 저주하신 무화과나무가 말랐나이다"
         },
         {
           "number": 22,
-          "text": "<벳새다에서 맹인을 고치시다> 벳새다에 이르매 사람들이 맹인 한 사람을 데리고 예수께 나아와 손 대시기를 구하거늘"
+          "text": "예수께서 그들에게 대답하여 이르시되 하나님을 믿으라"
         },
         {
           "number": 23,
-          "text": "예수께서 맹인의 손을 붙잡으시고 마을 밖으로 데리고 나가사 눈에 침을 뱉으시며 그에게 안수하시고 무엇이 보이느냐 물으시니"
+          "text": "내가 진실로 너희에게 이르노니 누구든지 이 산더러 들리어 바다에 던져지라 하며 그 말하는 것이 이루어질 줄 믿고 마음에 의심하지 아니하면 그대로 되리라"
         },
         {
           "number": 24,
-          "text": "쳐다보며 이르되 사람들이 보이나이다 나무 같은 것들이 걸어 가는 것을 보나이다 하거늘"
+          "text": "그러므로 내가 너희에게 말하노니 무엇이든지 기도하고 구하는 것은 받은 줄로 믿으라 그리하면 너희에게 그대로 되리라"
         },
         {
           "number": 25,
-          "text": "이에 그 눈에 다시 안수하시매 그가 주목하여 보더니 나아서 모든 것을 밝히 보는지라"
+          "text": "서서 기도할 때에 아무에게나 혐의가 있거든 용서하라 그리하여야 하늘에 계신 너희 아버지께서도 너희 허물을 사하여 주시리라 하시니라"
         },
         {
           "number": 26,
-          "text": "예수께서 그 사람을 집으로 보내시며 이르시되 마을에는 들어가지 말라 하시니라"
+          "text": "(없음)"
         },
         {
           "number": 27,
-          "text": "<베드로의 고백, 죽음과 부활을 말씀하심(마 16:13-28; 눅 9:18-27)> 예수와 제자들이 빌립보 가이사랴 여러 마을로 나가실새 길에서 제자들에게 물어 이르시되 사람들이 나를 누구라고 하느냐"
+          "text": "<예수의 권위를 두고 말하다(마 21:23-27; 눅 20:1-8)> 그들이 다시 예루살렘에 들어가니라 예수께서 성전에서 거니실 때에 대제사장들과 서기관들과 장로들이 나아와"
         },
         {
           "number": 28,
-          "text": "제자들이 여짜와 이르되 세례 요한이라 하고 더러는 엘리야, 더러는 선지자 중의 하나라 하나이다"
+          "text": "이르되 무슨 권위로 이런 일을 하느냐 누가 이런 일 할 권위를 주었느냐"
         },
         {
           "number": 29,
-          "text": "또 물으시되 너희는 나를 누구라 하느냐 베드로가 대답하여 이르되 주는 그리스도시니이다 하매"
+          "text": "예수께서 이르시되 나도 한 말을 너희에게 물으리니 대답하라 그리하면 나도 무슨 권위로 이런 일을 하는지 이르리라"
         },
         {
           "number": 30,
-          "text": "이에 자기의 일을 아무에게도 말하지 말라 경고하시고"
+          "text": "요한의 세례가 하늘로부터냐 사람으로부터냐 내게 대답하라"
         },
         {
           "number": 31,
-          "text": "인자가 많은 고난을 받고 장로들과 대제사장들과 서기관들에게 버린 바 되어 죽임을 당하고 사흘 만에 살아나야 할 것을 비로소 그들에게 가르치시되"
+          "text": "그들이 서로 의논하여 이르되 만일 하늘로부터라 하면 어찌하여 그를 믿지 아니하였느냐 할 것이니"
         },
         {
           "number": 32,
-          "text": "드러내 놓고 이 말씀을 하시니 베드로가 예수를 붙들고 항변하매"
+          "text": "그러면 사람으로부터라 할까 하였으나 모든 사람이 요한을 참 선지자로 여기므로 그들이 백성을 두려워하는지라"
         },
         {
           "number": 33,
-          "text": "예수께서 돌이키사 제자들을 보시며 베드로를 꾸짖어 이르시되 사탄아 내 뒤로 물러가라 네가 하나님의 일을 생각하지 아니하고 도리어 사람의 일을 생각하는도다 하시고"
-        },
-        {
-          "number": 34,
-          "text": "무리와 제자들을 불러 이르시되 누구든지 나를 따라오려거든 자기를 부인하고 자기 십자가를 지고 나를 따를 것이니라"
-        },
-        {
-          "number": 35,
-          "text": "누구든지 자기 목숨을 구원하고자 하면 잃을 것이요 누구든지 나와 복음을 위하여 자기 목숨을 잃으면 구원하리라"
-        },
-        {
-          "number": 36,
-          "text": "사람이 만일 온 천하를 얻고도 자기 목숨을 잃으면 무엇이 유익하리요"
-        },
-        {
-          "number": 37,
-          "text": "사람이 무엇을 주고 자기 목숨과 바꾸겠느냐"
-        },
-        {
-          "number": 38,
-          "text": "누구든지 이 음란하고 죄 많은 세대에서 나와 내 말을 부끄러워하면 인자도 아버지의 영광으로 거룩한 천사들과 함께 올 때에 그 사람을 부끄러워하리라"
+          "text": "이에 예수께 대답하여 이르되 우리가 알지 못하노라 하니 예수께서 이르시되 나도 무슨 권위로 이런 일을 하는지 너희에게 이르지 아니하리라 하시니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said,"
+          "text": "As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent two of his disciples,"
         },
         {
           "number": 2,
-          "text": "\"I have compassion for these people; they have already been with me three days and have nothing to eat."
+          "text": "saying to them, \"Go to the village ahead of you, and just as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here."
         },
         {
           "number": 3,
-          "text": "If I send them home hungry, they will collapse on the way, because some of them have come a long distance.\""
+          "text": "If anyone asks you, 'Why are you doing this?' tell him, 'The Lord needs it and will send it back here shortly.'\""
         },
         {
           "number": 4,
-          "text": "His disciples answered, \"But where in this remote place can anyone get enough bread to feed them?\""
+          "text": "They went and found a colt outside in the street, tied at a doorway. As they untied it,"
         },
         {
           "number": 5,
-          "text": "\"How many loaves do you have?\" Jesus asked. \"Seven,\" they replied."
+          "text": "some people standing there asked, \"What are you doing, untying that colt?\""
         },
         {
           "number": 6,
-          "text": "He told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to set before the people, and they did so."
+          "text": "They answered as Jesus had told them to, and the people let them go."
         },
         {
           "number": 7,
-          "text": "They had a few small fish as well; he gave thanks for them also and told the disciples to distribute them."
+          "text": "When they brought the colt to Jesus and threw their cloaks over it, he sat on it."
         },
         {
           "number": 8,
-          "text": "The people ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over."
+          "text": "Many people spread their cloaks on the road, while others spread branches they had cut in the fields."
         },
         {
           "number": 9,
-          "text": "About four thousand men were present. And having sent them away,"
+          "text": "Those who went ahead and those who followed shouted, \"Hosanna!\" \"Blessed is he who comes in the name of the Lord!\""
         },
         {
           "number": 10,
-          "text": "he got into the boat with his disciples and went to the region of Dalmanutha."
+          "text": "\"Blessed is the coming kingdom of our father David!\" \"Hosanna in the highest!\""
         },
         {
           "number": 11,
-          "text": "The Pharisees came and began to question Jesus. To test him, they asked him for a sign from heaven."
+          "text": "Jesus entered Jerusalem and went to the temple. He looked around at everything, but since it was already late, he went out to Bethany with the Twelve."
         },
         {
           "number": 12,
-          "text": "He sighed deeply and said, \"Why does this generation ask for a miraculous sign? I tell you the truth, no sign will be given to it.\""
+          "text": "The next day as they were leaving Bethany, Jesus was hungry."
         },
         {
           "number": 13,
-          "text": "Then he left them, got back into the boat and crossed to the other side."
+          "text": "Seeing in the distance a fig tree in leaf, he went to find out if it had any fruit. When he reached it, he found nothing but leaves, because it was not the season for figs."
         },
         {
           "number": 14,
-          "text": "The disciples had forgotten to bring bread, except for one loaf they had with them in the boat."
+          "text": "Then he said to the tree, \"May no one ever eat fruit from you again.\" And his disciples heard him say it."
         },
         {
           "number": 15,
-          "text": "\"Be careful,\" Jesus warned them. \"Watch out for the yeast of the Pharisees and that of Herod.\""
+          "text": "On reaching Jerusalem, Jesus entered the temple area and began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves,"
         },
         {
           "number": 16,
-          "text": "They discussed this with one another and said, \"It is because we have no bread.\""
+          "text": "and would not allow anyone to carry merchandise through the temple courts."
         },
         {
           "number": 17,
-          "text": "Aware of their discussion, Jesus asked them: \"Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?"
+          "text": "And as he taught them, he said, \"Is it not written: \"'My house will be called a house of prayer for all nations'? But you have made it 'a den of robbers.'\""
         },
         {
           "number": 18,
-          "text": "Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?"
+          "text": "The chief priests and the teachers of the law heard this and began looking for a way to kill him, for they feared him, because the whole crowd was amazed at his teaching."
         },
         {
           "number": 19,
-          "text": "When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?\" \"Twelve,\" they replied."
+          "text": "When evening came, they went out of the city."
         },
         {
           "number": 20,
-          "text": "\"And when I broke the seven loaves for the four thousand, how many basketfuls of pieces did you pick up?\" They answered, \"Seven.\""
+          "text": "In the morning, as they went along, they saw the fig tree withered from the roots."
         },
         {
           "number": 21,
-          "text": "He said to them, \"Do you still not understand?\""
+          "text": "Peter remembered and said to Jesus, \"Rabbi, look! The fig tree you cursed has withered!\""
         },
         {
           "number": 22,
-          "text": "They came to Bethsaida, and some people brought a blind man and begged Jesus to touch him."
+          "text": "\"Have faith in God,\" Jesus answered."
         },
         {
           "number": 23,
-          "text": "He took the blind man by the hand and led him outside the village. When he had spit on the man's eyes and put his hands on him, Jesus asked, \"Do you see anything?\""
+          "text": "\"I tell you the truth, if anyone says to this mountain, 'Go, throw yourself into the sea,' and does not doubt in his heart but believes that what he says will happen, it will be done for him."
         },
         {
           "number": 24,
-          "text": "He looked up and said, \"I see people; they look like trees walking around.\""
+          "text": "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
         },
         {
           "number": 25,
-          "text": "Once more Jesus put his hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly."
-        },
-        {
-          "number": 26,
-          "text": "Jesus sent him home, saying, \"Don't go into the village.\""
+          "text": "And when you stand praying, if you hold anything against anyone, forgive him, so that your Father in heaven may forgive you your sins.\""
         },
         {
           "number": 27,
-          "text": "Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked them, \"Who do people say I am?\""
+          "text": "They arrived again in Jerusalem, and while Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to him."
         },
         {
           "number": 28,
-          "text": "They replied, \"Some say John the Baptist; others say Elijah; and still others, one of the prophets.\""
+          "text": "\"By what authority are you doing these things?\" they asked. \"And who gave you authority to do this?\""
         },
         {
           "number": 29,
-          "text": "\"But what about you?\" he asked. \"Who do you say I am?\" Peter answered, \"You are the Christ.\""
+          "text": "Jesus replied, \"I will ask you one question. Answer me, and I will tell you by what authority I am doing these things."
         },
         {
           "number": 30,
-          "text": "Jesus warned them not to tell anyone about him."
+          "text": "John's baptism--was it from heaven, or from men? Tell me!\""
         },
         {
           "number": 31,
-          "text": "He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again."
+          "text": "They discussed it among themselves and said, \"If we say, 'From heaven,' he will ask, 'Then why didn't you believe him?'"
         },
         {
           "number": 32,
-          "text": "He spoke plainly about this, and Peter took him aside and began to rebuke him."
+          "text": "But if we say, 'From men'....\" (They feared the people, for everyone held that John really was a prophet.)"
         },
         {
           "number": 33,
-          "text": "But when Jesus turned and looked at his disciples, he rebuked Peter. \"Get behind me, Satan!\" he said. \"You do not have in mind the things of God, but the things of men.\""
-        },
-        {
-          "number": 34,
-          "text": "Then he called the crowd to him along with his disciples and said: \"If anyone would come after me, he must deny himself and take up his cross and follow me."
-        },
-        {
-          "number": 35,
-          "text": "For whoever wants to save his life will lose it, but whoever loses his life for me and for the gospel will save it."
-        },
-        {
-          "number": 36,
-          "text": "What good is it for a man to gain the whole world, yet forfeit his soul?"
-        },
-        {
-          "number": 37,
-          "text": "Or what can a man give in exchange for his soul?"
-        },
-        {
-          "number": 38,
-          "text": "If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels.\""
+          "text": "So they answered Jesus, \"We don't know.\" Jesus said, \"Neither will I tell you by what authority I am doing these things.\""
         }
       ]
     }
