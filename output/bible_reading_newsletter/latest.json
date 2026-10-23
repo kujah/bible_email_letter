@@ -1,1139 +1,1081 @@
 {
-  "target_date": "2026-10-23",
-  "reference": "마가복음 14-16장",
-  "generated_at": "2026-10-22T22:58:10Z",
+  "target_date": "2026-10-24",
+  "reference": "누가복음 1-2장",
+  "generated_at": "2026-10-23T22:54:27Z",
   "chapters": [
     {
-      "book": "mar",
-      "book_name": "마가복음",
-      "english_book_name": "Mark",
-      "chapter_number": 14,
+      "book": "luk",
+      "book_name": "누가복음",
+      "english_book_name": "Luke",
+      "chapter_number": 1,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<예수를 죽일 방도를 찾다(마 26:1-5; 눅 22:1-2; 요 11:45-53)> 이틀이 지나면 유월절과 무교절이라 대제사장들과 서기관들이 예수를 흉계로 잡아 죽일 방도를 구하며"
+          "text": "<데오빌로 각하에게> 우리 중에 이루어진 사실에 대하여"
         },
         {
           "number": 2,
-          "text": "이르되 민란이 날까 하노니 명절에는 하지 말자 하더라"
+          "text": "처음부터 목격자와 말씀의 일꾼 된 자들이 전하여 준 그대로 내력을 저술하려고 붓을 든 사람이 많은지라"
         },
         {
           "number": 3,
-          "text": "<예수의 머리에 향유를 붓다(마 26:6-13; 요 12:1-8)> 예수께서 베다니 나병환자 시몬의 집에서 식사하실 때에 한 여자가 매우 값진 향유 곧 순전한 나드 한 옥합을 가지고 와서 그 옥합을 깨뜨려 예수의 머리에 부으니"
+          "text": "그 모든 일을 근원부터 자세히 미루어 살핀 나도 데오빌로 각하에게 차례대로 써 보내는 것이 좋은 줄 알았노니"
         },
         {
           "number": 4,
-          "text": "어떤 사람들이 화를 내어 서로 말하되 어찌하여 이 향유를 허비하는가"
+          "text": "이는 각하가 알고 있는 바를 더 확실하게 하려 함이로라"
         },
         {
           "number": 5,
-          "text": "이 향유를 삼백 데나리온 이상에 팔아 가난한 자들에게 줄 수 있었겠도다 하며 그 여자를 책망하는지라"
+          "text": "<세례 요한의 출생을 예고하다> 유대 왕 헤롯 때에 아비야 반열에 제사장 한 사람이 있었으니 이름은 사가랴요 그의 아내는 아론의 자손이니 이름은 엘리사벳이라"
         },
         {
           "number": 6,
-          "text": "예수께서 이르시되 가만 두라 너희가 어찌하여 그를 괴롭게 하느냐 그가 내게 좋은 일을 하였느니라"
+          "text": "이 두 사람이 하나님 앞에 의인이니 주의 모든 계명과 규례대로 흠이 없이 행하더라"
         },
         {
           "number": 7,
-          "text": "가난한 자들은 항상 너희와 함께 있으니 아무 때라도 원하는 대로 도울 수 있거니와 나는 너희와 항상 함께 있지 아니하리라"
+          "text": "엘리사벳이 잉태를 못하므로 그들에게 자식이 없고 두 사람의 나이가 많더라"
         },
         {
           "number": 8,
-          "text": "그는 힘을 다하여 내 몸에 향유를 부어 내 장례를 미리 준비하였느니라"
+          "text": "마침 사가랴가 그 반열의 차례대로 하나님 앞에서 제사장의 직무를 행할새"
         },
         {
           "number": 9,
-          "text": "내가 진실로 너희에게 이르노니 온 천하에 어디서든지 복음이 전파되는 곳에는 이 여자가 행한 일도 말하여 그를 기억하리라 하시니라"
+          "text": "제사장의 전례를 따라 제비를 뽑아 주의 성전에 들어가 분향하고"
         },
         {
           "number": 10,
-          "text": "<유다가 배반하다(마 26:14-16; 눅 22:3-6)> 열둘 중의 하나인 가룟 유다가 예수를 넘겨 주려고 대제사장들에게 가매"
+          "text": "모든 백성은 그 분향하는 시간에 밖에서 기도하더니"
         },
         {
           "number": 11,
-          "text": "그들이 듣고 기뻐하여 돈을 주기로 약속하니 유다가 예수를 어떻게 넘겨 줄까 하고 그 기회를 찾더라"
+          "text": "주의 사자가 그에게 나타나 향단 우편에 선지라"
         },
         {
           "number": 12,
-          "text": "<제자들과 함께 유월절을 지키시다(마 26:17-25; 눅 22:7-14, 21-23; 요 13:21-30)> 무교절의 첫날 곧 유월절 양 잡는 날에 제자들이 예수께 여짜오되 우리가 어디로 가서 선생님께서 유월절 음식을 잡수시게 준비하기를 원하시나이까 하매"
+          "text": "사가랴가 보고 놀라며 무서워하니"
         },
         {
           "number": 13,
-          "text": "예수께서 제자 중의 둘을 보내시며 이르시되 성내로 들어가라 그리하면 물 한 동이를 가지고 가는 사람을 만나리니 그를 따라가서"
+          "text": "천사가 그에게 이르되 사가랴여 무서워하지 말라 너의 간구함이 들린지라 네 아내 엘리사벳이 네게 아들을 낳아 주리니 그 이름을 요한이라 하라"
         },
         {
           "number": 14,
-          "text": "어디든지 그가 들어가는 그 집 주인에게 이르되 선생님의 말씀이 내가 내 제자들과 함께 유월절 음식을 먹을 나의 객실이 어디 있느냐 하시더라 하라"
+          "text": "너도 기뻐하고 즐거워할 것이요 많은 사람도 그의 태어남을 기뻐하리니"
         },
         {
           "number": 15,
-          "text": "그리하면 자리를 펴고 준비한 큰 다락방을 보이리니 거기서 우리를 위하여 준비하라 하시니"
+          "text": "이는 그가 주 앞에 큰 자가 되며 포도주나 독한 술을 마시지 아니하며 모태로부터 성령의 충만함을 받아"
         },
         {
           "number": 16,
-          "text": "제자들이 나가 성내로 들어가서 예수께서 하시던 말씀대로 만나 유월절 음식을 준비하니라"
+          "text": "이스라엘 자손을 주 곧 그들의 하나님께로 많이 돌아오게 하겠음이라"
         },
         {
           "number": 17,
-          "text": "저물매 그 열둘을 데리시고 가서"
+          "text": "그가 또 엘리야의 심령과 능력으로 주 앞에 먼저 와서 아버지의 마음을 자식에게, 거스르는 자를 의인의 슬기에 돌아오게 하고 주를 위하여 세운 백성을 준비하리라"
         },
         {
           "number": 18,
-          "text": "다 앉아 먹을 때에 예수께서 이르시되 내가 진실로 너희에게 이르노니 너희 중의 한 사람 곧 나와 함께 먹는 자가 나를 팔리라 하신대"
+          "text": "사가랴가 천사에게 이르되 내가 이것을 어떻게 알리요 내가 늙고 아내도 나이가 많으니이다"
         },
         {
           "number": 19,
-          "text": "그들이 근심하며 하나씩 하나씩 나는 아니지요 하고 말하기 시작하니"
+          "text": "천사가 대답하여 이르되 나는 하나님 앞에 서 있는 가브리엘이라 이 좋은 소식을 전하여 네게 말하라고 보내심을 받았노라"
         },
         {
           "number": 20,
-          "text": "그들에게 이르시되 열둘 중의 하나 곧 나와 함께 그릇에 손을 넣는 자니라"
+          "text": "보라 이 일이 되는 날까지 네가 말 못하는 자가 되어 능히 말을 못하리니 이는 네가 내 말을 믿지 아니함이거니와 때가 이르면 내 말이 이루어지리라 하더라"
         },
         {
           "number": 21,
-          "text": "인자는 자기에 대하여 기록된 대로 가거니와 인자를 파는 그 사람에게는 화가 있으리로다 그 사람은 차라리 나지 아니하였더라면 자기에게 좋을 뻔하였느니라 하시니라"
+          "text": "백성들이 사가랴를 기다리며 그가 성전 안에서 지체함을 이상히 여기더라"
         },
         {
           "number": 22,
-          "text": "<마지막 만찬(마 26:26-30; 눅 22:15-20; 고전 11:23-25)> 그들이 먹을 때에 예수께서 떡을 가지사 축복하시고 떼어 제자들에게 주시며 이르시되 받으라 이것은 내 몸이니라 하시고"
+          "text": "그가 나와서 그들에게 말을 못하니 백성들이 그가 성전 안에서 환상을 본 줄 알았더라 그가 몸짓으로 뜻을 표시하며 그냥 말 못하는 대로 있더니"
         },
         {
           "number": 23,
-          "text": "또 잔을 가지사 감사 기도 하시고 그들에게 주시니 다 이를 마시매"
+          "text": "그 직무의 날이 다 되매 집으로 돌아가니라"
         },
         {
           "number": 24,
-          "text": "이르시되 이것은 많은 사람을 위하여 흘리는 나의 피 곧 언약의 피니라"
+          "text": "이후에 그의 아내 엘리사벳이 잉태하고 다섯 달 동안 숨어 있으며 이르되"
         },
         {
           "number": 25,
-          "text": "진실로 너희에게 이르노니 내가 포도나무에서 난 것을 하나님 나라에서 새 것으로 마시는 날까지 다시 마시지 아니하리라 하시니라"
+          "text": "주께서 나를 돌보시는 날에 사람들 앞에서 내 부끄러움을 없게 하시려고 이렇게 행하심이라 하더라"
         },
         {
           "number": 26,
-          "text": "이에 그들이 찬미하고 감람 산으로 가니라"
+          "text": "<예수의 나심을 예고하다> 여섯째 달에 천사 가브리엘이 하나님의 보내심을 받아 갈릴리 나사렛이란 동네에 가서"
         },
         {
           "number": 27,
-          "text": "<베드로가 부인할 것을 예언하시다(마 26:31-35; 눅 22:31-34; 요 13:36-38)> 예수께서 제자들에게 이르시되 너희가 다 나를 버리리라 이는 기록된 바 내가 목자를 치리니 양들이 흩어지리라 하였음이니라"
+          "text": "다윗의 자손 요셉이라 하는 사람과 약혼한 처녀에게 이르니 그 처녀의 이름은 마리아라"
         },
         {
           "number": 28,
-          "text": "그러나 내가 살아난 후에 너희보다 먼저 갈릴리로 가리라"
+          "text": "그에게 들어가 이르되 은혜를 받은 자여 평안할지어다 주께서 너와 함께 하시도다 하니"
         },
         {
           "number": 29,
-          "text": "베드로가 여짜오되 다 버릴지라도 나는 그리하지 않겠나이다"
+          "text": "처녀가 그 말을 듣고 놀라 이런 인사가 어찌함인가 생각하매"
         },
         {
           "number": 30,
-          "text": "예수께서 이르시되 내가 진실로 네게 이르노니 오늘 이 밤 닭이 두 번 울기 전에 네가 세 번 나를 부인하리라"
+          "text": "천사가 이르되 마리아여 무서워하지 말라 네가 하나님께 은혜를 입었느니라"
         },
         {
           "number": 31,
-          "text": "베드로가 힘있게 말하되 내가 주와 함께 죽을지언정 주를 부인하지 않겠나이다 하고 모든 제자도 이와 같이 말하니라"
+          "text": "보라 네가 잉태하여 아들을 낳으리니 그 이름을 예수라 하라"
         },
         {
           "number": 32,
-          "text": "<겟세마네에서 기도하시다(마 26:36-46; 눅 22:39-46)> 그들이 겟세마네라 하는 곳에 이르매 예수께서 제자들에게 이르시되 내가 기도할 동안에 너희는 여기 앉아 있으라 하시고"
+          "text": "그가 큰 자가 되고 지극히 높으신 이의 아들이라 일컬어질 것이요 주 하나님께서 그 조상 다윗의 왕위를 그에게 주시리니"
         },
         {
           "number": 33,
-          "text": "베드로와 야고보와 요한을 데리고 가실새 심히 놀라시며 슬퍼하사"
+          "text": "영원히 야곱의 집을 왕으로 다스리실 것이며 그 나라가 무궁하리라"
         },
         {
           "number": 34,
-          "text": "말씀하시되 내 마음이 심히 고민하여 죽게 되었으니 너희는 여기 머물러 깨어 있으라 하시고"
+          "text": "마리아가 천사에게 말하되 나는 남자를 알지 못하니 어찌 이 일이 있으리이까"
         },
         {
           "number": 35,
-          "text": "조금 나아가사 땅에 엎드리어 될 수 있는 대로 이 때가 자기에게서 지나가기를 구하여"
+          "text": "천사가 대답하여 이르되 성령이 네게 임하시고 지극히 높으신 이의 능력이 너를 덮으시리니 이러므로 나실 바 거룩한 이는 하나님의 아들이라 일컬어지리라"
         },
         {
           "number": 36,
-          "text": "이르시되 아빠 아버지여 아버지께는 모든 것이 가능하오니 이 잔을 내게서 옮기시옵소서 그러나 나의 원대로 마시옵고 아버지의 원대로 하옵소서 하시고"
+          "text": "보라 네 친족 엘리사벳도 늙어서 아들을 배었느니라 본래 임신하지 못한다고 알려진 이가 이미 여섯 달이 되었나니"
         },
         {
           "number": 37,
-          "text": "돌아오사 제자들이 자는 것을 보시고 베드로에게 말씀하시되 시몬아 자느냐 네가 한 시간도 깨어 있을 수 없더냐"
+          "text": "대저 하나님의 모든 말씀은 능하지 못하심이 없느니라"
         },
         {
           "number": 38,
-          "text": "시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고"
+          "text": "마리아가 이르되 주의 여종이오니 말씀대로 내게 이루어지이다 하매 천사가 떠나가니라"
         },
         {
           "number": 39,
-          "text": "다시 나아가 동일한 말씀으로 기도하시고"
+          "text": "<마리아가 엘리사벳을 방문하다> 이 때에 마리아가 일어나 빨리 산골로 가서 유대 한 동네에 이르러"
         },
         {
           "number": 40,
-          "text": "다시 오사 보신즉 그들이 자니 이는 그들의 눈이 심히 피곤함이라 그들이 예수께 무엇으로 대답할 줄을 알지 못하더라"
+          "text": "사가랴의 집에 들어가 엘리사벳에게 문안하니"
         },
         {
           "number": 41,
-          "text": "세 번째 오사 그들에게 이르시되 이제는 자고 쉬라 그만 되었다 때가 왔도다 보라 인자가 죄인의 손에 팔리느니라"
+          "text": "엘리사벳이 마리아가 문안함을 들으매 아이가 복중에서 뛰노는지라 엘리사벳이 성령의 충만함을 받아"
         },
         {
           "number": 42,
-          "text": "일어나라 함께 가자 보라 나를 파는 자가 가까이 왔느니라"
+          "text": "큰 소리로 불러 이르되 여자 중에 네가 복이 있으며 네 태중의 아이도 복이 있도다"
         },
         {
           "number": 43,
-          "text": "<잡히시다(마 26:47-56; 눅 22:47-53; 요 18:2-12)> 예수께서 말씀하실 때에 곧 열둘 중의 하나인 유다가 왔는데 대제사장들과 서기관들과 장로들에게서 파송된 무리가 검과 몽치를 가지고 그와 함께 하였더라"
+          "text": "내 주의 어머니가 내게 나아오니 이 어찌 된 일인가"
         },
         {
           "number": 44,
-          "text": "예수를 파는 자가 이미 그들과 군호를 짜 이르되 내가 입맞추는 자가 그이니 그를 잡아 단단히 끌어 가라 하였는지라"
+          "text": "보라 네 문안하는 소리가 내 귀에 들릴 때에 아이가 내 복중에서 기쁨으로 뛰놀았도다"
         },
         {
           "number": 45,
-          "text": "이에 와서 곧 예수께 나아와 랍비여 하고 입을 맞추니"
+          "text": "주께서 하신 말씀이 반드시 이루어지리라고 믿은 그 여자에게 복이 있도다"
         },
         {
           "number": 46,
-          "text": "그들이 예수께 손을 대어 잡거늘"
+          "text": "<마리아의 찬가> 마리아가 이르되 내 영혼이 주를 찬양하며"
         },
         {
           "number": 47,
-          "text": "곁에 서 있는 자 중의 한 사람이 칼을 빼어 대제사장의 종을 쳐 그 귀를 떨어뜨리니라"
+          "text": "내 마음이 하나님 내 구주를 기뻐하였음은"
         },
         {
           "number": 48,
-          "text": "예수께서 무리에게 말씀하여 이르시되 너희가 강도를 잡는 것 같이 검과 몽치를 가지고 나를 잡으러 나왔느냐"
+          "text": "그의 여종의 비천함을 돌보셨음이라 보라 이제 후로는 만세에 나를 복이 있다 일컬으리로다"
         },
         {
           "number": 49,
-          "text": "내가 날마다 너희와 함께 성전에 있으면서 가르쳤으되 너희가 나를 잡지 아니하였도다 그러나 이는 성경을 이루려 함이니라 하시더라"
+          "text": "능하신 이가 큰 일을 내게 행하셨으니 그 이름이 거룩하시며"
         },
         {
           "number": 50,
-          "text": "제자들이 다 예수를 버리고 도망하니라"
+          "text": "긍휼하심이 두려워하는 자에게 대대로 이르는도다"
         },
         {
           "number": 51,
-          "text": "<한 청년이 벗은 몸으로 도망하다> 한 청년이 벗은 몸에 베 홑이불을 두르고 예수를 따라가다가 무리에게 잡히매"
+          "text": "그의 팔로 힘을 보이사 마음의 생각이 교만한 자들을 흩으셨고"
         },
         {
           "number": 52,
-          "text": "베 홑이불을 버리고 벗은 몸으로 도망하니라"
+          "text": "권세 있는 자를 그 위에서 내리치셨으며 비천한 자를 높이셨고"
         },
         {
           "number": 53,
-          "text": "<공회 앞에 서시다(마 26:57-68; 눅 22:54-55, 63-71; 요 18:13-14, 19-24)> 그들이 예수를 끌고 대제사장에게로 가니 대제사장들과 장로들과 서기관들이 다 모이더라"
+          "text": "주리는 자를 좋은 것으로 배불리셨으며 부자는 빈 손으로 보내셨도다"
         },
         {
           "number": 54,
-          "text": "베드로가 예수를 멀찍이 따라 대제사장의 집 뜰 안까지 들어가서 아랫사람들과 함께 앉아 불을 쬐더라"
+          "text": "그 종 이스라엘을 도우사 긍휼히 여기시고 기억하시되"
         },
         {
           "number": 55,
-          "text": "대제사장들과 온 공회가 예수를 죽이려고 그를 칠 증거를 찾되 얻지 못하니"
+          "text": "우리 조상에게 말씀하신 것과 같이 아브라함과 그 자손에게 영원히 하시리로다 하니라"
         },
         {
           "number": 56,
-          "text": "이는 예수를 쳐서 거짓 증언 하는 자가 많으나 그 증언이 서로 일치하지 못함이라"
+          "text": "마리아가 석 달쯤 함께 있다가 집으로 돌아가니라"
         },
         {
           "number": 57,
-          "text": "어떤 사람들이 일어나 예수를 쳐서 거짓 증언 하여 이르되"
+          "text": "<세례 요한의 출생> 엘리사벳이 해산할 기한이 차서 아들을 낳으니"
         },
         {
           "number": 58,
-          "text": "우리가 그의 말을 들으니 손으로 지은 이 성전을 내가 헐고 손으로 짓지 아니한 다른 성전을 사흘 동안에 지으리라 하더라 하되"
+          "text": "이웃과 친족이 주께서 그를 크게 긍휼히 여기심을 듣고 함께 즐거워하더라"
         },
         {
           "number": 59,
-          "text": "그 증언도 서로 일치하지 않더라"
+          "text": "팔 일이 되매 아이를 할례하러 와서 그 아버지의 이름을 따라 사가랴라 하고자 하더니"
         },
         {
           "number": 60,
-          "text": "대제사장이 가운데 일어서서 예수에게 물어 이르되 너는 아무 대답도 없느냐 이 사람들이 너를 치는 증거가 어떠하냐 하되"
+          "text": "그 어머니가 대답하여 이르되 아니라 요한이라 할 것이라 하매"
         },
         {
           "number": 61,
-          "text": "침묵하고 아무 대답도 아니하시거늘 대제사장이 다시 물어 이르되 네가 찬송 받을 이의 아들 그리스도냐"
+          "text": "그들이 이르되 네 친족 중에 이 이름으로 이름한 이가 없다 하고"
         },
         {
           "number": 62,
-          "text": "예수께서 이르시되 내가 그니라 인자가 권능자의 우편에 앉은 것과 하늘 구름을 타고 오는 것을 너희가 보리라 하시니"
+          "text": "그의 아버지께 몸짓하여 무엇으로 이름을 지으려 하는가 물으니"
         },
         {
           "number": 63,
-          "text": "대제사장이 자기 옷을 찢으며 이르되 우리가 어찌 더 증인을 요구하리요"
+          "text": "그가 서판을 달라 하여 그 이름을 요한이라 쓰매 다 놀랍게 여기더라"
         },
         {
           "number": 64,
-          "text": "그 신성 모독 하는 말을 너희가 들었도다 너희는 어떻게 생각하느냐 하니 그들이 다 예수를 사형에 해당한 자로 정죄하고"
+          "text": "이에 그 입이 곧 열리고 혀가 풀리며 말을 하여 하나님을 찬송하니"
         },
         {
           "number": 65,
-          "text": "어떤 사람은 그에게 침을 뱉으며 그의 얼굴을 가리고 주먹으로 치며 이르되 선지자 노릇을 하라 하고 하인들은 손바닥으로 치더라"
+          "text": "그 근처에 사는 자가 다 두려워하고 이 모든 말이 온 유대 산골에 두루 퍼지매"
         },
         {
           "number": 66,
-          "text": "<베드로가 예수를 알지 못한다고 하다(마 26:69-75; 눅 22:56-62; 요 18:15-18, 25-27)> 베드로는 아랫뜰에 있더니 대제사장의 여종 하나가 와서"
+          "text": "듣는 사람이 다 이 말을 마음에 두며 이르되 이 아이가 장차 어찌 될까 하니 이는 주의 손이 그와 함께 하심이러라"
         },
         {
           "number": 67,
-          "text": "베드로가 불 쬐고 있는 것을 보고 주목하여 이르되 너도 나사렛 예수와 함께 있었도다 하거늘"
+          "text": "<사가랴의 예언> 그 부친 사가랴가 성령의 충만함을 받아 예언하여 이르되"
         },
         {
           "number": 68,
-          "text": "베드로가 부인하여 이르되 나는 네가 말하는 것이 무엇인지 알지도 못하고 깨닫지도 못하겠노라 하며 앞뜰로 나갈새6)"
+          "text": "찬송하리로다 주 이스라엘의 하나님이여 그 백성을 돌보사 속량하시며"
         },
         {
           "number": 69,
-          "text": "여종이 그를 보고 곁에 서 있는 자들에게 다시 이르되 이 사람은 그 도당이라 하되"
+          "text": "우리를 위하여 구원의 뿔을 그 종 다윗의 집에 일으키셨으니"
         },
         {
           "number": 70,
-          "text": "또 부인하더라 조금 후에 곁에 서 있는 사람들이 다시 베드로에게 말하되 너도 갈릴리 사람이니 참으로 그 도당이니라"
+          "text": "이것은 주께서 예로부터 거룩한 선지자의 입으로 말씀하신 바와 같이"
         },
         {
           "number": 71,
-          "text": "그러나 베드로가 저주하며 맹세하되 나는 너희가 말하는 이 사람을 알지 못하노라 하니"
+          "text": "우리 원수에게서와 우리를 미워하는 모든 자의 손에서 구원하시는 일이라"
         },
         {
           "number": 72,
-          "text": "닭이 곧 두 번째 울더라 이에 베드로가 예수께서 자기에게 하신 말씀 곧 닭이 두 번 울기 전에 네가 세 번 나를 부인하리라 하심이 기억되어 그 일을 생각하고 울었더라"
+          "text": "우리 조상을 긍휼히 여기시며 그 거룩한 언약을 기억하셨으니"
+        },
+        {
+          "number": 73,
+          "text": "곧 우리 조상 아브라함에게 하신 맹세라"
+        },
+        {
+          "number": 74,
+          "text": "우리가 원수의 손에서 건지심을 받고"
+        },
+        {
+          "number": 75,
+          "text": "종신토록 주의 앞에서 성결과 의로 두려움이 없이 섬기게 하리라 하셨도다"
+        },
+        {
+          "number": 76,
+          "text": "이 아이여 네가 지극히 높으신 이의 선지자라 일컬음을 받고 주 앞에 앞서 가서 그 길을 준비하여"
+        },
+        {
+          "number": 77,
+          "text": "주의 백성에게 그 죄 사함으로 말미암는 구원을 알게 하리니"
+        },
+        {
+          "number": 78,
+          "text": "이는 우리 하나님의 긍휼로 인함이라 이로써 돋는 해가 위로부터 우리에게 임하여"
+        },
+        {
+          "number": 79,
+          "text": "어둠과 죽음의 그늘에 앉은 자에게 비치고 우리 발을 평강의 길로 인도하시리로다 하니라"
+        },
+        {
+          "number": 80,
+          "text": "아이가 자라며 심령이 강하여지며 이스라엘에게 나타나는 날까지 빈 들에 있으니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Now the Passover and the Feast of Unleavened Bread were only two days away, and the chief priests and the teachers of the law were looking for some sly way to arrest Jesus and kill him."
+          "text": "Many have undertaken to draw up an account of the things that have been fulfilled among us,"
         },
         {
           "number": 2,
-          "text": "\"But not during the Feast,\" they said, \"or the people may riot.\""
+          "text": "just as they were handed down to us by those who from the first were eyewitnesses and servants of the word."
         },
         {
           "number": 3,
-          "text": "While he was in Bethany, reclining at the table in the home of a man known as Simon the Leper, a woman came with an alabaster jar of very expensive perfume, made of pure nard. She broke the jar and poured the perfume on his head."
+          "text": "Therefore, since I myself have carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus,"
         },
         {
           "number": 4,
-          "text": "Some of those present were saying indignantly to one another, \"Why this waste of perfume?"
+          "text": "so that you may know the certainty of the things you have been taught."
         },
         {
           "number": 5,
-          "text": "It could have been sold for more than a year's wages and the money given to the poor.\" And they rebuked her harshly."
+          "text": "In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah; his wife Elizabeth was also a descendant of Aaron."
         },
         {
           "number": 6,
-          "text": "\"Leave her alone,\" said Jesus. \"Why are you bothering her? She has done a beautiful thing to me."
+          "text": "Both of them were upright in the sight of God, observing all the Lord's commandments and regulations blamelessly."
         },
         {
           "number": 7,
-          "text": "The poor you will always have with you, and you can help them any time you want. But you will not always have me."
+          "text": "But they had no children, because Elizabeth was barren; and they were both well along in years."
         },
         {
           "number": 8,
-          "text": "She did what she could. She poured perfume on my body beforehand to prepare for my burial."
+          "text": "Once when Zechariah's division was on duty and he was serving as priest before God,"
         },
         {
           "number": 9,
-          "text": "I tell you the truth, wherever the gospel is preached throughout the world, what she has done will also be told, in memory of her.\""
+          "text": "he was chosen by lot, according to the custom of the priesthood, to go into the temple of the Lord and burn incense."
         },
         {
           "number": 10,
-          "text": "Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them."
+          "text": "And when the time for the burning of incense came, all the assembled worshipers were praying outside."
         },
         {
           "number": 11,
-          "text": "They were delighted to hear this and promised to give him money. So he watched for an opportunity to hand him over."
+          "text": "Then an angel of the Lord appeared to him, standing at the right side of the altar of incense."
         },
         {
           "number": 12,
-          "text": "On the first day of the Feast of Unleavened Bread, when it was customary to sacrifice the Passover lamb, Jesus' disciples asked him, \"Where do you want us to go and make preparations for you to eat the Passover?\""
+          "text": "When Zechariah saw him, he was startled and was gripped with fear."
         },
         {
           "number": 13,
-          "text": "So he sent two of his disciples, telling them, \"Go into the city, and a man carrying a jar of water will meet you. Follow him."
+          "text": "But the angel said to him: \"Do not be afraid, Zechariah; your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John."
         },
         {
           "number": 14,
-          "text": "Say to the owner of the house he enters, 'The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?'"
+          "text": "He will be a joy and delight to you, and many will rejoice because of his birth,"
         },
         {
           "number": 15,
-          "text": "He will show you a large upper room, furnished and ready. Make preparations for us there.\""
+          "text": "for he will be great in the sight of the Lord. He is never to take wine or other fermented drink, and he will be filled with the Holy Spirit even from birth."
         },
         {
           "number": 16,
-          "text": "The disciples left, went into the city and found things just as Jesus had told them. So they prepared the Passover."
+          "text": "Many of the people of Israel will he bring back to the Lord their God."
         },
         {
           "number": 17,
-          "text": "When evening came, Jesus arrived with the Twelve."
+          "text": "And he will go on before the Lord, in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous--to make ready a people prepared for the Lord.\""
         },
         {
           "number": 18,
-          "text": "While they were reclining at the table eating, he said, \"I tell you the truth, one of you will betray me--one who is eating with me.\""
+          "text": "Zechariah asked the angel, \"How can I be sure of this? I am an old man and my wife is well along in years.\""
         },
         {
           "number": 19,
-          "text": "They were saddened, and one by one they said to him, \"Surely not I?\""
+          "text": "The angel answered, \"I am Gabriel. I stand in the presence of God, and I have been sent to speak to you and to tell you this good news."
         },
         {
           "number": 20,
-          "text": "\"It is one of the Twelve,\" he replied, \"one who dips bread into the bowl with me."
+          "text": "And now you will be silent and not able to speak until the day this happens, because you did not believe my words, which will come true at their proper time.\""
         },
         {
           "number": 21,
-          "text": "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.\""
+          "text": "Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple."
         },
         {
           "number": 22,
-          "text": "While they were eating, Jesus took bread, gave thanks and broke it, and gave it to his disciples, saying, \"Take it; this is my body.\""
+          "text": "When he came out, he could not speak to them. They realized he had seen a vision in the temple, for he kept making signs to them but remained unable to speak."
         },
         {
           "number": 23,
-          "text": "Then he took the cup, gave thanks and offered it to them, and they all drank from it."
+          "text": "When his time of service was completed, he returned home."
         },
         {
           "number": 24,
-          "text": "\"This is my blood of the covenant, which is poured out for many,\" he said to them."
+          "text": "After this his wife Elizabeth became pregnant and for five months remained in seclusion."
         },
         {
           "number": 25,
-          "text": "\"I tell you the truth, I will not drink again of the fruit of the vine until that day when I drink it anew in the kingdom of God.\""
+          "text": "\"The Lord has done this for me,\" she said. \"In these days he has shown his favor and taken away my disgrace among the people.\""
         },
         {
           "number": 26,
-          "text": "When they had sung a hymn, they went out to the Mount of Olives."
+          "text": "In the sixth month, God sent the angel Gabriel to Nazareth, a town in Galilee,"
         },
         {
           "number": 27,
-          "text": "\"You will all fall away,\" Jesus told them, \"for it is written: \"'I will strike the shepherd, and the sheep will be scattered.'"
+          "text": "to a virgin pledged to be married to a man named Joseph, a descendant of David. The virgin's name was Mary."
         },
         {
           "number": 28,
-          "text": "But after I have risen, I will go ahead of you into Galilee.\""
+          "text": "The angel went to her and said, \"Greetings, you who are highly favored! The Lord is with you.\""
         },
         {
           "number": 29,
-          "text": "Peter declared, \"Even if all fall away, I will not.\""
+          "text": "Mary was greatly troubled at his words and wondered what kind of greeting this might be."
         },
         {
           "number": 30,
-          "text": "\"I tell you the truth,\" Jesus answered, \"today--yes, tonight--before the rooster crows twice you yourself will disown me three times.\""
+          "text": "But the angel said to her, \"Do not be afraid, Mary, you have found favor with God."
         },
         {
           "number": 31,
-          "text": "But Peter insisted emphatically, \"Even if I have to die with you, I will never disown you.\" And all the others said the same."
+          "text": "You will be with child and give birth to a son, and you are to give him the name Jesus."
         },
         {
           "number": 32,
-          "text": "They went to a place called Gethsemane, and Jesus said to his disciples, \"Sit here while I pray.\""
+          "text": "He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,"
         },
         {
           "number": 33,
-          "text": "He took Peter, James and John along with him, and he began to be deeply distressed and troubled."
+          "text": "and he will reign over the house of Jacob forever; his kingdom will never end.\""
         },
         {
           "number": 34,
-          "text": "\"My soul is overwhelmed with sorrow to the point of death,\" he said to them. \"Stay here and keep watch.\""
+          "text": "\"How will this be,\" Mary asked the angel, \"since I am a virgin?\""
         },
         {
           "number": 35,
-          "text": "Going a little farther, he fell to the ground and prayed that if possible the hour might pass from him."
+          "text": "The angel answered, \"The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God."
         },
         {
           "number": 36,
-          "text": "\"Abba, Father,\" he said, \"everything is possible for you. Take this cup from me. Yet not what I will, but what you will.\""
+          "text": "Even Elizabeth your relative is going to have a child in her old age, and she who was said to be barren is in her sixth month."
         },
         {
           "number": 37,
-          "text": "Then he returned to his disciples and found them sleeping. \"Simon,\" he said to Peter, \"are you asleep? Could you not keep watch for one hour?"
+          "text": "For nothing is impossible with God.\""
         },
         {
           "number": 38,
-          "text": "Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.\""
+          "text": "\"I am the Lord's servant,\" Mary answered. \"May it be to me as you have said.\" Then the angel left her."
         },
         {
           "number": 39,
-          "text": "Once more he went away and prayed the same thing."
+          "text": "At that time Mary got ready and hurried to a town in the hill country of Judea,"
         },
         {
           "number": 40,
-          "text": "When he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him."
+          "text": "where she entered Zechariah's home and greeted Elizabeth."
         },
         {
           "number": 41,
-          "text": "Returning the third time, he said to them, \"Are you still sleeping and resting? Enough! The hour has come. Look, the Son of Man is betrayed into the hands of sinners."
+          "text": "When Elizabeth heard Mary's greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit."
         },
         {
           "number": 42,
-          "text": "Rise! Let us go! Here comes my betrayer!\""
+          "text": "In a loud voice she exclaimed: \"Blessed are you among women, and blessed is the child you will bear!"
         },
         {
           "number": 43,
-          "text": "Just as he was speaking, Judas, one of the Twelve, appeared. With him was a crowd armed with swords and clubs, sent from the chief priests, the teachers of the law, and the elders."
+          "text": "But why am I so favored, that the mother of my Lord should come to me?"
         },
         {
           "number": 44,
-          "text": "Now the betrayer had arranged a signal with them: \"The one I kiss is the man; arrest him and lead him away under guard.\""
+          "text": "As soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy."
         },
         {
           "number": 45,
-          "text": "Going at once to Jesus, Judas said, \"Rabbi!\" and kissed him."
+          "text": "Blessed is she who has believed that what the Lord has said to her will be accomplished!\""
         },
         {
           "number": 46,
-          "text": "The men seized Jesus and arrested him."
+          "text": "And Mary said: \"My soul glorifies the Lord"
         },
         {
           "number": 47,
-          "text": "Then one of those standing near drew his sword and struck the servant of the high priest, cutting off his ear."
+          "text": "and my spirit rejoices in God my Savior,"
         },
         {
           "number": 48,
-          "text": "\"Am I leading a rebellion,\" said Jesus, \"that you have come out with swords and clubs to capture me?"
+          "text": "for he has been mindful of the humble state of his servant. From now on all generations will call me blessed,"
         },
         {
           "number": 49,
-          "text": "Every day I was with you, teaching in the temple courts, and you did not arrest me. But the Scriptures must be fulfilled.\""
+          "text": "for the Mighty One has done great things for me--holy is his name."
         },
         {
           "number": 50,
-          "text": "Then everyone deserted him and fled."
+          "text": "His mercy extends to those who fear him, from generation to generation."
         },
         {
           "number": 51,
-          "text": "A young man, wearing nothing but a linen garment, was following Jesus. When they seized him,"
+          "text": "He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts."
         },
         {
           "number": 52,
-          "text": "he fled naked, leaving his garment behind."
+          "text": "He has brought down rulers from their thrones but has lifted up the humble."
         },
         {
           "number": 53,
-          "text": "They took Jesus to the high priest, and all the chief priests, elders and teachers of the law came together."
+          "text": "He has filled the hungry with good things but has sent the rich away empty."
         },
         {
           "number": 54,
-          "text": "Peter followed him at a distance, right into the courtyard of the high priest. There he sat with the guards and warmed himself at the fire."
+          "text": "He has helped his servant Israel, remembering to be merciful"
         },
         {
           "number": 55,
-          "text": "The chief priests and the whole Sanhedrin were looking for evidence against Jesus so that they could put him to death, but they did not find any."
+          "text": "to Abraham and his descendants forever, even as he said to our fathers.\""
         },
         {
           "number": 56,
-          "text": "Many testified falsely against him, but their statements did not agree."
+          "text": "Mary stayed with Elizabeth for about three months and then returned home."
         },
         {
           "number": 57,
-          "text": "Then some stood up and gave this false testimony against him:"
+          "text": "When it was time for Elizabeth to have her baby, she gave birth to a son."
         },
         {
           "number": 58,
-          "text": "\"We heard him say, 'I will destroy this man-made temple and in three days will build another, not made by man.'\""
+          "text": "Her neighbors and relatives heard that the Lord had shown her great mercy, and they shared her joy."
         },
         {
           "number": 59,
-          "text": "Yet even then their testimony did not agree."
+          "text": "On the eighth day they came to circumcise the child, and they were going to name him after his father Zechariah,"
         },
         {
           "number": 60,
-          "text": "Then the high priest stood up before them and asked Jesus, \"Are you not going to answer? What is this testimony that these men are bringing against you?\""
+          "text": "but his mother spoke up and said, \"No! He is to be called John.\""
         },
         {
           "number": 61,
-          "text": "But Jesus remained silent and gave no answer. Again the high priest asked him, \"Are you the Christ, the Son of the Blessed One?\""
+          "text": "They said to her, \"There is no one among your relatives who has that name.\""
         },
         {
           "number": 62,
-          "text": "\"I am,\" said Jesus. \"And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.\""
+          "text": "Then they made signs to his father, to find out what he would like to name the child."
         },
         {
           "number": 63,
-          "text": "The high priest tore his clothes. \"Why do we need any more witnesses?\" he asked."
+          "text": "He asked for a writing tablet, and to everyone's astonishment he wrote, \"His name is John.\""
         },
         {
           "number": 64,
-          "text": "\"You have heard the blasphemy. What do you think?\" They all condemned him as worthy of death."
+          "text": "Immediately his mouth was opened and his tongue was loosed, and he began to speak, praising God."
         },
         {
           "number": 65,
-          "text": "Then some began to spit at him; they blindfolded him, struck him with their fists, and said, \"Prophesy!\" And the guards took him and beat him."
+          "text": "The neighbors were all filled with awe, and throughout the hill country of Judea people were talking about all these things."
         },
         {
           "number": 66,
-          "text": "While Peter was below in the courtyard, one of the servant girls of the high priest came by."
+          "text": "Everyone who heard this wondered about it, asking, \"What then is this child going to be?\" For the Lord's hand was with him."
         },
         {
           "number": 67,
-          "text": "When she saw Peter warming himself, she looked closely at him. \"You also were with that Nazarene, Jesus,\" she said."
+          "text": "His father Zechariah was filled with the Holy Spirit and prophesied:"
         },
         {
           "number": 68,
-          "text": "But he denied it. \"I don't know or understand what you're talking about,\" he said, and went out into the entryway."
+          "text": "\"Praise be to the Lord, the God of Israel, because he has come and has redeemed his people."
         },
         {
           "number": 69,
-          "text": "When the servant girl saw him there, she said again to those standing around, \"This fellow is one of them.\""
+          "text": "He has raised up a horn of salvation for us in the house of his servant David"
         },
         {
           "number": 70,
-          "text": "Again he denied it. After a little while, those standing near said to Peter, \"Surely you are one of them, for you are a Galilean.\""
+          "text": "(as he said through his holy prophets of long ago),"
         },
         {
           "number": 71,
-          "text": "He began to call down curses on himself, and he swore to them, \"I don't know this man you're talking about.\""
+          "text": "salvation from our enemies and from the hand of all who hate us--"
         },
         {
           "number": 72,
-          "text": "Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him: \"Before the rooster crows twice you will disown me three times.\" And he broke down and wept."
+          "text": "to show mercy to our fathers and to remember his holy covenant,"
+        },
+        {
+          "number": 73,
+          "text": "the oath he swore to our father Abraham:"
+        },
+        {
+          "number": 74,
+          "text": "to rescue us from the hand of our enemies, and to enable us to serve him without fear"
+        },
+        {
+          "number": 75,
+          "text": "in holiness and righteousness before him all our days."
+        },
+        {
+          "number": 76,
+          "text": "And you, my child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for him,"
+        },
+        {
+          "number": 77,
+          "text": "to give his people the knowledge of salvation through the forgiveness of their sins,"
+        },
+        {
+          "number": 78,
+          "text": "because of the tender mercy of our God, by which the rising sun will come to us from heaven"
+        },
+        {
+          "number": 79,
+          "text": "to shine on those living in darkness and in the shadow of death, to guide our feet into the path of peace.\""
+        },
+        {
+          "number": 80,
+          "text": "And the child grew and became strong in spirit; and he lived in the desert until he appeared publicly to Israel."
         }
       ]
     },
     {
-      "book": "mar",
-      "book_name": "마가복음",
-      "english_book_name": "Mark",
-      "chapter_number": 15,
+      "book": "luk",
+      "book_name": "누가복음",
+      "english_book_name": "Luke",
+      "chapter_number": 2,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<빌라도가 예수께 묻다(마 27:1-2, 11-14; 눅 23:1-5; 요 18:28-38)> 새벽에 대제사장들이 즉시 장로들과 서기관들 곧 온 공회와 더불어 의논하고 예수를 결박하여 끌고 가서 빌라도에게 넘겨 주니"
+          "text": "<예수의 나심(마 1:18-25)> 그 때에 가이사 아구스도가 영을 내려 천하로 다 호적하라 하였으니"
         },
         {
           "number": 2,
-          "text": "빌라도가 묻되 네가 유대인의 왕이냐 예수께서 대답하여 이르시되 네 말이 옳도다 하시매"
+          "text": "이 호적은 구레뇨가 수리아 총독이 되었을 때에 처음 한 것이라"
         },
         {
           "number": 3,
-          "text": "대제사장들이 여러 가지로 고발하는지라"
+          "text": "모든 사람이 호적하러 각각 고향으로 돌아가매"
         },
         {
           "number": 4,
-          "text": "빌라도가 또 물어 이르되 아무 대답도 없느냐 그들이 얼마나 많은 것으로 너를 고발하는가 보라 하되"
+          "text": "요셉도 다윗의 집 족속이므로 갈릴리 나사렛 동네에서 유대를 향하여 베들레헴이라 하는 다윗의 동네로"
         },
         {
           "number": 5,
-          "text": "예수께서 다시 아무 말씀으로도 대답하지 아니하시니 빌라도가 놀랍게 여기더라"
+          "text": "그 약혼한 마리아와 함께 호적하러 올라가니 마리아가 이미 잉태하였더라"
         },
         {
           "number": 6,
-          "text": "<십자가에 못 박히게 예수를 넘기다(마 27:15-26; 눅 23:13-25; 요 18:39-19:16)> 명절이 되면 백성들이 요구하는 대로 죄수 한 사람을 놓아 주는 전례가 있더니"
+          "text": "거기 있을 그 때에 해산할 날이 차서"
         },
         {
           "number": 7,
-          "text": "민란을 꾸미고 그 민란중에 살인하고 체포된 자 중에 바라바라 하는 자가 있는지라"
+          "text": "첫아들을 낳아 강보로 싸서 구유에 뉘었으니 이는 여관에 있을 곳이 없음이러라"
         },
         {
           "number": 8,
-          "text": "무리가 나아가서 전례대로 하여 주기를 요구한대"
+          "text": "<목자들이 예수 탄생 소식을 듣다> 그 지역에 목자들이 밤에 밖에서 자기 양 떼를 지키더니"
         },
         {
           "number": 9,
-          "text": "빌라도가 대답하여 이르되 너희는 내가 유대인의 왕을 너희에게 놓아 주기를 원하느냐 하니"
+          "text": "주의 사자가 곁에 서고 주의 영광이 그들을 두루 비추매 크게 무서워하는지라"
         },
         {
           "number": 10,
-          "text": "이는 그가 대제사장들이 시기로 예수를 넘겨 준 줄 앎이러라"
+          "text": "천사가 이르되 무서워하지 말라 보라 내가 온 백성에게 미칠 큰 기쁨의 좋은 소식을 너희에게 전하노라"
         },
         {
           "number": 11,
-          "text": "그러나 대제사장들이 무리를 충동하여 도리어 바라바를 놓아 달라 하게 하니"
+          "text": "오늘 다윗의 동네에 너희를 위하여 구주가 나셨으니 곧 그리스도 주시니라"
         },
         {
           "number": 12,
-          "text": "빌라도가 또 대답하여 이르되 그러면 너희가 유대인의 왕이라 하는 이를 내가 어떻게 하랴"
+          "text": "너희가 가서 강보에 싸여 구유에 뉘어 있는 아기를 보리니 이것이 너희에게 표적이니라 하더니"
         },
         {
           "number": 13,
-          "text": "그들이 다시 소리 지르되 그를 십자가에 못 박게 하소서"
+          "text": "홀연히 수많은 천군이 그 천사들과 함께 하나님을 찬송하여 이르되"
         },
         {
           "number": 14,
-          "text": "빌라도가 이르되 어찜이냐 무슨 악한 일을 하였느냐 하니 더욱 소리 지르되 십자가에 못 박게 하소서 하는지라"
+          "text": "지극히 높은 곳에서는 하나님께 영광이요 땅에서는 하나님이 기뻐하신 사람들 중에 평화로다 하니라"
         },
         {
           "number": 15,
-          "text": "빌라도가 무리에게 만족을 주고자 하여 바라바는 놓아 주고 예수는 채찍질하고 십자가에 못 박히게 넘겨 주니라"
+          "text": "천사들이 떠나 하늘로 올라가니 목자가 서로 말하되 이제 베들레헴으로 가서 주께서 우리에게 알리신 바 이 이루어진 일을 보자 하고"
         },
         {
           "number": 16,
-          "text": "<군인들이 예수를 희롱하다(마 27:27-31; 요 19:2-3)> 군인들이 예수를 끌고 브라이도리온이라는 뜰 안으로 들어가서 온 군대를 모으고"
+          "text": "빨리 가서 마리아와 요셉과 구유에 누인 아기를 찾아서"
         },
         {
           "number": 17,
-          "text": "예수에게 자색 옷을 입히고 가시관을 엮어 씌우고"
+          "text": "보고 천사가 자기들에게 이 아기에 대하여 말한 것을 전하니"
         },
         {
           "number": 18,
-          "text": "경례하여 이르되 유대인의 왕이여 평안할지어다 하고"
+          "text": "듣는 자가 다 목자들이 그들에게 말한 것들을 놀랍게 여기되"
         },
         {
           "number": 19,
-          "text": "갈대로 그의 머리를 치며 침을 뱉으며 꿇어 절하더라"
+          "text": "마리아는 이 모든 말을 마음에 새기어 생각하니라"
         },
         {
           "number": 20,
-          "text": "희롱을 다 한 후 자색 옷을 벗기고 도로 그의 옷을 입히고 십자가에 못 박으려고 끌고 나가니라"
+          "text": "목자들은 자기들에게 이르던 바와 같이 듣고 본 그 모든 것으로 인하여 하나님께 영광을 돌리고 찬송하며 돌아가니라"
         },
         {
           "number": 21,
-          "text": "<십자가에 못 박히시다(마 27:32-44; 눅 23:26-43; 요 19:17-27)> 마침 알렉산더와 루포의 아버지인 구레네 사람 시몬이 시골로부터 와서 지나가는데 그들이 그를 억지로 같이 가게 하여 예수의 십자가를 지우고"
+          "text": "할례할 팔 일이 되매 그 이름을 예수라 하니 곧 잉태하기 전에 천사가 일컬은 바러라"
         },
         {
           "number": 22,
-          "text": "예수를 끌고 골고다라 하는 곳(번역하면 해골의 곳)에 이르러"
+          "text": "<아기 예수의 정결예식> 모세의 법대로 정결예식의 날이 차매 아기를 데리고 예루살렘에 올라가니"
         },
         {
           "number": 23,
-          "text": "몰약을 탄 포도주를 주었으나 예수께서 받지 아니하시니라"
+          "text": "이는 주의 율법에 쓴 바 첫 태에 처음 난 남자마다 주의 거룩한 자라 하리라 한 대로 아기를 주께 드리고"
         },
         {
           "number": 24,
-          "text": "십자가에 못 박고 그 옷을 나눌새 누가 어느 것을 가질까 하여 제비를 뽑더라"
+          "text": "또 주의 율법에 말씀하신 대로 산비둘기 한 쌍이나 혹은 어린 집비둘기 둘로 제사하려 함이더라"
         },
         {
           "number": 25,
-          "text": "때가 제삼시가 되어 십자가에 못 박으니라"
+          "text": "예루살렘에 시므온이라 하는 사람이 있으니 이 사람은 의롭고 경건하여 이스라엘의 위로를 기다리는 자라 성령이 그 위에 계시더라"
         },
         {
           "number": 26,
-          "text": "그 위에 있는 죄패에 유대인의 왕이라 썼고"
+          "text": "그가 주의 그리스도를 보기 전에는 죽지 아니하리라 하는 성령의 지시를 받았더니"
         },
         {
           "number": 27,
-          "text": "강도 둘을 예수와 함께 십자가에 못 박으니 하나는 그의 우편에, 하나는 좌편에 있더라"
+          "text": "성령의 감동으로 성전에 들어가매 마침 부모가 율법의 관례대로 행하고자 하여 그 아기 예수를 데리고 오는지라"
         },
         {
           "number": 28,
-          "text": "(없음)"
+          "text": "시므온이 아기를 안고 하나님을 찬송하여 이르되"
         },
         {
           "number": 29,
-          "text": "지나가는 자들은 자기 머리를 흔들며 예수를 모욕하여 이르되 아하 성전을 헐고 사흘에 짓는다는 자여"
+          "text": "주재여 이제는 말씀하신 대로 종을 평안히 놓아 주시는도다"
         },
         {
           "number": 30,
-          "text": "네가 너를 구원하여 십자가에서 내려오라 하고"
+          "text": "내 눈이 주의 구원을 보았사오니"
         },
         {
           "number": 31,
-          "text": "그와 같이 대제사장들도 서기관들과 함께 희롱하며 서로 말하되 그가 남은 구원하였으되 자기는 구원할 수 없도다"
+          "text": "이는 만민 앞에 예비하신 것이요"
         },
         {
           "number": 32,
-          "text": "이스라엘의 왕 그리스도가 지금 십자가에서 내려와 우리가 보고 믿게 할지어다 하며 함께 십자가에 못 박힌 자들도 예수를 욕하더라"
+          "text": "이방을 비추는 빛이요 주의 백성 이스라엘의 영광이니이다 하니"
         },
         {
           "number": 33,
-          "text": "<숨지시다(마 27:45-61; 눅 23:44-56; 요 19:28-30, 38-42)> 제육시가 되매 온 땅에 어둠이 임하여 제구시까지 계속하더니"
+          "text": "그의 부모가 그에 대한 말들을 놀랍게 여기더라"
         },
         {
           "number": 34,
-          "text": "제구시에 예수께서 크게 소리 지르시되 엘리 엘리 라마 사박다니 하시니 이를 번역하면 나의 하나님, 나의 하나님 어찌하여 나를 버리셨나이까 하는 뜻이라"
+          "text": "시므온이 그들에게 축복하고 그의 어머니 마리아에게 말하여 이르되 보라 이는 이스라엘 중 많은 사람을 패하거나 흥하게 하며 비방을 받는 표적이 되기 위하여 세움을 받았고"
         },
         {
           "number": 35,
-          "text": "곁에 섰던 자 중 어떤 이들이 듣고 이르되 보라 엘리야를 부른다 하고"
+          "text": "또 칼이 네 마음을 찌르듯 하리니 이는 여러 사람의 마음의 생각을 드러내려 함이니라 하더라"
         },
         {
           "number": 36,
-          "text": "한 사람이 달려가서 해면에 신 포도주를 적시어 갈대에 꿰어 마시게 하고 이르되 가만 두라 엘리야가 와서 그를 내려 주나 보자 하더라"
+          "text": "또 아셀 지파 바누엘의 딸 안나라 하는 선지자가 있어 나이가 매우 많았더라 그가 결혼한 후 일곱 해 동안 남편과 함께 살다가"
         },
         {
           "number": 37,
-          "text": "예수께서 큰 소리를 지르시고 숨지시니라"
+          "text": "과부가 되고 팔십사 세가 되었더라 이 사람이 성전을 떠나지 아니하고 주야로 금식하며 기도함으로 섬기더니"
         },
         {
           "number": 38,
-          "text": "이에 성소 휘장이 위로부터 아래까지 찢어져 둘이 되니라"
+          "text": "마침 이 때에 나아와서 하나님께 감사하고 예루살렘의 속량을 바라는 모든 사람에게 그에 대하여 말하니라"
         },
         {
           "number": 39,
-          "text": "예수를 향하여 섰던 백부장이 그렇게 숨지심을 보고 이르되 이 사람은 진실로 하나님의 아들이었도다 하더라"
+          "text": "주의 율법을 따라 모든 일을 마치고 갈릴리로 돌아가 본 동네 나사렛에 이르니라"
         },
         {
           "number": 40,
-          "text": "멀리서 바라보는 여자들도 있었는데 그 중에 막달라 마리아와 또 작은 야고보와 요세의 어머니 마리아와 또 살로메가 있었으니"
+          "text": "아기가 자라며 강하여지고 지혜가 충만하며 하나님의 은혜가 그의 위에 있더라"
         },
         {
           "number": 41,
-          "text": "이들은 예수께서 갈릴리에 계실 때에 따르며 섬기던 자들이요 또 이 외에 예수와 함께 예루살렘에 올라온 여자들도 많이 있었더라"
+          "text": "<열두 살 시절의 예수> 그의 부모가 해마다 유월절이 되면 예루살렘으로 가더니"
         },
         {
           "number": 42,
-          "text": "<요셉이 예수의 시체를 무덤에 넣어 두다(마 27:57-61; 눅 23:50-56; 요 19:38-42)> 이 날은 준비일 곧 안식일 전날이므로 저물었을 때에"
+          "text": "예수께서 열두 살 되었을 때에 그들이 이 절기의 관례를 따라 올라갔다가"
         },
         {
           "number": 43,
-          "text": "아리마대 사람 요셉이 와서 당돌히 빌라도에게 들어가 예수의 시체를 달라 하니 이 사람은 존경 받는 공회원이요 하나님의 나라를 기다리는 자라"
+          "text": "그 날들을 마치고 돌아갈 때에 아이 예수는 예루살렘에 머무셨더라 그 부모는 이를 알지 못하고"
         },
         {
           "number": 44,
-          "text": "빌라도는 예수께서 벌써 죽었을까 하고 이상히 여겨 백부장을 불러 죽은 지가 오래냐 묻고"
+          "text": "동행 중에 있는 줄로 생각하고 하룻길을 간 후 친족과 아는 자 중에서 찾되"
         },
         {
           "number": 45,
-          "text": "백부장에게 알아 본 후에 요셉에게 시체를 내주는지라"
+          "text": "만나지 못하매 찾으면서 예루살렘에 돌아갔더니"
         },
         {
           "number": 46,
-          "text": "요셉이 세마포를 사서 예수를 내려다가 그것으로 싸서 바위 속에 판 무덤에 넣어 두고 돌을 굴려 무덤 문에 놓으매"
+          "text": "사흘 후에 성전에서 만난즉 그가 선생들 중에 앉으사 그들에게 듣기도 하시며 묻기도 하시니"
         },
         {
           "number": 47,
-          "text": "막달라 마리아와 요세의 어머니 마리아가 예수 둔 곳을 보더라"
+          "text": "듣는 자가 다 그 지혜와 대답을 놀랍게 여기더라"
+        },
+        {
+          "number": 48,
+          "text": "그의 부모가 보고 놀라며 그의 어머니는 이르되 아이야 어찌하여 우리에게 이렇게 하였느냐 보라 네 아버지와 내가 근심하여 너를 찾았노라"
+        },
+        {
+          "number": 49,
+          "text": "예수께서 이르시되 어찌하여 나를 찾으셨나이까 내가 내 아버지 집에 있어야 될 줄을 알지 못하셨나이까 하시니"
+        },
+        {
+          "number": 50,
+          "text": "그 부모가 그가 하신 말씀을 깨닫지 못하더라"
+        },
+        {
+          "number": 51,
+          "text": "예수께서 함께 내려가사 나사렛에 이르러 순종하여 받드시더라 그 어머니는 이 모든 말을 마음에 두니라"
+        },
+        {
+          "number": 52,
+          "text": "예수는 지혜와 키가 자라가며 하나님과 사람에게 더욱 사랑스러워 가시더라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Very early in the morning, the chief priests, with the elders, the teachers of the law and the whole Sanhedrin, reached a decision. They bound Jesus, led him away and handed him over to Pilate."
+          "text": "In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world."
         },
         {
           "number": 2,
-          "text": "\"Are you the king of the Jews?\" asked Pilate. \"Yes, it is as you say,\" Jesus replied."
+          "text": "(This was the first census that took place while Quirinius was governor of Syria.)"
         },
         {
           "number": 3,
-          "text": "The chief priests accused him of many things."
+          "text": "And everyone went to his own town to register."
         },
         {
           "number": 4,
-          "text": "So again Pilate asked him, \"Aren't you going to answer? See how many things they are accusing you of.\""
+          "text": "So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David."
         },
         {
           "number": 5,
-          "text": "But Jesus still made no reply, and Pilate was amazed."
+          "text": "He went there to register with Mary, who was pledged to be married to him and was expecting a child."
         },
         {
           "number": 6,
-          "text": "Now it was the custom at the Feast to release a prisoner whom the people requested."
+          "text": "While they were there, the time came for the baby to be born,"
         },
         {
           "number": 7,
-          "text": "A man called Barabbas was in prison with the insurrectionists who had committed murder in the uprising."
+          "text": "and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no room for them in the inn."
         },
         {
           "number": 8,
-          "text": "The crowd came up and asked Pilate to do for them what he usually did."
+          "text": "And there were shepherds living out in the fields nearby, keeping watch over their flocks at night."
         },
         {
           "number": 9,
-          "text": "\"Do you want me to release to you the king of the Jews?\" asked Pilate,"
+          "text": "An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified."
         },
         {
           "number": 10,
-          "text": "knowing it was out of envy that the chief priests had handed Jesus over to him."
+          "text": "But the angel said to them, \"Do not be afraid. I bring you good news of great joy that will be for all the people."
         },
         {
           "number": 11,
-          "text": "But the chief priests stirred up the crowd to have Pilate release Barabbas instead."
+          "text": "Today in the town of David a Savior has been born to you; he is Christ the Lord."
         },
         {
           "number": 12,
-          "text": "\"What shall I do, then, with the one you call the king of the Jews?\" Pilate asked them."
+          "text": "This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.\""
         },
         {
           "number": 13,
-          "text": "\"Crucify him!\" they shouted."
+          "text": "Suddenly a great company of the heavenly host appeared with the angel, praising God and saying,"
         },
         {
           "number": 14,
-          "text": "\"Why? What crime has he committed?\" asked Pilate. But they shouted all the louder, \"Crucify him!\""
+          "text": "\"Glory to God in the highest, and on earth peace to men on whom his favor rests.\""
         },
         {
           "number": 15,
-          "text": "Wanting to satisfy the crowd, Pilate released Barabbas to them. He had Jesus flogged, and handed him over to be crucified."
+          "text": "When the angels had left them and gone into heaven, the shepherds said to one another, \"Let's go to Bethlehem and see this thing that has happened, which the Lord has told us about.\""
         },
         {
           "number": 16,
-          "text": "The soldiers led Jesus away into the palace (that is, the Praetorium) and called together the whole company of soldiers."
+          "text": "So they hurried off and found Mary and Joseph, and the baby, who was lying in the manger."
         },
         {
           "number": 17,
-          "text": "They put a purple robe on him, then twisted together a crown of thorns and set it on him."
+          "text": "When they had seen him, they spread the word concerning what had been told them about this child,"
         },
         {
           "number": 18,
-          "text": "And they began to call out to him, \"Hail, king of the Jews!\""
+          "text": "and all who heard it were amazed at what the shepherds said to them."
         },
         {
           "number": 19,
-          "text": "Again and again they struck him on the head with a staff and spit on him. Falling on their knees, they paid homage to him."
+          "text": "But Mary treasured up all these things and pondered them in her heart."
         },
         {
           "number": 20,
-          "text": "And when they had mocked him, they took off the purple robe and put his own clothes on him. Then they led him out to crucify him."
+          "text": "The shepherds returned, glorifying and praising God for all the things they had heard and seen, which were just as they had been told."
         },
         {
           "number": 21,
-          "text": "A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by on his way in from the country, and they forced him to carry the cross."
+          "text": "On the eighth day, when it was time to circumcise him, he was named Jesus, the name the angel had given him before he had been conceived."
         },
         {
           "number": 22,
-          "text": "They brought Jesus to the place called Golgotha (which means The Place of the Skull)."
+          "text": "When the time of their purification according to the Law of Moses had been completed, Joseph and Mary took him to Jerusalem to present him to the Lord"
         },
         {
           "number": 23,
-          "text": "Then they offered him wine mixed with myrrh, but he did not take it."
+          "text": "(as it is written in the Law of the Lord, \"Every firstborn male is to be consecrated to the Lord\"),"
         },
         {
           "number": 24,
-          "text": "And they crucified him. Dividing up his clothes, they cast lots to see what each would get."
+          "text": "and to offer a sacrifice in keeping with what is said in the Law of the Lord: \"a pair of doves or two young pigeons.\""
         },
         {
           "number": 25,
-          "text": "It was the third hour when they crucified him."
+          "text": "Now there was a man in Jerusalem called Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him."
         },
         {
           "number": 26,
-          "text": "The written notice of the charge against him read: THE KING OF THE JEWS."
+          "text": "It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord's Christ."
         },
         {
           "number": 27,
-          "text": "They crucified two robbers with him, one on his right and one on his left."
+          "text": "Moved by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,"
+        },
+        {
+          "number": 28,
+          "text": "Simeon took him in his arms and praised God, saying:"
         },
         {
           "number": 29,
-          "text": "Those who passed by hurled insults at him, shaking their heads and saying, \"So! You who are going to destroy the temple and build it in three days,"
+          "text": "\"Sovereign Lord, as you have promised, you now dismiss your servant in peace."
         },
         {
           "number": 30,
-          "text": "come down from the cross and save yourself!\""
+          "text": "For my eyes have seen your salvation,"
         },
         {
           "number": 31,
-          "text": "In the same way the chief priests and the teachers of the law mocked him among themselves. \"He saved others,\" they said, \"but he can't save himself!"
+          "text": "which you have prepared in the sight of all people,"
         },
         {
           "number": 32,
-          "text": "Let this Christ, this King of Israel, come down now from the cross, that we may see and believe.\" Those crucified with him also heaped insults on him."
+          "text": "a light for revelation to the Gentiles and for glory to your people Israel.\""
         },
         {
           "number": 33,
-          "text": "At the sixth hour darkness came over the whole land until the ninth hour."
+          "text": "The child's father and mother marveled at what was said about him."
         },
         {
           "number": 34,
-          "text": "And at the ninth hour Jesus cried out in a loud voice, \"Eloi, Eloi, lama sabachthani?\"--which means, \"My God, my God, why have you forsaken me?\""
+          "text": "Then Simeon blessed them and said to Mary, his mother: \"This child is destined to cause the falling and rising of many in Israel, and to be a sign that will be spoken against,"
         },
         {
           "number": 35,
-          "text": "When some of those standing near heard this, they said, \"Listen, he's calling Elijah.\""
+          "text": "so that the thoughts of many hearts will be revealed. And a sword will pierce your own soul too.\""
         },
         {
           "number": 36,
-          "text": "One man ran, filled a sponge with wine vinegar, put it on a stick, and offered it to Jesus to drink. \"Now leave him alone. Let's see if Elijah comes to take him down,\" he said."
+          "text": "There was also a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was very old; she had lived with her husband seven years after her marriage,"
         },
         {
           "number": 37,
-          "text": "With a loud cry, Jesus breathed his last."
+          "text": "and then was a widow until she was eighty-four. She never left the temple but worshiped night and day, fasting and praying."
         },
         {
           "number": 38,
-          "text": "The curtain of the temple was torn in two from top to bottom."
+          "text": "Coming up to them at that very moment, she gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem."
         },
         {
           "number": 39,
-          "text": "And when the centurion, who stood there in front of Jesus, heard his cry and saw how he died, he said, \"Surely this man was the Son of God!\""
+          "text": "When Joseph and Mary had done everything required by the Law of the Lord, they returned to Galilee to their own town of Nazareth."
         },
         {
           "number": 40,
-          "text": "Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome."
+          "text": "And the child grew and became strong; he was filled with wisdom, and the grace of God was upon him."
         },
         {
           "number": 41,
-          "text": "In Galilee these women had followed him and cared for his needs. Many other women who had come up with him to Jerusalem were also there."
+          "text": "Every year his parents went to Jerusalem for the Feast of the Passover."
         },
         {
           "number": 42,
-          "text": "It was Preparation Day (that is, the day before the Sabbath). So as evening approached,"
+          "text": "When he was twelve years old, they went up to the Feast, according to the custom."
         },
         {
           "number": 43,
-          "text": "Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus' body."
+          "text": "After the Feast was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it."
         },
         {
           "number": 44,
-          "text": "Pilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died."
+          "text": "Thinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends."
         },
         {
           "number": 45,
-          "text": "When he learned from the centurion that it was so, he gave the body to Joseph."
+          "text": "When they did not find him, they went back to Jerusalem to look for him."
         },
         {
           "number": 46,
-          "text": "So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb."
+          "text": "After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions."
         },
         {
           "number": 47,
-          "text": "Mary Magdalene and Mary the mother of Joses saw where he was laid."
-        }
-      ]
-    },
-    {
-      "book": "mar",
-      "book_name": "마가복음",
-      "english_book_name": "Mark",
-      "chapter_number": 16,
-      "korean_verses": [
-        {
-          "number": 1,
-          "text": "<살아나시다(마 28:1-10; 눅 24:1-12; 요 20:1-18)> 안식일이 지나매 막달라 마리아와 야고보의 어머니 마리아와 또 살로메가 가서 예수께 바르기 위하여 향품을 사다 두었다가"
+          "text": "Everyone who heard him was amazed at his understanding and his answers."
         },
         {
-          "number": 2,
-          "text": "안식 후 첫날 매우 일찍이 해 돋을 때에 그 무덤으로 가며"
+          "number": 48,
+          "text": "When his parents saw him, they were astonished. His mother said to him, \"Son, why have you treated us like this? Your father and I have been anxiously searching for you.\""
         },
         {
-          "number": 3,
-          "text": "서로 말하되 누가 우리를 위하여 무덤 문에서 돌을 굴려 주리요 하더니"
+          "number": 49,
+          "text": "\"Why were you searching for me?\" he asked. \"Didn't you know I had to be in my Father's house?\""
         },
         {
-          "number": 4,
-          "text": "눈을 들어본즉 벌써 돌이 굴려져 있는데 그 돌이 심히 크더라"
+          "number": 50,
+          "text": "But they did not understand what he was saying to them."
         },
         {
-          "number": 5,
-          "text": "무덤에 들어가서 흰 옷을 입은 한 청년이 우편에 앉은 것을 보고 놀라매"
+          "number": 51,
+          "text": "Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart."
         },
         {
-          "number": 6,
-          "text": "청년이 이르되 놀라지 말라 너희가 십자가에 못 박히신 나사렛 예수를 찾는구나 그가 살아나셨고 여기 계시지 아니하니라 보라 그를 두었던 곳이니라"
-        },
-        {
-          "number": 7,
-          "text": "가서 그의 제자들과 베드로에게 이르기를 예수께서 너희보다 먼저 갈릴리로 가시나니 전에 너희에게 말씀하신 대로 너희가 거기서 뵈오리라 하라 하는지라"
-        },
-        {
-          "number": 8,
-          "text": "여자들이 몹시 놀라 떨며 나와 무덤에서 도망하고 무서워하여 아무에게 아무 말도 하지 못하더라"
-        },
-        {
-          "number": 9,
-          "text": "<막달라 마리아에게 보이시다(마 28:9-10; 요 20:11-18)> [예수께서 안식 후 첫날 이른 아침에 살아나신 후 전에 일곱 귀신을 쫓아내어 주신 막달라 마리아에게 먼저 보이시니"
-        },
-        {
-          "number": 10,
-          "text": "마리아가 가서 예수와 함께 하던 사람들이 슬퍼하며 울고 있는 중에 이 일을 알리매"
-        },
-        {
-          "number": 11,
-          "text": "그들은 예수께서 살아나셨다는 것과 마리아에게 보이셨다는 것을 듣고도 믿지 아니하니라"
-        },
-        {
-          "number": 12,
-          "text": "<두 제자에게 나타나시다(눅 24:13-35)> 그 후에 그들 중 두 사람이 걸어서 시골로 갈 때에 예수께서 다른 모양으로 그들에게 나타나시니"
-        },
-        {
-          "number": 13,
-          "text": "두 사람이 가서 남은 제자들에게 알리었으되 역시 믿지 아니하니라"
-        },
-        {
-          "number": 14,
-          "text": "<만민에게 복음을 전파하라(마 28:16-20; 눅 24:36-49; 요 20:19-23; 행 1:6-8)> 그 후에 열한 제자가 음식 먹을 때에 예수께서 그들에게 나타나사 그들의 믿음 없는 것과 마음이 완악한 것을 꾸짖으시니 이는 자기가 살아난 것을 본 자들의 말을 믿지 아니함일러라"
-        },
-        {
-          "number": 15,
-          "text": "또 이르시되 너희는 온 천하에 다니며 만민에게 복음을 전파하라"
-        },
-        {
-          "number": 16,
-          "text": "믿고 세례를 받는 사람은 구원을 얻을 것이요 믿지 않는 사람은 정죄를 받으리라"
-        },
-        {
-          "number": 17,
-          "text": "믿는 자들에게는 이런 표적이 따르리니 곧 그들이 내 이름으로 귀신을 쫓아내며 새 방언을 말하며"
-        },
-        {
-          "number": 18,
-          "text": "뱀을 집어올리며 무슨 독을 마실지라도 해를 받지 아니하며 병든 사람에게 손을 얹은즉 나으리라 하시더라"
-        },
-        {
-          "number": 19,
-          "text": "<하늘로 올려지시다(눅 24:50-53; 행 1:9-11)> 주 예수께서 말씀을 마치신 후에 하늘로 올려지사 하나님 우편에 앉으시니라"
-        },
-        {
-          "number": 20,
-          "text": "제자들이 나가 두루 전파할새 주께서 함께 역사하사 그 따르는 표적으로 말씀을 확실히 증언하시니라]"
-        }
-      ],
-      "niv_verses": [
-        {
-          "number": 1,
-          "text": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go to anoint Jesus' body."
-        },
-        {
-          "number": 2,
-          "text": "Very early on the first day of the week, just after sunrise, they were on their way to the tomb"
-        },
-        {
-          "number": 3,
-          "text": "and they asked each other, \"Who will roll the stone away from the entrance of the tomb?\""
-        },
-        {
-          "number": 4,
-          "text": "But when they looked up, they saw that the stone, which was very large, had been rolled away."
-        },
-        {
-          "number": 5,
-          "text": "As they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed."
-        },
-        {
-          "number": 6,
-          "text": "\"Don't be alarmed,\" he said. \"You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him."
-        },
-        {
-          "number": 7,
-          "text": "But go, tell his disciples and Peter, 'He is going ahead of you into Galilee. There you will see him, just as he told you.'\""
-        },
-        {
-          "number": 8,
-          "text": "Trembling and bewildered, the women went out and fled from the tomb. They said nothing to anyone, because they were afraid."
-        },
-        {
-          "number": 9,
-          "text": "When Jesus rose early on the first day of the week, he appeared first to Mary Magdalene, out of whom he had driven seven demons."
-        },
-        {
-          "number": 10,
-          "text": "She went and told those who had been with him and who were mourning and weeping."
-        },
-        {
-          "number": 11,
-          "text": "When they heard that Jesus was alive and that she had seen him, they did not believe it."
-        },
-        {
-          "number": 12,
-          "text": "Afterward Jesus appeared in a different form to two of them while they were walking in the country."
-        },
-        {
-          "number": 13,
-          "text": "These returned and reported it to the rest; but they did not believe them either."
-        },
-        {
-          "number": 14,
-          "text": "Later Jesus appeared to the Eleven as they were eating; he rebuked them for their lack of faith and their stubborn refusal to believe those who had seen him after he had risen."
-        },
-        {
-          "number": 15,
-          "text": "He said to them, \"Go into all the world and preach the good news to all creation."
-        },
-        {
-          "number": 16,
-          "text": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned."
-        },
-        {
-          "number": 17,
-          "text": "And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;"
-        },
-        {
-          "number": 18,
-          "text": "they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well.\""
-        },
-        {
-          "number": 19,
-          "text": "After the Lord Jesus had spoken to them, he was taken up into heaven and he sat at the right hand of God."
+          "number": 52,
+          "text": "And Jesus grew in wisdom and stature, and in favor with God and men."
         }
       ]
     }
