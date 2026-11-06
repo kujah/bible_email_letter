@@ -1,565 +1,507 @@
 {
-  "target_date": "2026-10-31",
-  "reference": "누가복음 16-17장",
-  "generated_at": "2026-10-30T23:28:01Z",
+  "target_date": "2026-11-30",
+  "reference": "고린도후서 1-3장",
+  "generated_at": "2026-11-06T04:23:54Z",
   "chapters": [
     {
-      "book": "luk",
-      "book_name": "누가복음",
-      "english_book_name": "Luke",
-      "chapter_number": 16,
+      "book": "2co",
+      "book_name": "고린도후서",
+      "english_book_name": "2 Corinthians",
+      "chapter_number": 1,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<옳지 않은 청지기 비유> 또한 제자들에게 이르시되 어떤 부자에게 청지기가 있는데 그가 주인의 소유를 낭비한다는 말이 그 주인에게 들린지라"
+          "text": "<고난과 위로와 구원과 감사> 하나님의 뜻으로 말미암아 그리스도 예수의 사도 된 바울과 형제 디모데는 고린도에 있는 하나님의 교회와 또 온 아가야에 있는 모든 성도에게"
         },
         {
           "number": 2,
-          "text": "주인이 그를 불러 이르되 내가 네게 대하여 들은 이 말이 어찌 됨이냐 네가 보던 일을 셈하라 청지기 직무를 계속하지 못하리라 하니"
+          "text": "하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 있기를 원하노라"
         },
         {
           "number": 3,
-          "text": "청지기가 속으로 이르되 주인이 내 직분을 빼앗으니 내가 무엇을 할까 땅을 파자니 힘이 없고 빌어 먹자니 부끄럽구나"
+          "text": "찬송하리로다 그는 우리 주 예수 그리스도의 하나님이시요 자비의 아버지시요 모든 위로의 하나님이시며"
         },
         {
           "number": 4,
-          "text": "내가 할 일을 알았도다 이렇게 하면 직분을 빼앗긴 후에 사람들이 나를 자기 집으로 영접하리라 하고"
+          "text": "우리의 모든 환난 중에서 우리를 위로하사 우리로 하여금 하나님께 받는 위로로써 모든 환난 중에 있는 자들을 능히 위로하게 하시는 이시로다"
         },
         {
           "number": 5,
-          "text": "주인에게 빚진 자를 일일이 불러다가 먼저 온 자에게 이르되 네가 내 주인에게 얼마나 빚졌느냐"
+          "text": "그리스도의 고난이 우리에게 넘친 것 같이 우리가 받는 위로도 그리스도로 말미암아 넘치는도다"
         },
         {
           "number": 6,
-          "text": "말하되 기름 백 말이니이다 이르되 여기 네 증서를 가지고 빨리 앉아 오십이라 쓰라 하고"
+          "text": "우리가 환난 당하는 것도 너희가 위로와 구원을 받게 하려는 것이요 우리가 위로를 받는 것도 너희가 위로를 받게 하려는 것이니 이 위로가 너희 속에 역사하여 우리가 받는 것 같은 고난을 너희도 견디게 하느니라"
         },
         {
           "number": 7,
-          "text": "또 다른 이에게 이르되 너는 얼마나 빚졌느냐 이르되 밀 백 석이니이다 이르되 여기 네 증서를 가지고 팔십이라 쓰라 하였는지라"
+          "text": "너희를 위한 우리의 소망이 견고함은 너희가 고난에 참여하는 자가 된 것 같이 위로에도 그러할 줄을 앎이라"
         },
         {
           "number": 8,
-          "text": "주인이 이 옳지 않은 청지기가 일을 지혜 있게 하였으므로 칭찬하였으니 이 세대의 아들들이 자기 시대에 있어서는 빛의 아들들보다 더 지혜로움이니라"
+          "text": "형제들아 우리가 아시아에서 당한 환난을 너희가 모르기를 원하지 아니하노니 힘에 겹도록 심한 고난을 당하여 살 소망까지 끊어지고"
         },
         {
           "number": 9,
-          "text": "내가 너희에게 말하노니 불의의 재물로 친구를 사귀라 그리하면 그 재물이 없어질 때에 그들이 너희를 영주할 처소로 영접하리라"
+          "text": "우리는 우리 자신이 사형 선고를 받은 줄 알았으니 이는 우리로 자기를 의지하지 말고 오직 죽은 자를 다시 살리시는 하나님만 의지하게 하심이라"
         },
         {
           "number": 10,
-          "text": "지극히 작은 것에 충성된 자는 큰 것에도 충성되고 지극히 작은 것에 불의한 자는 큰 것에도 불의하니라"
+          "text": "그가 이같이 큰 사망에서 우리를 건지셨고 또 건지실 것이며 이후에도 건지시기를 그에게 바라노라"
         },
         {
           "number": 11,
-          "text": "너희가 만일 불의한 재물에도 충성하지 아니하면 누가 참된 것으로 너희에게 맡기겠느냐"
+          "text": "너희도 우리를 위하여 간구함으로 도우라 이는 우리가 많은 사람의 기도로 얻은 은사로 말미암아 많은 사람이 우리를 위하여 감사하게 하려 함이라"
         },
         {
           "number": 12,
-          "text": "너희가 만일 남의 것에 충성하지 아니하면 누가 너희의 것을 너희에게 주겠느냐"
+          "text": "<고린도 교회 방문을 연기하다> 우리가 세상에서 특별히 너희에 대하여 하나님의 거룩함과 진실함으로 행하되 육체의 지혜로 하지 아니하고 하나님의 은혜로 행함은 우리 양심이 증언하는 바니 이것이 우리의 자랑이라"
         },
         {
           "number": 13,
-          "text": "집 하인이 두 주인을 섬길 수 없나니 혹 이를 미워하고 저를 사랑하거나 혹 이를 중히 여기고 저를 경히 여길 것임이니라 너희는 하나님과 재물을 겸하여 섬길 수 없느니라"
+          "text": "오직 너희가 읽고 아는 것 외에 우리가 다른 것을 쓰지 아니하노니 너희가 완전히 알기를 내가 바라는 것은"
         },
         {
           "number": 14,
-          "text": "<율법과 하나님 나라의 복음> 바리새인들은 돈을 좋아하는 자들이라 이 모든 것을 듣고 비웃거늘"
+          "text": "너희가 우리를 부분적으로 알았으나 우리 주 예수의 날에는 너희가 우리의 자랑이 되고 우리가 너희의 자랑이 되는 그것이라"
         },
         {
           "number": 15,
-          "text": "예수께서 이르시되 너희는 사람 앞에서 스스로 옳다 하는 자들이나 너희 마음을 하나님께서 아시나니 사람 중에 높임을 받는 그것은 하나님 앞에 미움을 받는 것이니라"
+          "text": "내가 이 확신을 가지고 너희로 두 번 은혜를 얻게 하기 위하여 먼저 너희에게 이르렀다가"
         },
         {
           "number": 16,
-          "text": "율법과 선지자는 요한의 때까지요 그 후부터는 하나님 나라의 복음이 전파되어 사람마다 그리로 침입하느니라"
+          "text": "너희를 지나 마게도냐로 갔다가 다시 마게도냐에서 너희에게 가서 너희의 도움으로 유대로 가기를 계획하였으니"
         },
         {
           "number": 17,
-          "text": "그러나 율법의 한 획이 떨어짐보다 천지가 없어짐이 쉬우리라"
+          "text": "이렇게 계획할 때에 어찌 경솔히 하였으리요 혹 계획하기를 육체를 따라 계획하여 예 예 하면서 아니라 아니라 하는 일이 내게 있겠느냐"
         },
         {
           "number": 18,
-          "text": "무릇 자기 아내를 버리고 다른 데 장가 드는 자도 간음함이요 무릇 버림당한 여자에게 장가드는 자도 간음함이니라"
+          "text": "하나님은 미쁘시니라 우리가 너희에게 한 말은 예 하고 아니라 함이 없노라"
         },
         {
           "number": 19,
-          "text": "<부자와 거지> 한 부자가 있어 자색 옷과 고운 베옷을 입고 날마다 호화롭게 즐기더라"
+          "text": "우리 곧 나와 실루아노와 디모데로 말미암아 너희 가운데 전파된 하나님의 아들 예수 그리스도는 예 하고 아니라 함이 되지 아니하셨으니 그에게는 예만 되었느니라"
         },
         {
           "number": 20,
-          "text": "그런데 나사로라 이름하는 한 거지가 헌데 투성이로 그의 대문 앞에 버려진 채"
+          "text": "하나님의 약속은 얼마든지 그리스도 안에서 예가 되니 그런즉 그로 말미암아 우리가 아멘 하여 하나님께 영광을 돌리게 되느니라"
         },
         {
           "number": 21,
-          "text": "그 부자의 상에서 떨어지는 것으로 배불리려 하매 심지어 개들이 와서 그 헌데를 핥더라"
+          "text": "우리를 너희와 함께 그리스도 안에서 굳건하게 하시고 우리에게 기름을 부으신 이는 하나님이시니"
         },
         {
           "number": 22,
-          "text": "이에 그 거지가 죽어 천사들에게 받들려 아브라함의 품에 들어가고 부자도 죽어 장사되매"
+          "text": "그가 또한 우리에게 인치시고 보증으로 우리 마음에 성령을 주셨느니라"
         },
         {
           "number": 23,
-          "text": "그가 음부에서 고통중에 눈을 들어 멀리 아브라함과 그의 품에 있는 나사로를 보고"
+          "text": "내가 내 목숨을 걸고 하나님을 불러 증언하시게 하노니 내가 다시 고린도에 가지 아니한 것은 너희를 아끼려 함이라"
         },
         {
           "number": 24,
-          "text": "불러 이르되 아버지 아브라함이여 나를 긍휼히 여기사 나사로를 보내어 그 손가락 끝에 물을 찍어 내 혀를 서늘하게 하소서 내가 이 불꽃 가운데서 괴로워하나이다"
-        },
-        {
-          "number": 25,
-          "text": "아브라함이 이르되 얘 너는 살았을 때에 좋은 것을 받았고 나사로는 고난을 받았으니 이것을 기억하라 이제 그는 여기서 위로를 받고 너는 괴로움을 받느니라"
-        },
-        {
-          "number": 26,
-          "text": "그뿐 아니라 너희와 우리 사이에 큰 구렁텅이가 놓여 있어 여기서 너희에게 건너가고자 하되 갈 수 없고 거기서 우리에게 건너올 수도 없게 하였느니라"
-        },
-        {
-          "number": 27,
-          "text": "이르되 그러면 아버지여 구하노니 나사로를 내 아버지의 집에 보내소서"
-        },
-        {
-          "number": 28,
-          "text": "내 형제 다섯이 있으니 그들에게 증언하게 하여 그들로 이 고통 받는 곳에 오지 않게 하소서"
-        },
-        {
-          "number": 29,
-          "text": "아브라함이 이르되 그들에게 모세와 선지자들이 있으니 그들에게 들을지니라"
-        },
-        {
-          "number": 30,
-          "text": "이르되 그렇지 아니하니이다 아버지 아브라함이여 만일 죽은 자에게서 그들에게 가는 자가 있으면 회개하리이다"
-        },
-        {
-          "number": 31,
-          "text": "이르되 모세와 선지자들에게 듣지 아니하면 비록 죽은 자 가운데서 살아나는 자가 있을지라도 권함을 받지 아니하리라 하였다 하시니라"
+          "text": "우리가 너희 믿음을 주관하려는 것이 아니요 오직 너희 기쁨을 돕는 자가 되려 함이니 이는 너희가 믿음에 섰음이라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Jesus told his disciples: \"There was a rich man whose manager was accused of wasting his possessions."
+          "text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:"
         },
         {
           "number": 2,
-          "text": "So he called him in and asked him, 'What is this I hear about you? Give an account of your management, because you cannot be manager any longer.'"
+          "text": "Grace and peace to you from God our Father and the Lord Jesus Christ."
         },
         {
           "number": 3,
-          "text": "\"The manager said to himself, 'What shall I do now? My master is taking away my job. I'm not strong enough to dig, and I'm ashamed to beg--"
+          "text": "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort,"
         },
         {
           "number": 4,
-          "text": "I know what I'll do so that, when I lose my job here, people will welcome me into their houses.'"
+          "text": "who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God."
         },
         {
           "number": 5,
-          "text": "\"So he called in each one of his master's debtors. He asked the first, 'How much do you owe my master?'"
+          "text": "For just as the sufferings of Christ flow over into our lives, so also through Christ our comfort overflows."
         },
         {
           "number": 6,
-          "text": "\"'Eight hundred gallons of olive oil,' he replied. \"The manager told him, 'Take your bill, sit down quickly, and make it four hundred.'"
+          "text": "If we are distressed, it is for your comfort and salvation; if we are comforted, it is for your comfort, which produces in you patient endurance of the same sufferings we suffer."
         },
         {
           "number": 7,
-          "text": "\"Then he asked the second, 'And how much do you owe?' \"'A thousand bushels of wheat,' he replied. \"He told him, 'Take your bill and make it eight hundred.'"
+          "text": "And our hope for you is firm, because we know that just as you share in our sufferings, so also you share in our comfort."
         },
         {
           "number": 8,
-          "text": "\"The master commended the dishonest manager because he had acted shrewdly. For the people of this world are more shrewd in dealing with their own kind than are the people of the light."
+          "text": "We do not want you to be uninformed, brothers, about the hardships we suffered in the province of Asia. We were under great pressure, far beyond our ability to endure, so that we despaired even of life."
         },
         {
           "number": 9,
-          "text": "I tell you, use worldly wealth to gain friends for yourselves, so that when it is gone, you will be welcomed into eternal dwellings."
+          "text": "Indeed, in our hearts we felt the sentence of death. But this happened that we might not rely on ourselves but on God, who raises the dead."
         },
         {
           "number": 10,
-          "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."
+          "text": "He has delivered us from such a deadly peril, and he will deliver us. On him we have set our hope that he will continue to deliver us,"
         },
         {
           "number": 11,
-          "text": "So if you have not been trustworthy in handling worldly wealth, who will trust you with true riches?"
+          "text": "as you help us by your prayers. Then many will give thanks on our behalf for the gracious favor granted us in answer to the prayers of many."
         },
         {
           "number": 12,
-          "text": "And if you have not been trustworthy with someone else's property, who will give you property of your own?"
+          "text": "Now this is our boast: Our conscience testifies that we have conducted ourselves in the world, and especially in our relations with you, in the holiness and sincerity that are from God. We have done so not according to worldly wisdom but according to God's grace."
         },
         {
           "number": 13,
-          "text": "\"No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and Money.\""
+          "text": "For we do not write you anything you cannot read or understand. And I hope that,"
         },
         {
           "number": 14,
-          "text": "The Pharisees, who loved money, heard all this and were sneering at Jesus."
+          "text": "as you have understood us in part, you will come to understand fully that you can boast of us just as we will boast of you in the day of the Lord Jesus."
         },
         {
           "number": 15,
-          "text": "He said to them, \"You are the ones who justify yourselves in the eyes of men, but God knows your hearts. What is highly valued among men is detestable in God's sight."
+          "text": "Because I was confident of this, I planned to visit you first so that you might benefit twice."
         },
         {
           "number": 16,
-          "text": "\"The Law and the Prophets were proclaimed until John. Since that time, the good news of the kingdom of God is being preached, and everyone is forcing his way into it."
+          "text": "I planned to visit you on my way to Macedonia and to come back to you from Macedonia, and then to have you send me on my way to Judea."
         },
         {
           "number": 17,
-          "text": "It is easier for heaven and earth to disappear than for the least stroke of a pen to drop out of the Law."
+          "text": "When I planned this, did I do it lightly? Or do I make my plans in a worldly manner so that in the same breath I say, \"Yes, yes\" and \"No, no\"?"
         },
         {
           "number": 18,
-          "text": "\"Anyone who divorces his wife and marries another woman commits adultery, and the man who marries a divorced woman commits adultery."
+          "text": "But as surely as God is faithful, our message to you is not \"Yes\" and \"No.\""
         },
         {
           "number": 19,
-          "text": "\"There was a rich man who was dressed in purple and fine linen and lived in luxury every day."
+          "text": "For the Son of God, Jesus Christ, who was preached among you by me and Silas and Timothy, was not \"Yes\" and \"No,\" but in him it has always been \"Yes.\""
         },
         {
           "number": 20,
-          "text": "At his gate was laid a beggar named Lazarus, covered with sores"
+          "text": "For no matter how many promises God has made, they are \"Yes\" in Christ. And so through him the \"Amen\" is spoken by us to the glory of God."
         },
         {
           "number": 21,
-          "text": "and longing to eat what fell from the rich man's table. Even the dogs came and licked his sores."
+          "text": "Now it is God who makes both us and you stand firm in Christ. He anointed us,"
         },
         {
           "number": 22,
-          "text": "\"The time came when the beggar died and the angels carried him to Abraham's side. The rich man also died and was buried."
+          "text": "set his seal of ownership on us, and put his Spirit in our hearts as a deposit, guaranteeing what is to come."
         },
         {
           "number": 23,
-          "text": "In hell, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side."
+          "text": "I call God as my witness that it was in order to spare you that I did not return to Corinth."
         },
         {
           "number": 24,
-          "text": "So he called to him, 'Father Abraham, have pity on me and send Lazarus to dip the tip of his finger in water and cool my tongue, because I am in agony in this fire.'"
-        },
-        {
-          "number": 25,
-          "text": "\"But Abraham replied, 'Son, remember that in your lifetime you received your good things, while Lazarus received bad things, but now he is comforted here and you are in agony."
-        },
-        {
-          "number": 26,
-          "text": "And besides all this, between us and you a great chasm has been fixed, so that those who want to go from here to you cannot, nor can anyone cross over from there to us.'"
-        },
-        {
-          "number": 27,
-          "text": "\"He answered, 'Then I beg you, father, send Lazarus to my father's house,"
-        },
-        {
-          "number": 28,
-          "text": "for I have five brothers. Let him warn them, so that they will not also come to this place of torment.'"
-        },
-        {
-          "number": 29,
-          "text": "\"Abraham replied, 'They have Moses and the Prophets; let them listen to them.'"
-        },
-        {
-          "number": 30,
-          "text": "\"'No, father Abraham,' he said, 'but if someone from the dead goes to them, they will repent.'"
-        },
-        {
-          "number": 31,
-          "text": "\"He said to him, 'If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'\""
+          "text": "Not that we lord it over your faith, but we work with you for your joy, because it is by faith you stand firm."
         }
       ]
     },
     {
-      "book": "luk",
-      "book_name": "누가복음",
-      "english_book_name": "Luke",
-      "chapter_number": 17,
+      "book": "2co",
+      "book_name": "고린도후서",
+      "english_book_name": "2 Corinthians",
+      "chapter_number": 2,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<용서, 믿음, 종이 할 일(마 18:6-7; 21:22; 막 9:42)> 예수께서 제자들에게 이르시되 실족하게 하는 것이 없을 수는 없으나 그렇게 하게 하는 자에게는 화로다"
+          "text": "내가 다시는 너희에게 근심 중에 나아가지 아니하기로 스스로 결심하였노니"
         },
         {
           "number": 2,
-          "text": "그가 이 작은 자 중의 하나를 실족하게 할진대 차라리 연자맷돌이 그 목에 매여 바다에 던져지는 것이 나으리라"
+          "text": "내가 너희를 근심하게 한다면 내가 근심하게 한 자밖에 나를 기쁘게 할 자가 누구냐"
         },
         {
           "number": 3,
-          "text": "너희는 스스로 조심하라 만일 네 형제가 죄를 범하거든 경고하고 회개하거든 용서하라"
+          "text": "내가 이같이 쓴 것은 내가 갈 때에 마땅히 나를 기쁘게 할 자로부터 도리어 근심을 얻을까 염려함이요 또 너희 모두에 대한 나의 기쁨이 너희 모두의 기쁨인 줄 확신함이로라"
         },
         {
           "number": 4,
-          "text": "만일 하루에 일곱 번이라도 네게 죄를 짓고 일곱 번 네게 돌아와 내가 회개하노라 하거든 너는 용서하라 하시더라"
+          "text": "내가 마음에 큰 눌림과 걱정이 있어 많은 눈물로 너희에게 썼노니 이는 너희로 근심하게 하려 한 것이 아니요 오직 내가 너희를 향하여 넘치는 사랑이 있음을 너희로 알게 하려 함이라"
         },
         {
           "number": 5,
-          "text": "사도들이 주께 여짜오되 우리에게 믿음을 더하소서 하니"
+          "text": "<근심하게 한 사람을 용서하라> 근심하게 한 자가 있었을지라도 나를 근심하게 한 것이 아니요 어느 정도 너희 모두를 근심하게 한 것이니 어느 정도라 함은 내가 너무 지나치게 말하지 아니하려 함이라"
         },
         {
           "number": 6,
-          "text": "주께서 이르시되 너희에게 겨자씨 한 알만한 믿음이 있었더라면 이 뽕나무더러 뿌리가 뽑혀 바다에 심기어라 하였을 것이요 그것이 너희에게 순종하였으리라"
+          "text": "이러한 사람은 많은 사람에게서 벌 받는 것이 마땅하도다"
         },
         {
           "number": 7,
-          "text": "너희 중 누구에게 밭을 갈거나 양을 치거나 하는 종이 있어 밭에서 돌아오면 그더러 곧 와 앉아서 먹으라 말할 자가 있느냐"
+          "text": "그런즉 너희는 차라리 그를 용서하고 위로할 것이니 그가 너무 많은 근심에 잠길까 두려워하노라"
         },
         {
           "number": 8,
-          "text": "도리어 그더러 내 먹을 것을 준비하고 띠를 띠고 내가 먹고 마시는 동안에 수종들고 너는 그 후에 먹고 마시라 하지 않겠느냐"
+          "text": "그러므로 너희를 권하노니 사랑을 그들에게 나타내라"
         },
         {
           "number": 9,
-          "text": "명한 대로 하였다고 종에게 감사하겠느냐"
+          "text": "너희가 범사에 순종하는지 그 증거를 알고자 하여 내가 이것을 너희에게 썼노라"
         },
         {
           "number": 10,
-          "text": "이와 같이 너희도 명령 받은 것을 다 행한 후에 이르기를 우리는 무익한 종이라 우리가 하여야 할 일을 한 것뿐이라 할지니라"
+          "text": "너희가 무슨 일에든지 누구를 용서하면 나도 그리하고 내가 만일 용서한 일이 있으면 용서한 그것은 너희를 위하여 그리스도 앞에서 한 것이니"
         },
         {
           "number": 11,
-          "text": "<나병환자 열 명이 깨끗함을 받다> 예수께서 예루살렘으로 가실 때에 사마리아와 갈릴리 사이로 지나가시다가"
+          "text": "이는 우리로 사탄에게 속지 않게 하려 함이라 우리는 그 계책을 알지 못하는 바가 아니로라"
         },
         {
           "number": 12,
-          "text": "한 마을에 들어가시니 나병환자 열 명이 예수를 만나 멀리 서서"
+          "text": "<그리스도의 향기> 내가 그리스도의 복음을 위하여 드로아에 이르매 주 안에서 문이 내게 열렸으되"
         },
         {
           "number": 13,
-          "text": "소리를 높여 이르되 예수 선생님이여 우리를 불쌍히 여기소서 하거늘"
+          "text": "내가 내 형제 디도를 만나지 못하므로 내 심령이 편하지 못하여 그들을 작별하고 마게도냐로 갔노라"
         },
         {
           "number": 14,
-          "text": "보시고 이르시되 가서 제사장들에게 너희 몸을 보이라 하셨더니 그들이 가다가 깨끗함을 받은지라"
+          "text": "항상 우리를 그리스도 안에서 이기게 하시고 우리로 말미암아 각처에서 그리스도를 아는 냄새를 나타내시는 하나님께 감사하노라"
         },
         {
           "number": 15,
-          "text": "그 중의 한 사람이 자기가 나은 것을 보고 큰 소리로 하나님께 영광을 돌리며 돌아와"
+          "text": "우리는 구원 받는 자들에게나 망하는 자들에게나 하나님 앞에서 그리스도의 향기니"
         },
         {
           "number": 16,
-          "text": "예수의 발 아래에 엎드리어 감사하니 그는 사마리아 사람이라"
+          "text": "이 사람에게는 사망으로부터 사망에 이르는 냄새요 저 사람에게는 생명으로부터 생명에 이르는 냄새라 누가 이 일을 감당하리요"
         },
         {
           "number": 17,
-          "text": "예수께서 대답하여 이르시되 열 사람이 다 깨끗함을 받지 아니하였느냐 그 아홉은 어디 있느냐"
-        },
-        {
-          "number": 18,
-          "text": "이 이방인 외에는 하나님께 영광을 돌리러 돌아온 자가 없느냐 하시고"
-        },
-        {
-          "number": 19,
-          "text": "그에게 이르시되 일어나 가라 네 믿음이 너를 구원하였느니라 하시더라"
-        },
-        {
-          "number": 20,
-          "text": "<하나님의 나라는 너희 안에 있다(마 24:23-28, 37-41)> 바리새인들이 하나님의 나라가 어느 때에 임하나이까 묻거늘 예수께서 대답하여 이르시되 하나님의 나라는 볼 수 있게 임하는 것이 아니요"
-        },
-        {
-          "number": 21,
-          "text": "또 여기 있다 저기 있다고도 못하리니 하나님의 나라는 너희 안에 있느니라"
-        },
-        {
-          "number": 22,
-          "text": "또 제자들에게 이르시되 때가 이르리니 너희가 인자의 날 하루를 보고자 하되 보지 못하리라"
-        },
-        {
-          "number": 23,
-          "text": "사람이 너희에게 말하되 보라 저기 있다 보라 여기 있다 하리라 그러나 너희는 가지도 말고 따르지도 말라"
-        },
-        {
-          "number": 24,
-          "text": "번개가 하늘 아래 이쪽에서 번쩍이어 하늘 아래 저쪽까지 비침같이 인자도 자기 날에 그러하리라"
-        },
-        {
-          "number": 25,
-          "text": "그러나 그가 먼저 많은 고난을 받으며 이 세대에게 버린 바 되어야 할지니라"
-        },
-        {
-          "number": 26,
-          "text": "노아의 때에 된 것과 같이 인자의 때에도 그러하리라"
-        },
-        {
-          "number": 27,
-          "text": "노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집 가더니 홍수가 나서 그들을 다 멸망시켰으며"
-        },
-        {
-          "number": 28,
-          "text": "또 롯의 때와 같으리니 사람들이 먹고 마시고 사고 팔고 심고 집을 짓더니"
-        },
-        {
-          "number": 29,
-          "text": "롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비오듯 하여 그들을 멸망시켰느니라"
-        },
-        {
-          "number": 30,
-          "text": "인자가 나타나는 날에도 이러하리라"
-        },
-        {
-          "number": 31,
-          "text": "그 날에 만일 사람이 지붕 위에 있고 그의 세간이 그 집 안에 있으면 그것을 가지러 내려가지 말 것이요 밭에 있는 자도 그와 같이 뒤로 돌이키지 말 것이니라"
-        },
-        {
-          "number": 32,
-          "text": "롯의 처를 기억하라"
-        },
-        {
-          "number": 33,
-          "text": "무릇 자기 목숨을 보전하고자 하는 자는 잃을 것이요 잃는 자는 살리리라"
-        },
-        {
-          "number": 34,
-          "text": "내가 너희에게 이르노니 그 밤에 둘이 한 자리에 누워 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이요"
-        },
-        {
-          "number": 35,
-          "text": "두 여자가 함께 맷돌을 갈고 있으매 하나는 데려감을 얻고 하나는 버려둠을 당할 것이니라"
-        },
-        {
-          "number": 36,
-          "text": "(없음)"
-        },
-        {
-          "number": 37,
-          "text": "그들이 대답하여 이르되 주여 어디오니이까 이르시되 주검 있는 곳에는 독수리가 모이느니라 하시니라"
+          "text": "우리는 수많은 사람들처럼 하나님의 말씀을 혼잡하게 하지 아니하고 곧 순전함으로 하나님께 받은 것 같이 하나님 앞에서와 그리스도 안에서 말하노라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Jesus said to his disciples: \"Things that cause people to sin are bound to come, but woe to that person through whom they come."
+          "text": "So I made up my mind that I would not make another painful visit to you."
         },
         {
           "number": 2,
-          "text": "It would be better for him to be thrown into the sea with a millstone tied around his neck than for him to cause one of these little ones to sin."
+          "text": "For if I grieve you, who is left to make me glad but you whom I have grieved?"
         },
         {
           "number": 3,
-          "text": "So watch yourselves. \"If your brother sins, rebuke him, and if he repents, forgive him."
+          "text": "I wrote as I did so that when I came I should not be distressed by those who ought to make me rejoice. I had confidence in all of you, that you would all share my joy."
         },
         {
           "number": 4,
-          "text": "If he sins against you seven times in a day, and seven times comes back to you and says, 'I repent,' forgive him.\""
+          "text": "For I wrote you out of great distress and anguish of heart and with many tears, not to grieve you but to let you know the depth of my love for you."
         },
         {
           "number": 5,
-          "text": "The apostles said to the Lord, \"Increase our faith!\""
+          "text": "If anyone has caused grief, he has not so much grieved me as he has grieved all of you, to some extent--not to put it too severely."
         },
         {
           "number": 6,
-          "text": "He replied, \"If you have faith as small as a mustard seed, you can say to this mulberry tree, 'Be uprooted and planted in the sea,' and it will obey you."
+          "text": "The punishment inflicted on him by the majority is sufficient for him."
         },
         {
           "number": 7,
-          "text": "\"Suppose one of you had a servant plowing or looking after the sheep. Would he say to the servant when he comes in from the field, 'Come along now and sit down to eat'?"
+          "text": "Now instead, you ought to forgive and comfort him, so that he will not be overwhelmed by excessive sorrow."
         },
         {
           "number": 8,
-          "text": "Would he not rather say, 'Prepare my supper, get yourself ready and wait on me while I eat and drink; after that you may eat and drink'?"
+          "text": "I urge you, therefore, to reaffirm your love for him."
         },
         {
           "number": 9,
-          "text": "Would he thank the servant because he did what he was told to do?"
+          "text": "The reason I wrote you was to see if you would stand the test and be obedient in everything."
         },
         {
           "number": 10,
-          "text": "So you also, when you have done everything you were told to do, should say, 'We are unworthy servants; we have only done our duty.'\""
+          "text": "If you forgive anyone, I also forgive him. And what I have forgiven--if there was anything to forgive--I have forgiven in the sight of Christ for your sake,"
         },
         {
           "number": 11,
-          "text": "Now on his way to Jerusalem, Jesus traveled along the border between Samaria and Galilee."
+          "text": "in order that Satan might not outwit us. For we are not unaware of his schemes."
         },
         {
           "number": 12,
-          "text": "As he was going into a village, ten men who had leprosy met him. They stood at a distance"
+          "text": "Now when I went to Troas to preach the gospel of Christ and found that the Lord had opened a door for me,"
         },
         {
           "number": 13,
-          "text": "and called out in a loud voice, \"Jesus, Master, have pity on us!\""
+          "text": "I still had no peace of mind, because I did not find my brother Titus there. So I said good-by to them and went on to Macedonia."
         },
         {
           "number": 14,
-          "text": "When he saw them, he said, \"Go, show yourselves to the priests.\" And as they went, they were cleansed."
+          "text": "But thanks be to God, who always leads us in triumphal procession in Christ and through us spreads everywhere the fragrance of the knowledge of him."
         },
         {
           "number": 15,
-          "text": "One of them, when he saw he was healed, came back, praising God in a loud voice."
+          "text": "For we are to God the aroma of Christ among those who are being saved and those who are perishing."
         },
         {
           "number": 16,
-          "text": "He threw himself at Jesus' feet and thanked him--and he was a Samaritan."
+          "text": "To the one we are the smell of death; to the other, the fragrance of life. And who is equal to such a task?"
         },
         {
           "number": 17,
-          "text": "Jesus asked, \"Were not all ten cleansed? Where are the other nine?"
+          "text": "Unlike so many, we do not peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, like men sent from God."
+        }
+      ]
+    },
+    {
+      "book": "2co",
+      "book_name": "고린도후서",
+      "english_book_name": "2 Corinthians",
+      "chapter_number": 3,
+      "korean_verses": [
+        {
+          "number": 1,
+          "text": "<새 언약의 일꾼들> 우리가 다시 자천하기를 시작하겠느냐 우리가 어찌 어떤 사람처럼 추천서를 너희에게 부치거나 혹은 너희에게 받거나 할 필요가 있느냐"
+        },
+        {
+          "number": 2,
+          "text": "너희는 우리의 편지라 우리 마음에 썼고 뭇 사람이 알고 읽는 바라"
+        },
+        {
+          "number": 3,
+          "text": "너희는 우리로 말미암아 나타난 그리스도의 편지니 이는 먹으로 쓴 것이 아니요 오직 살아 계신 하나님의 영으로 쓴 것이며 또 돌판에 쓴 것이 아니요 오직 육의 마음판에 쓴 것이라"
+        },
+        {
+          "number": 4,
+          "text": "우리가 그리스도로 말미암아 하나님을 향하여 이같은 확신이 있으니"
+        },
+        {
+          "number": 5,
+          "text": "우리가 무슨 일이든지 우리에게서 난 것 같이 스스로 만족할 것이 아니니 우리의 만족은 오직 하나님으로부터 나느니라"
+        },
+        {
+          "number": 6,
+          "text": "그가 또한 우리를 새 언약의 일꾼 되기에 만족하게 하셨으니 율법 조문으로 하지 아니하고 오직 영으로 함이니 율법 조문은 죽이는 것이요 영은 살리는 것이니라"
+        },
+        {
+          "number": 7,
+          "text": "돌에 써서 새긴 죽게 하는 율법 조문의 직분도 영광이 있어 이스라엘 자손들은 모세의 얼굴의 없어질 영광 때문에도 그 얼굴을 주목하지 못하였거든"
+        },
+        {
+          "number": 8,
+          "text": "하물며 영의 직분은 더욱 영광이 있지 아니하겠느냐"
+        },
+        {
+          "number": 9,
+          "text": "정죄의 직분도 영광이 있은즉 의의 직분은 영광이 더욱 넘치리라"
+        },
+        {
+          "number": 10,
+          "text": "영광되었던 것이 더 큰 영광으로 말미암아 이에 영광될 것이 없으나"
+        },
+        {
+          "number": 11,
+          "text": "없어질 것도 영광으로 말미암았은즉 길이 있을 것은 더욱 영광 가운데 있느니라"
+        },
+        {
+          "number": 12,
+          "text": "우리가 이같은 소망이 있으므로 담대히 말하노니"
+        },
+        {
+          "number": 13,
+          "text": "우리는 모세가 이스라엘 자손들에게 장차 없어질 것의 결국을 주목하지 못하게 하려고 수건을 그 얼굴에 쓴 것 같이 아니하노라"
+        },
+        {
+          "number": 14,
+          "text": "그러나 그들의 마음이 완고하여 오늘까지도 구약을 읽을 때에 그 수건이 벗겨지지 아니하고 있으니 그 수건은 그리스도 안에서 없어질 것이라"
+        },
+        {
+          "number": 15,
+          "text": "오늘까지 모세의 글을 읽을 때에 수건이 그 마음을 덮었도다"
+        },
+        {
+          "number": 16,
+          "text": "그러나 언제든지 주께로 돌아가면 그 수건이 벗겨지리라"
+        },
+        {
+          "number": 17,
+          "text": "주는 영이시니 주의 영이 계신 곳에는 자유가 있느니라"
         },
         {
           "number": 18,
-          "text": "Was no one found to return and give praise to God except this foreigner?\""
+          "text": "우리가 다 수건을 벗은 얼굴로 거울을 보는 것 같이 주의 영광을 보매 그와 같은 형상으로 변화하여 영광에서 영광에 이르니 곧 주의 영으로 말미암음이니라"
+        }
+      ],
+      "niv_verses": [
+        {
+          "number": 1,
+          "text": "Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you?"
         },
         {
-          "number": 19,
-          "text": "Then he said to him, \"Rise and go; your faith has made you well.\""
+          "number": 2,
+          "text": "You yourselves are our letter, written on our hearts, known and read by everybody."
         },
         {
-          "number": 20,
-          "text": "Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, \"The kingdom of God does not come with your careful observation,"
+          "number": 3,
+          "text": "You show that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."
         },
         {
-          "number": 21,
-          "text": "nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is within you.\""
+          "number": 4,
+          "text": "Such confidence as this is ours through Christ before God."
         },
         {
-          "number": 22,
-          "text": "Then he said to his disciples, \"The time is coming when you will long to see one of the days of the Son of Man, but you will not see it."
+          "number": 5,
+          "text": "Not that we are competent in ourselves to claim anything for ourselves, but our competence comes from God."
         },
         {
-          "number": 23,
-          "text": "Men will tell you, 'There he is!' or 'Here he is!' Do not go running off after them."
+          "number": 6,
+          "text": "He has made us competent as ministers of a new covenant--not of the letter but of the Spirit; for the letter kills, but the Spirit gives life."
         },
         {
-          "number": 24,
-          "text": "For the Son of Man in his day will be like the lightning, which flashes and lights up the sky from one end to the other."
+          "number": 7,
+          "text": "Now if the ministry that brought death, which was engraved in letters on stone, came with glory, so that the Israelites could not look steadily at the face of Moses because of its glory, fading though it was,"
         },
         {
-          "number": 25,
-          "text": "But first he must suffer many things and be rejected by this generation."
+          "number": 8,
+          "text": "will not the ministry of the Spirit be even more glorious?"
         },
         {
-          "number": 26,
-          "text": "\"Just as it was in the days of Noah, so also will it be in the days of the Son of Man."
+          "number": 9,
+          "text": "If the ministry that condemns men is glorious, how much more glorious is the ministry that brings righteousness!"
         },
         {
-          "number": 27,
-          "text": "People were eating, drinking, marrying and being given in marriage up to the day Noah entered the ark. Then the flood came and destroyed them all."
+          "number": 10,
+          "text": "For what was glorious has no glory now in comparison with the surpassing glory."
         },
         {
-          "number": 28,
-          "text": "\"It was the same in the days of Lot. People were eating and drinking, buying and selling, planting and building."
+          "number": 11,
+          "text": "And if what was fading away came with glory, how much greater is the glory of that which lasts!"
         },
         {
-          "number": 29,
-          "text": "But the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all."
+          "number": 12,
+          "text": "Therefore, since we have such a hope, we are very bold."
         },
         {
-          "number": 30,
-          "text": "\"It will be just like this on the day the Son of Man is revealed."
+          "number": 13,
+          "text": "We are not like Moses, who would put a veil over his face to keep the Israelites from gazing at it while the radiance was fading away."
         },
         {
-          "number": 31,
-          "text": "On that day no one who is on the roof of his house, with his goods inside, should go down to get them. Likewise, no one in the field should go back for anything."
+          "number": 14,
+          "text": "But their minds were made dull, for to this day the same veil remains when the old covenant is read. It has not been removed, because only in Christ is it taken away."
         },
         {
-          "number": 32,
-          "text": "Remember Lot's wife!"
+          "number": 15,
+          "text": "Even to this day when Moses is read, a veil covers their hearts."
         },
         {
-          "number": 33,
-          "text": "Whoever tries to keep his life will lose it, and whoever loses his life will preserve it."
+          "number": 16,
+          "text": "But whenever anyone turns to the Lord, the veil is taken away."
         },
         {
-          "number": 34,
-          "text": "I tell you, on that night two people will be in one bed; one will be taken and the other left."
+          "number": 17,
+          "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
         },
         {
-          "number": 35,
-          "text": "Two women will be grinding grain together; one will be taken and the other left.\""
-        },
-        {
-          "number": 37,
-          "text": "\"Where, Lord?\" they asked. He replied, \"Where there is a dead body, there the vultures will gather.\""
+          "number": 18,
+          "text": "And we, who with unveiled faces all reflect the Lord's glory, are being transformed into his likeness with ever-increasing glory, which comes from the Lord, who is the Spirit."
         }
       ]
     }

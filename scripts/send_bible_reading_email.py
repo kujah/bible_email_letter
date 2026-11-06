@@ -53,6 +53,11 @@ BOOK_META = {
     "mat": ("마태복음", "마", "Matthew", "40-Matthew (마태복음).txt", "new"),
     "mar": ("마가복음", "막", "Mark", "41-Mark (마가복음).txt", "new"),
     "luk": ("누가복음", "눅", "Luke", "42-Luke (누가복음).txt", "new"),
+    "joh": ("요한복음", "요", "John", "43-John (요한복음).txt", "new"),
+    "act": ("사도행전", "행", "Acts", "44-Acts (사도행전).txt", "new"),
+    "rom": ("로마서", "롬", "Romans", "45-Romans (로마서).txt", "new"),
+    "1co": ("고린도전서", "고전", "1 Corinthians", "46-1 Corinthians (고린도전서).txt", "new"),
+    "2co": ("고린도후서", "고후", "2 Corinthians", "47-2 Corinthians (고린도후서).txt", "new"),
 }
 
 
@@ -209,6 +214,36 @@ READING_PLAN: dict[str, list[dict[str, Any]]] = {
     "2026-10-29": [{"book": "luk", "start": 12, "end": 13}],
     "2026-10-30": [{"book": "luk", "start": 14, "end": 15}],
     "2026-10-31": [{"book": "luk", "start": 16, "end": 17}],
+    "2026-11-01": [{"book": "luk", "start": 18, "end": 20}],
+    "2026-11-02": [{"book": "luk", "start": 21, "end": 22}],
+    "2026-11-03": [{"book": "luk", "start": 23, "end": 24}],
+    "2026-11-04": [{"book": "joh", "start": 1, "end": 3}],
+    "2026-11-05": [{"book": "joh", "start": 4, "end": 6}],
+    "2026-11-06": [{"book": "joh", "start": 7, "end": 9}],
+    "2026-11-07": [{"book": "joh", "start": 10, "end": 12}],
+    "2026-11-08": [{"book": "joh", "start": 13, "end": 15}],
+    "2026-11-09": [{"book": "joh", "start": 16, "end": 18}],
+    "2026-11-10": [{"book": "joh", "start": 19, "end": 21}],
+    "2026-11-11": [{"book": "act", "start": 1, "end": 3}],
+    "2026-11-12": [{"book": "act", "start": 4, "end": 6}],
+    "2026-11-13": [{"book": "act", "start": 7, "end": 9}],
+    "2026-11-14": [{"book": "act", "start": 10, "end": 12}],
+    "2026-11-15": [{"book": "act", "start": 13, "end": 15}],
+    "2026-11-16": [{"book": "act", "start": 16, "end": 18}],
+    "2026-11-17": [{"book": "act", "start": 19, "end": 21}],
+    "2026-11-18": [{"book": "act", "start": 22, "end": 25}],
+    "2026-11-19": [{"book": "act", "start": 26, "end": 28}],
+    "2026-11-20": [{"book": "rom", "start": 1, "end": 3}],
+    "2026-11-21": [{"book": "rom", "start": 4, "end": 7}],
+    "2026-11-22": [{"book": "rom", "start": 8, "end": 10}],
+    "2026-11-23": [{"book": "rom", "start": 11, "end": 13}],
+    "2026-11-24": [{"book": "rom", "start": 14, "end": 16}],
+    "2026-11-25": [{"book": "1co", "start": 1, "end": 3}],
+    "2026-11-26": [{"book": "1co", "start": 4, "end": 6}],
+    "2026-11-27": [{"book": "1co", "start": 7, "end": 9}],
+    "2026-11-28": [{"book": "1co", "start": 10, "end": 13}],
+    "2026-11-29": [{"book": "1co", "start": 14, "end": 16}],
+    "2026-11-30": [{"book": "2co", "start": 1, "end": 3}],
 }
 
 
@@ -263,7 +298,14 @@ def read_korean_bible() -> str:
 
 
 def parse_korean_chapter(source: str, book_abbreviation: str, chapter_number: int) -> list[Verse]:
-    marker = re.compile(r"(?<![가-힣])([가-힣]{1,4})(\d+):(\d+)\s+")
+    # The source sometimes joins the last verse of one book directly to the
+    # first verse marker of the next (for example, "...니라요1:1").  Match the
+    # known abbreviations explicitly so those book-boundary verses are found.
+    abbreviations = sorted({meta[1] for meta in BOOK_META.values()}, key=len, reverse=True)
+    abbreviation_pattern = "|".join(re.escape(value) for value in abbreviations)
+    # Some Korean markers combine adjacent verses (for example, "롬9:1-2").
+    # Keep the first number for alignment and consume the range suffix.
+    marker = re.compile(rf"({abbreviation_pattern})(\d+):(\d+)(?:-\d+)?\s+")
     matches = list(marker.finditer(source))
     verses: list[Verse] = []
     for index, match in enumerate(matches):
