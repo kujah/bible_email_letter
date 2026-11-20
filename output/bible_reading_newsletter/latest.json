@@ -1,883 +1,771 @@
 {
-  "target_date": "2026-11-19",
-  "reference": "사도행전 26-28장",
-  "generated_at": "2026-11-19T01:43:44Z",
+  "target_date": "2026-11-20",
+  "reference": "로마서 1-3장",
+  "generated_at": "2026-11-20T01:39:28Z",
   "chapters": [
     {
-      "book": "act",
-      "book_name": "사도행전",
-      "english_book_name": "Acts",
-      "chapter_number": 26,
+      "book": "rom",
+      "book_name": "로마서",
+      "english_book_name": "Romans",
+      "chapter_number": 1,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<바울이 변명하다(행 9:1-19; 22:6-16)> 아그립바가 바울에게 이르되 너를 위하여 말하기를 네게 허락하노라 하니 이에 바울이 손을 들어 변명하되"
+          "text": "<인사> 예수 그리스도의 종 바울은 사도로 부르심을 받아 하나님의 복음을 위하여 택정함을 입었으니"
         },
         {
           "number": 2,
-          "text": "아그립바 왕이여 유대인이 고발하는 모든 일을 오늘 당신 앞에서 변명하게 된 것을 다행히 여기나이다"
+          "text": "이 복음은 하나님이 선지자들을 통하여 그의 아들에 관하여 성경에 미리 약속하신 것이라"
         },
         {
           "number": 3,
-          "text": "특히 당신이 유대인의 모든 풍속과 문제를 아심이니이다 그러므로 내 말을 너그러이 들으시기를 바라나이다"
+          "text": "그의 아들에 관하여 말하면 육신으로는 다윗의 혈통에서 나셨고"
         },
         {
           "number": 4,
-          "text": "내가 처음부터 내 민족과 더불어 예루살렘에서 젊었을 때 생활한 상황을 유대인이 다 아는 바라"
+          "text": "성결의 영으로는 죽은 자들 가운데서 부활하사 능력으로 하나님의 아들로 선포되셨으니 곧 우리 주 예수 그리스도시니라"
         },
         {
           "number": 5,
-          "text": "일찍부터 나를 알았으니 그들이 증언하려 하면 내가 우리 종교의 가장 엄한 파를 따라 바리새인의 생활을 하였다고 할 것이라"
+          "text": "그로 말미암아 우리가 은혜와 사도의 직분을 받아 그의 이름을 위하여 모든 이방인 중에서 믿어 순종하게 하나니"
         },
         {
           "number": 6,
-          "text": "이제도 여기 서서 심문 받는 것은 하나님이 우리 조상에게 약속하신 것을 바라는 까닭이니"
+          "text": "너희도 그들 중에서 예수 그리스도의 것으로 부르심을 받은 자니라"
         },
         {
           "number": 7,
-          "text": "이 약속은 우리 열두 지파가 밤낮으로 간절히 하나님을 받들어 섬김으로 얻기를 바라는 바인데 아그립바 왕이여 이 소망으로 말미암아 내가 유대인들에게 고소를 당하는 것이니이다"
+          "text": "로마에서 하나님의 사랑하심을 받고 성도로 부르심을 받은 모든 자에게 하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 있기를 원하노라"
         },
         {
           "number": 8,
-          "text": "당신들은 하나님이 죽은 사람을 살리심을 어찌하여 못 믿을 것으로 여기나이까"
+          "text": "<바울의 로마 방문 계획> 먼저 내가 예수 그리스도로 말미암아 너희 모든 사람에 관하여 내 하나님께 감사함은 너희 믿음이 온 세상에 전파됨이로다"
         },
         {
           "number": 9,
-          "text": "나도 나사렛 예수의 이름을 대적하여 많은 일을 행하여야 될 줄 스스로 생각하고"
+          "text": "내가 그의 아들의 복음 안에서 내 심령으로 섬기는 하나님이 나의 증인이 되시거니와 항상 내 기도에 쉬지 않고 너희를 말하며"
         },
         {
           "number": 10,
-          "text": "예루살렘에서 이런 일을 행하여 대제사장들에게서 권한을 받아 가지고 많은 성도를 옥에 가두며 또 죽일 때에 내가 찬성 투표를 하였고"
+          "text": "어떻게 하든지 이제 하나님의 뜻 안에서 너희에게로 나아갈 좋은 길 얻기를 구하노라"
         },
         {
           "number": 11,
-          "text": "또 모든 회당에서 여러 번 형벌하여 강제로 모독하는 말을 하게 하고 그들에 대하여 심히 격분하여 외국 성에까지 가서 박해하였고"
+          "text": "내가 너희 보기를 간절히 원하는 것은 어떤 신령한 은사를 너희에게 나누어 주어 너희를 견고하게 하려 함이니"
         },
         {
           "number": 12,
-          "text": "그 일로 대제사장들의 권한과 위임을 받고 다메섹으로 갔나이다"
+          "text": "이는 곧 내가 너희 가운데서 너희와 나의 믿음으로 말미암아 피차 안위함을 얻으려 함이라"
         },
         {
           "number": 13,
-          "text": "왕이여 정오가 되어 길에서 보니 하늘로부터 해보다 더 밝은 빛이 나와 내 동행들을 둘러 비추는지라"
+          "text": "형제들아 내가 여러 번 너희에게 가고자 한 것을 너희가 모르기를 원하지 아니하노니 이는 너희 중에서도 다른 이방인 중에서와 같이 열매를 맺게 하려 함이로되 지금까지 길이 막혔도다"
         },
         {
           "number": 14,
-          "text": "우리가 다 땅에 엎드러지매 내가 소리를 들으니 히브리 말로 이르되 사울아 사울아 네가 어찌하여 나를 박해하느냐 가시채를 뒷발질하기가 네게 고생이니라"
+          "text": "헬라인이나 야만인이나 지혜 있는 자나 어리석은 자에게 다 내가 빚진 자라"
         },
         {
           "number": 15,
-          "text": "내가 대답하되 주님 누구시니이까 주께서 이르시되 나는 네가 박해하는 예수라"
+          "text": "그러므로 나는 할 수 있는 대로 로마에 있는 너희에게도 복음 전하기를 원하노라"
         },
         {
           "number": 16,
-          "text": "일어나 너의 발로 서라 내가 네게 나타난 것은 곧 네가 나를 본 일과 장차 내가 네게 나타날 일에 너로 종과 증인을 삼으려 함이니"
+          "text": "내가 복음을 부끄러워하지 아니하노니 이 복음은 모든 믿는 자에게 구원을 주시는 하나님의 능력이 됨이라 먼저는 유대인에게요 그리고 헬라인에게로다"
         },
         {
           "number": 17,
-          "text": "이스라엘과 이방인들에게서 내가 너를 구원하여 그들에게 보내어"
+          "text": "복음에는 하나님의 의가 나타나서 믿음으로 믿음에 이르게 하나니 기록된 바 오직 의인은 믿음으로 말미암아 살리라 함과 같으니라"
         },
         {
           "number": 18,
-          "text": "그 눈을 뜨게 하여 어둠에서 빛으로, 사탄의 권세에서 하나님께로 돌아오게 하고 죄 사함과 나를 믿어 거룩하게 된 무리 가운데서 기업을 얻게 하리라 하더이다"
+          "text": "<모든 경건하지 않음과 불의> 하나님의 진노가 불의로 진리를 막는 사람들의 모든 경건하지 않음과 불의에 대하여 하늘로부터 나타나나니"
         },
         {
           "number": 19,
-          "text": "아그립바 왕이여 그러므로 하늘에서 보이신 것을 내가 거스르지 아니하고"
+          "text": "이는 하나님을 알 만한 것이 그들 속에 보임이라 하나님께서 이를 그들에게 보이셨느니라"
         },
         {
           "number": 20,
-          "text": "먼저 다메섹과 예루살렘에 있는 사람과 유대 온 땅과 이방인에게까지 회개하고 하나님께로 돌아와서 회개에 합당한 일을 하라 전하므로"
+          "text": "창세로부터 그의 보이지 아니하는 것들 곧 그의 영원하신 능력과 신성이 그가 만드신 만물에 분명히 보여 알려졌나니 그러므로 그들이 핑계하지 못할지니라"
         },
         {
           "number": 21,
-          "text": "유대인들이 성전에서 나를 잡아 죽이고자 하였으나"
+          "text": "하나님을 알되 하나님을 영화롭게도 아니하며 감사하지도 아니하고 오히려 그 생각이 허망하여지며 미련한 마음이 어두워졌나니"
         },
         {
           "number": 22,
-          "text": "하나님의 도우심을 받아 내가 오늘까지 서서 높고 낮은 사람 앞에서 증언하는 것은 선지자들과 모세가 반드시 되리라고 말한 것밖에 없으니"
+          "text": "스스로 지혜 있다 하나 어리석게 되어"
         },
         {
           "number": 23,
-          "text": "곧 그리스도가 고난을 받으실 것과 죽은 자 가운데서 먼저 다시 살아나사 이스라엘과 이방인들에게 빛을 전하시리라 함이니이다 하니라"
+          "text": "썩어지지 아니하는 하나님의 영광을 썩어질 사람과 새와 짐승과 기어다니는 동물 모양의 우상으로 바꾸었느니라"
         },
         {
           "number": 24,
-          "text": "<바울이 아그립바 왕에게 전도하다> 바울이 이같이 변명하매 베스도가 크게 소리 내어 이르되 바울아 네가 미쳤도다 네 많은 학문이 너를 미치게 한다 하니"
+          "text": "그러므로 하나님께서 그들을 마음의 정욕대로 더러움에 내버려 두사 그들의 몸을 서로 욕되게 하게 하셨으니"
         },
         {
           "number": 25,
-          "text": "바울이 이르되 베스도 각하여 내가 미친 것이 아니요 참되고 온전한 말을 하나이다"
+          "text": "이는 그들이 하나님의 진리를 거짓 것으로 바꾸어 피조물을 조물주보다 더 경배하고 섬김이라 주는 곧 영원히 찬송할 이시로다 아멘"
         },
         {
           "number": 26,
-          "text": "왕께서는 이 일을 아시기로 내가 왕께 담대히 말하노니 이 일에 하나라도 아시지 못함이 없는 줄 믿나이다 이 일은 한쪽 구석에서 행한 것이 아니니이다"
+          "text": "이 때문에 하나님께서 그들을 부끄러운 욕심에 내버려 두셨으니 곧 그들의 여자들도 순리대로 쓸 것을 바꾸어 역리로 쓰며"
         },
         {
           "number": 27,
-          "text": "아그립바 왕이여 선지자를 믿으시나이까 믿으시는 줄 아나이다"
+          "text": "그와 같이 남자들도 순리대로 여자 쓰기를 버리고 서로 향하여 음욕이 불 일듯 하매 남자가 남자와 더불어 부끄러운 일을 행하여 그들의 그릇됨에 상당한 보응을 그들 자신이 받았느니라"
         },
         {
           "number": 28,
-          "text": "아그립바가 바울에게 이르되 네가 적은 말로 나를 권하여 그리스도인이 되게 하려 하는도다"
+          "text": "또한 그들이 마음에 하나님 두기를 싫어하매 하나님께서 그들을 그 상실한 마음대로 내버려 두사 합당하지 못한 일을 하게 하셨으니"
         },
         {
           "number": 29,
-          "text": "바울이 이르되 말이 적으나 많으나 당신뿐만 아니라 오늘 내 말을 듣는 모든 사람도 다 이렇게 결박된 것 외에는 나와 같이 되기를 하나님께 원하나이다 하니라"
+          "text": "곧 모든 불의, 추악, 탐욕, 악의가 가득한 자요 시기, 살인, 분쟁, 사기, 악독이 가득한 자요 수군수군하는 자요"
         },
         {
           "number": 30,
-          "text": "왕과 총독과 버니게와 그 함께 앉은 사람들이 다 일어나서"
+          "text": "비방하는 자요 하나님께서 미워하시는 자요 능욕하는 자요 교만한 자요 자랑하는 자요 악을 도모하는 자요 부모를 거역하는 자요"
         },
         {
           "number": 31,
-          "text": "물러가 서로 말하되 이 사람은 사형이나 결박을 당할 만한 행위가 없다 하더라"
+          "text": "우매한 자요 배약하는 자요 무정한 자요 무자비한 자라"
         },
         {
           "number": 32,
-          "text": "이에 아그립바가 베스도에게 이르되 이 사람이 만일 가이사에게 상소하지 아니하였더라면 석방될 수 있을 뻔하였다 하니라"
+          "text": "그들이 이같은 일을 행하는 자는 사형에 해당한다고 하나님께서 정하심을 알고도 자기들만 행할 뿐 아니라 또한 그런 일을 행하는 자들을 옳다 하느니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Then Agrippa said to Paul, \"You have permission to speak for yourself.\" So Paul motioned with his hand and began his defense:"
+          "text": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--"
         },
         {
           "number": 2,
-          "text": "\"King Agrippa, I consider myself fortunate to stand before you today as I make my defense against all the accusations of the Jews,"
+          "text": "the gospel he promised beforehand through his prophets in the Holy Scriptures"
         },
         {
           "number": 3,
-          "text": "and especially so because you are well acquainted with all the Jewish customs and controversies. Therefore, I beg you to listen to me patiently."
+          "text": "regarding his Son, who as to his human nature was a descendant of David,"
         },
         {
           "number": 4,
-          "text": "\"The Jews all know the way I have lived ever since I was a child, from the beginning of my life in my own country, and also in Jerusalem."
+          "text": "and who through the Spirit of holiness was declared with power to be the Son of God by his resurrection from the dead: Jesus Christ our Lord."
         },
         {
           "number": 5,
-          "text": "They have known me for a long time and can testify, if they are willing, that according to the strictest sect of our religion, I lived as a Pharisee."
+          "text": "Through him and for his name's sake, we received grace and apostleship to call people from among all the Gentiles to the obedience that comes from faith."
         },
         {
           "number": 6,
-          "text": "And now it is because of my hope in what God has promised our fathers that I am on trial today."
+          "text": "And you also are among those who are called to belong to Jesus Christ."
         },
         {
           "number": 7,
-          "text": "This is the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. O king, it is because of this hope that the Jews are accusing me."
+          "text": "To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and from the Lord Jesus Christ."
         },
         {
           "number": 8,
-          "text": "Why should any of you consider it incredible that God raises the dead?"
+          "text": "First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world."
         },
         {
           "number": 9,
-          "text": "\"I too was convinced that I ought to do all that was possible to oppose the name of Jesus of Nazareth."
+          "text": "God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you"
         },
         {
           "number": 10,
-          "text": "And that is just what I did in Jerusalem. On the authority of the chief priests I put many of the saints in prison, and when they were put to death, I cast my vote against them."
+          "text": "in my prayers at all times; and I pray that now at last by God's will the way may be opened for me to come to you."
         },
         {
           "number": 11,
-          "text": "Many a time I went from one synagogue to another to have them punished, and I tried to force them to blaspheme. In my obsession against them, I even went to foreign cities to persecute them."
+          "text": "I long to see you so that I may impart to you some spiritual gift to make you strong--"
         },
         {
           "number": 12,
-          "text": "\"On one of these journeys I was going to Damascus with the authority and commission of the chief priests."
+          "text": "that is, that you and I may be mutually encouraged by each other's faith."
         },
         {
           "number": 13,
-          "text": "About noon, O king, as I was on the road, I saw a light from heaven, brighter than the sun, blazing around me and my companions."
+          "text": "I do not want you to be unaware, brothers, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles."
         },
         {
           "number": 14,
-          "text": "We all fell to the ground, and I heard a voice saying to me in Aramaic, 'Saul, Saul, why do you persecute me? It is hard for you to kick against the goads.'"
+          "text": "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish."
         },
         {
           "number": 15,
-          "text": "\"Then I asked, 'Who are you, Lord?' \"'I am Jesus, whom you are persecuting,' the Lord replied."
+          "text": "That is why I am so eager to preach the gospel also to you who are at Rome."
         },
         {
           "number": 16,
-          "text": "'Now get up and stand on your feet. I have appeared to you to appoint you as a servant and as a witness of what you have seen of me and what I will show you."
+          "text": "I am not ashamed of the gospel, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile."
         },
         {
           "number": 17,
-          "text": "I will rescue you from your own people and from the Gentiles. I am sending you to them"
+          "text": "For in the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\""
         },
         {
           "number": 18,
-          "text": "to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.'"
+          "text": "The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness,"
         },
         {
           "number": 19,
-          "text": "\"So then, King Agrippa, I was not disobedient to the vision from heaven."
+          "text": "since what may be known about God is plain to them, because God has made it plain to them."
         },
         {
           "number": 20,
-          "text": "First to those in Damascus, then to those in Jerusalem and in all Judea, and to the Gentiles also, I preached that they should repent and turn to God and prove their repentance by their deeds."
+          "text": "For since the creation of the world God's invisible qualities--his eternal power and divine nature--have been clearly seen, being understood from what has been made, so that men are without excuse."
         },
         {
           "number": 21,
-          "text": "That is why the Jews seized me in the temple courts and tried to kill me."
+          "text": "For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened."
         },
         {
           "number": 22,
-          "text": "But I have had God's help to this very day, and so I stand here and testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen--"
+          "text": "Although they claimed to be wise, they became fools"
         },
         {
           "number": 23,
-          "text": "that the Christ would suffer and, as the first to rise from the dead, would proclaim light to his own people and to the Gentiles.\""
+          "text": "and exchanged the glory of the immortal God for images made to look like mortal man and birds and animals and reptiles."
         },
         {
           "number": 24,
-          "text": "At this point Festus interrupted Paul's defense. \"You are out of your mind, Paul!\" he shouted. \"Your great learning is driving you insane.\""
+          "text": "Therefore God gave them over in the sinful desires of their hearts to sexual impurity for the degrading of their bodies with one another."
         },
         {
           "number": 25,
-          "text": "\"I am not insane, most excellent Festus,\" Paul replied. \"What I am saying is true and reasonable."
+          "text": "They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator--who is forever praised. Amen."
         },
         {
           "number": 26,
-          "text": "The king is familiar with these things, and I can speak freely to him. I am convinced that none of this has escaped his notice, because it was not done in a corner."
+          "text": "Because of this, God gave them over to shameful lusts. Even their women exchanged natural relations for unnatural ones."
         },
         {
           "number": 27,
-          "text": "King Agrippa, do you believe the prophets? I know you do.\""
+          "text": "In the same way the men also abandoned natural relations with women and were inflamed with lust for one another. Men committed indecent acts with other men, and received in themselves the due penalty for their perversion."
         },
         {
           "number": 28,
-          "text": "Then Agrippa said to Paul, \"Do you think that in such a short time you can persuade me to be a Christian?\""
+          "text": "Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done."
         },
         {
           "number": 29,
-          "text": "Paul replied, \"Short time or long--I pray God that not only you but all who are listening to me today may become what I am, except for these chains.\""
+          "text": "They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips,"
         },
         {
           "number": 30,
-          "text": "The king rose, and with him the governor and Bernice and those sitting with them."
+          "text": "slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;"
         },
         {
           "number": 31,
-          "text": "They left the room, and while talking with one another, they said, \"This man is not doing anything that deserves death or imprisonment.\""
+          "text": "they are senseless, faithless, heartless, ruthless."
         },
         {
           "number": 32,
-          "text": "Agrippa said to Festus, \"This man could have been set free if he had not appealed to Caesar.\""
+          "text": "Although they know God's righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them."
         }
       ]
     },
     {
-      "book": "act",
-      "book_name": "사도행전",
-      "english_book_name": "Acts",
-      "chapter_number": 27,
+      "book": "rom",
+      "book_name": "로마서",
+      "english_book_name": "Romans",
+      "chapter_number": 2,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<바울이 로마로 압송되다> 우리가 배를 타고 이달리야에 가기로 작정되매 바울과 다른 죄수 몇 사람을 아구스도대의 백부장 율리오란 사람에게 맡기니"
+          "text": "<하나님의 심판> 그러므로 남을 판단하는 사람아, 누구를 막론하고 네가 핑계하지 못할 것은 남을 판단하는 것으로 네가 너를 정죄함이니 판단하는 네가 같은 일을 행함이니라"
         },
         {
           "number": 2,
-          "text": "아시아 해변 각처로 가려 하는 아드라뭇데노 배에 우리가 올라 항해할새 마게도냐의 데살로니가 사람 아리스다고도 함께 하니라"
+          "text": "이런 일을 행하는 자에게 하나님의 심판이 진리대로 되는 줄 우리가 아노라"
         },
         {
           "number": 3,
-          "text": "이튿날 시돈에 대니 율리오가 바울을 친절히 대하여 친구들에게 가서 대접 받기를 허락하더니"
+          "text": "이런 일을 행하는 자를 판단하고도 같은 일을 행하는 사람아, 네가 하나님의 심판을 피할 줄로 생각하느냐"
         },
         {
           "number": 4,
-          "text": "또 거기서 우리가 떠나가다가 맞바람을 피하여 구브로 해안을 의지하고 항해하여"
+          "text": "혹 네가 하나님의 인자하심이 너를 인도하여 회개하게 하심을 알지 못하여 그의 인자하심과 용납하심과 길이 참으심이 풍성함을 멸시하느냐"
         },
         {
           "number": 5,
-          "text": "길리기아와 밤빌리아 바다를 건너 루기아의 무라 시에 이르러"
+          "text": "다만 네 고집과 회개하지 아니한 마음을 따라 진노의 날 곧 하나님의 의로우신 심판이 나타나는 그 날에 임할 진노를 네게 쌓는도다"
         },
         {
           "number": 6,
-          "text": "거기서 백부장이 이달리야로 가려 하는 알렉산드리아 배를 만나 우리를 오르게 하니"
+          "text": "하나님께서 각 사람에게 그 행한 대로 보응하시되"
         },
         {
           "number": 7,
-          "text": "배가 더디 가 여러 날 만에 간신히 니도 맞은편에 이르러 풍세가 더 허락하지 아니하므로 살모네 앞을 지나 그레데 해안을 바람막이로 항해하여"
+          "text": "참고 선을 행하여 영광과 존귀와 썩지 아니함을 구하는 자에게는 영생으로 하시고"
         },
         {
           "number": 8,
-          "text": "간신히 그 연안을 지나 미항이라는 곳에 이르니 라새아 시에서 가깝더라"
+          "text": "오직 당을 지어 진리를 따르지 아니하고 불의를 따르는 자에게는 진노와 분노로 하시리라"
         },
         {
           "number": 9,
-          "text": "여러 날이 걸려 금식하는 절기가 이미 지났으므로 항해하기가 위태한지라 바울이 그들을 권하여"
+          "text": "악을 행하는 각 사람의 영에는 환난과 곤고가 있으리니 먼저는 유대인에게요 그리고 헬라인에게며"
         },
         {
           "number": 10,
-          "text": "말하되 여러분이여 내가 보니 이번 항해가 하물과 배만 아니라 우리 생명에도 타격과 많은 손해를 끼치리라 하되"
+          "text": "선을 행하는 각 사람에게는 영광과 존귀와 평강이 있으리니 먼저는 유대인에게요 그리고 헬라인에게라"
         },
         {
           "number": 11,
-          "text": "백부장이 선장과 선주의 말을 바울의 말보다 더 믿더라"
+          "text": "이는 하나님께서 외모로 사람을 취하지 아니하심이라"
         },
         {
           "number": 12,
-          "text": "그 항구가 겨울을 지내기에 불편하므로 거기서 떠나 아무쪼록 뵈닉스에 가서 겨울을 지내자 하는 자가 더 많으니 뵈닉스는 그레데 항구라 한쪽은 서남을, 한쪽은 서북을 향하였더라"
+          "text": "무릇 율법 없이 범죄한 자는 또한 율법 없이 망하고 무릇 율법이 있고 범죄한 자는 율법으로 말미암아 심판을 받으리라"
         },
         {
           "number": 13,
-          "text": "남풍이 순하게 불매 그들이 뜻을 이룬 줄 알고 닻을 감아 그레데 해변을 끼고 항해하더니"
+          "text": "하나님 앞에서는 율법을 듣는 자가 의인이 아니요 오직 율법을 행하는 자라야 의롭다 하심을 얻으리니"
         },
         {
           "number": 14,
-          "text": "얼마 안 되어 섬 가운데로부터 유라굴로라는 광풍이 크게 일어나니"
+          "text": "(율법 없는 이방인이 본성으로 율법의 일을 행할 때에는 이 사람은 율법이 없어도 자기가 자기에게 율법이 되나니"
         },
         {
           "number": 15,
-          "text": "배가 밀려 바람을 맞추어 갈 수 없어 가는 대로 두고 쫓겨가다가"
+          "text": "이런 이들은 그 양심이 증거가 되어 그 생각들이 서로 혹은 고발하며 혹은 변명하여 그 마음에 새긴 율법의 행위를 나타내느니라)"
         },
         {
           "number": 16,
-          "text": "가우다라는 작은 섬 아래로 지나 간신히 거루를 잡아"
+          "text": "곧 나의 복음에 이른 바와 같이 하나님이 예수 그리스도로 말미암아 사람들의 은밀한 것을 심판하시는 그 날이라"
         },
         {
           "number": 17,
-          "text": "끌어 올리고 줄을 가지고 선체를 둘러 감고 스르디스에 걸릴까 두려워하여 연장을 내리고 그냥 쫓겨가더니"
+          "text": "<유대인과 율법> 유대인이라 불리는 네가 율법을 의지하며 하나님을 자랑하며"
         },
         {
           "number": 18,
-          "text": "우리가 풍랑으로 심히 애쓰다가 이튿날 사공들이 짐을 바다에 풀어 버리고"
+          "text": "율법의 교훈을 받아 하나님의 뜻을 알고 지극히 선한 것을 분간하며"
         },
         {
           "number": 19,
-          "text": "사흘째 되는 날에 배의 기구를 그들의 손으로 내버리니라"
+          "text": "맹인의 길을 인도하는 자요 어둠에 있는 자의 빛이요"
         },
         {
           "number": 20,
-          "text": "여러 날 동안 해도 별도 보이지 아니하고 큰 풍랑이 그대로 있으매 구원의 여망마저 없어졌더라"
+          "text": "율법에 있는 지식과 진리의 모본을 가진 자로서 어리석은 자의 교사요 어린 아이의 선생이라고 스스로 믿으니"
         },
         {
           "number": 21,
-          "text": "여러 사람이 오래 먹지 못하였으매 바울이 가운데 서서 말하되 여러분이여 내 말을 듣고 그레데에서 떠나지 아니하여 이 타격과 손상을 면하였더라면 좋을 뻔하였느니라"
+          "text": "그러면 다른 사람을 가르치는 네가 네 자신은 가르치지 아니하느냐 도둑질하지 말라 선포하는 네가 도둑질하느냐"
         },
         {
           "number": 22,
-          "text": "내가 너희를 권하노니 이제는 안심하라 너희 중 아무도 생명에는 아무런 손상이 없겠고 오직 배뿐이리라"
+          "text": "간음하지 말라 말하는 네가 간음하느냐 우상을 가증히 여기는 네가 신전 물건을 도둑질하느냐"
         },
         {
           "number": 23,
-          "text": "내가 속한 바 곧 내가 섬기는 하나님의 사자가 어제 밤에 내 곁에 서서 말하되"
+          "text": "율법을 자랑하는 네가 율법을 범함으로 하나님을 욕되게 하느냐"
         },
         {
           "number": 24,
-          "text": "바울아 두려워하지 말라 네가 가이사 앞에 서야 하겠고 또 하나님께서 너와 함께 항해하는 자를 다 네게 주셨다 하였으니"
+          "text": "기록된 바와 같이 하나님의 이름이 너희 때문에 이방인 중에서 모독을 받는도다"
         },
         {
           "number": 25,
-          "text": "그러므로 여러분이여 안심하라 나는 내게 말씀하신 그대로 되리라고 하나님을 믿노라"
+          "text": "네가 율법을 행하면 할례가 유익하나 만일 율법을 범하면 네 할례는 무할례가 되느니라"
         },
         {
           "number": 26,
-          "text": "그런즉 우리가 반드시 한 섬에 걸리리라 하더라"
+          "text": "그런즉 무할례자가 율법의 규례를 지키면 그 무할례를 할례와 같이 여길 것이 아니냐"
         },
         {
           "number": 27,
-          "text": "<풍랑으로 배가 깨어지다> 열나흘째 되는 날 밤에 우리가 아드리아 바다에서 이리 저리 쫓겨가다가 자정쯤 되어 사공들이 어느 육지에 가까워지는 줄을 짐작하고"
+          "text": "또한 본래 무할례자가 율법을 온전히 지키면 율법 조문과 할례를 가지고 율법을 범하는 너를 정죄하지 아니하겠느냐"
         },
         {
           "number": 28,
-          "text": "물을 재어 보니 스무 길이 되고 조금 가다가 다시 재니 열다섯 길이라"
+          "text": "무릇 표면적 유대인이 유대인이 아니요 표면적 육신의 할례가 할례가 아니니라"
         },
         {
           "number": 29,
-          "text": "암초에 걸릴까 하여 고물로 닻 넷을 내리고 날이 새기를 고대하니라"
-        },
-        {
-          "number": 30,
-          "text": "사공들이 도망하고자 하여 이물에서 닻을 내리는 체하고 거룻배를 바다에 내려 놓거늘"
-        },
-        {
-          "number": 31,
-          "text": "바울이 백부장과 군인들에게 이르되 이 사람들이 배에 있지 아니하면 너희가 구원을 얻지 못하리라 하니"
-        },
-        {
-          "number": 32,
-          "text": "이에 군인들이 거룻줄을 끊어 떼어 버리니라"
-        },
-        {
-          "number": 33,
-          "text": "날이 새어 가매 바울이 여러 사람에게 음식 먹기를 권하여 이르되 너희가 기다리고 기다리며 먹지 못하고 주린 지가 오늘까지 열나흘인즉"
-        },
-        {
-          "number": 34,
-          "text": "음식 먹기를 권하노니 이것이 너희의 구원을 위하는 것이요 너희 중 머리카락 하나도 잃을 자가 없으리라 하고"
-        },
-        {
-          "number": 35,
-          "text": "떡을 가져다가 모든 사람 앞에서 하나님께 축사하고 떼어 먹기를 시작하매"
-        },
-        {
-          "number": 36,
-          "text": "그들도 다 안심하고 받아 먹으니"
-        },
-        {
-          "number": 37,
-          "text": "배에 있는 우리의 수는 전부 이백칠십육 명이더라"
-        },
-        {
-          "number": 38,
-          "text": "배부르게 먹고 밀을 바다에 버려 배를 가볍게 하였더니"
-        },
-        {
-          "number": 39,
-          "text": "날이 새매 어느 땅인지 알지 못하나 경사진 해안으로 된 항만이 눈에 띄거늘 배를 거기에 들여다 댈 수 있는가 의논한 후"
-        },
-        {
-          "number": 40,
-          "text": "닻을 끊어 바다에 버리는 동시에 키를 풀어 늦추고 돛을 달고 바람에 맞추어 해안을 향하여 들어가다가"
-        },
-        {
-          "number": 41,
-          "text": "두 물이 합하여 흐르는 곳을 만나 배를 걸매 이물은 부딪쳐 움직일 수 없이 붙고 고물은 큰 물결에 깨어져 가니"
-        },
-        {
-          "number": 42,
-          "text": "군인들은 죄수가 헤엄쳐서 도망할까 하여 그들을 죽이는 것이 좋다 하였으나"
-        },
-        {
-          "number": 43,
-          "text": "백부장이 바울을 구원하려 하여 그들의 뜻을 막고 헤엄칠 줄 아는 사람들을 명하여 물에 뛰어내려 먼저 육지에 나가게 하고"
-        },
-        {
-          "number": 44,
-          "text": "그 남은 사람들은 널조각 혹은 배 물건에 의지하여 나가게 하니 마침내 사람들이 다 상륙하여 구조되니라"
+          "text": "오직 이면적 유대인이 유대인이며 할례는 마음에 할지니 영에 있고 율법 조문에 있지 아니한 것이라 그 칭찬이 사람에게서가 아니요 다만 하나님에게서니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment."
+          "text": "You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge the other, you are condemning yourself, because you who pass judgment do the same things."
         },
         {
           "number": 2,
-          "text": "We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us."
+          "text": "Now we know that God's judgment against those who do such things is based on truth."
         },
         {
           "number": 3,
-          "text": "The next day we landed at Sidon; and Julius, in kindness to Paul, allowed him to go to his friends so they might provide for his needs."
+          "text": "So when you, a mere man, pass judgment on them and yet do the same things, do you think you will escape God's judgment?"
         },
         {
           "number": 4,
-          "text": "From there we put out to sea again and passed to the lee of Cyprus because the winds were against us."
+          "text": "Or do you show contempt for the riches of his kindness, tolerance and patience, not realizing that God's kindness leads you toward repentance?"
         },
         {
           "number": 5,
-          "text": "When we had sailed across the open sea off the coast of Cilicia and Pamphylia, we landed at Myra in Lycia."
+          "text": "But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God's wrath, when his righteous judgment will be revealed."
         },
         {
           "number": 6,
-          "text": "There the centurion found an Alexandrian ship sailing for Italy and put us on board."
+          "text": "God \"will give to each person according to what he has done.\""
         },
         {
           "number": 7,
-          "text": "We made slow headway for many days and had difficulty arriving off Cnidus. When the wind did not allow us to hold our course, we sailed to the lee of Crete, opposite Salmone."
+          "text": "To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life."
         },
         {
           "number": 8,
-          "text": "We moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea."
+          "text": "But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger."
         },
         {
           "number": 9,
-          "text": "Much time had been lost, and sailing had already become dangerous because by now it was after the Fast. So Paul warned them,"
+          "text": "There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile;"
         },
         {
           "number": 10,
-          "text": "\"Men, I can see that our voyage is going to be disastrous and bring great loss to ship and cargo, and to our own lives also.\""
+          "text": "but glory, honor and peace for everyone who does good: first for the Jew, then for the Gentile."
         },
         {
           "number": 11,
-          "text": "But the centurion, instead of listening to what Paul said, followed the advice of the pilot and of the owner of the ship."
+          "text": "For God does not show favoritism."
         },
         {
           "number": 12,
-          "text": "Since the harbor was unsuitable to winter in, the majority decided that we should sail on, hoping to reach Phoenix and winter there. This was a harbor in Crete, facing both southwest and northwest."
+          "text": "All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law."
         },
         {
           "number": 13,
-          "text": "When a gentle south wind began to blow, they thought they had obtained what they wanted; so they weighed anchor and sailed along the shore of Crete."
+          "text": "For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous."
         },
         {
           "number": 14,
-          "text": "Before very long, a wind of hurricane force, called the \"northeaster,\" swept down from the island."
+          "text": "(Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law,"
         },
         {
           "number": 15,
-          "text": "The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along."
+          "text": "since they show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts now accusing, now even defending them.)"
         },
         {
           "number": 16,
-          "text": "As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure."
+          "text": "This will take place on the day when God will judge men's secrets through Jesus Christ, as my gospel declares."
         },
         {
           "number": 17,
-          "text": "When the men had hoisted it aboard, they passed ropes under the ship itself to hold it together. Fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along."
+          "text": "Now you, if you call yourself a Jew; if you rely on the law and brag about your relationship to God;"
         },
         {
           "number": 18,
-          "text": "We took such a violent battering from the storm that the next day they began to throw the cargo overboard."
+          "text": "if you know his will and approve of what is superior because you are instructed by the law;"
         },
         {
           "number": 19,
-          "text": "On the third day, they threw the ship's tackle overboard with their own hands."
+          "text": "if you are convinced that you are a guide for the blind, a light for those who are in the dark,"
         },
         {
           "number": 20,
-          "text": "When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved."
+          "text": "an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth--"
         },
         {
           "number": 21,
-          "text": "After the men had gone a long time without food, Paul stood up before them and said: \"Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss."
+          "text": "you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?"
         },
         {
           "number": 22,
-          "text": "But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed."
+          "text": "You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?"
         },
         {
           "number": 23,
-          "text": "Last night an angel of the God whose I am and whom I serve stood beside me"
+          "text": "You who brag about the law, do you dishonor God by breaking the law?"
         },
         {
           "number": 24,
-          "text": "and said, 'Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.'"
+          "text": "As it is written: \"God's name is blasphemed among the Gentiles because of you.\""
         },
         {
           "number": 25,
-          "text": "So keep up your courage, men, for I have faith in God that it will happen just as he told me."
+          "text": "Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised."
         },
         {
           "number": 26,
-          "text": "Nevertheless, we must run aground on some island.\""
+          "text": "If those who are not circumcised keep the law's requirements, will they not be regarded as though they were circumcised?"
         },
         {
           "number": 27,
-          "text": "On the fourteenth night we were still being driven across the Adriatic Sea, when about midnight the sailors sensed they were approaching land."
+          "text": "The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker."
         },
         {
           "number": 28,
-          "text": "They took soundings and found that the water was a hundred and twenty feet deep. A short time later they took soundings again and found it was ninety feet deep."
+          "text": "A man is not a Jew if he is only one outwardly, nor is circumcision merely outward and physical."
         },
         {
           "number": 29,
-          "text": "Fearing that we would be dashed against the rocks, they dropped four anchors from the stern and prayed for daylight."
-        },
-        {
-          "number": 30,
-          "text": "In an attempt to escape from the ship, the sailors let the lifeboat down into the sea, pretending they were going to lower some anchors from the bow."
-        },
-        {
-          "number": 31,
-          "text": "Then Paul said to the centurion and the soldiers, \"Unless these men stay with the ship, you cannot be saved.\""
-        },
-        {
-          "number": 32,
-          "text": "So the soldiers cut the ropes that held the lifeboat and let it fall away."
-        },
-        {
-          "number": 33,
-          "text": "Just before dawn Paul urged them all to eat. \"For the last fourteen days,\" he said, \"you have been in constant suspense and have gone without food--you haven't eaten anything."
-        },
-        {
-          "number": 34,
-          "text": "Now I urge you to take some food. You need it to survive. Not one of you will lose a single hair from his head.\""
-        },
-        {
-          "number": 35,
-          "text": "After he said this, he took some bread and gave thanks to God in front of them all. Then he broke it and began to eat."
-        },
-        {
-          "number": 36,
-          "text": "They were all encouraged and ate some food themselves."
-        },
-        {
-          "number": 37,
-          "text": "Altogether there were 276 of us on board."
-        },
-        {
-          "number": 38,
-          "text": "When they had eaten as much as they wanted, they lightened the ship by throwing the grain into the sea."
-        },
-        {
-          "number": 39,
-          "text": "When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could."
-        },
-        {
-          "number": 40,
-          "text": "Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach."
-        },
-        {
-          "number": 41,
-          "text": "But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf."
-        },
-        {
-          "number": 42,
-          "text": "The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping."
-        },
-        {
-          "number": 43,
-          "text": "But the centurion wanted to spare Paul's life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land."
-        },
-        {
-          "number": 44,
-          "text": "The rest were to get there on planks or on pieces of the ship. In this way everyone reached land in safety."
+          "text": "No, a man is a Jew if he is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a man's praise is not from men, but from God."
         }
       ]
     },
     {
-      "book": "act",
-      "book_name": "사도행전",
-      "english_book_name": "Acts",
-      "chapter_number": 28,
+      "book": "rom",
+      "book_name": "로마서",
+      "english_book_name": "Romans",
+      "chapter_number": 3,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<멜리데 섬에 오르다> 우리가 구조된 후에 안즉 그 섬은 멜리데라 하더라"
+          "text": "그런즉 유대인의 나음이 무엇이며 할례의 유익이 무엇이냐"
         },
         {
           "number": 2,
-          "text": "비가 오고 날이 차매 원주민들이 우리에게 특별한 동정을 하여 불을 피워 우리를 다 영접하더라"
+          "text": "범사에 많으니 우선은 그들이 하나님의 말씀을 맡았음이니라"
         },
         {
           "number": 3,
-          "text": "바울이 나무 한 묶음을 거두어 불에 넣으니 뜨거움으로 말미암아 독사가 나와 그 손을 물고 있는지라"
+          "text": "어떤 자들이 믿지 아니하였으면 어찌하리요 그 믿지 아니함이 하나님의 미쁘심을 폐하겠느냐"
         },
         {
           "number": 4,
-          "text": "원주민들이 이 짐승이 그 손에 매달려 있음을 보고 서로 말하되 진실로 이 사람은 살인한 자로다 바다에서는 구조를 받았으나 공의가 그를 살지 못하게 함이로다 하더니"
+          "text": "그럴 수 없느니라 사람은 다 거짓되되 오직 하나님은 참되시다 할지어다 기록된 바 주께서 주의 말씀에 의롭다 함을 얻으시고 판단 받으실 때에 이기려 하심이라 함과 같으니라"
         },
         {
           "number": 5,
-          "text": "바울이 그 짐승을 불에 떨어 버리매 조금도 상함이 없더라"
+          "text": "그러나 우리 불의가 하나님의 의를 드러나게 하면 무슨 말 하리요 [내가 사람의 말하는 대로 말하노니] 진노를 내리시는 하나님이 불의하시냐"
         },
         {
           "number": 6,
-          "text": "그들은 그가 붓든지 혹은 갑자기 쓰러져 죽을 줄로 기다렸다가 오래 기다려도 그에게 아무 이상이 없음을 보고 돌이켜 생각하여 말하되 그를 신이라 하더라"
+          "text": "결코 그렇지 아니하니라 만일 그러하면 하나님께서 어찌 세상을 심판하시리요"
         },
         {
           "number": 7,
-          "text": "이 섬에서 가장 높은 사람 보블리오라 하는 이가 그 근처에 토지가 있는지라 그가 우리를 영접하여 사흘이나 친절히 머물게 하더니"
+          "text": "그러나 나의 거짓말로 하나님의 참되심이 더 풍성하여 그의 영광이 되었다면 어찌 내가 죄인처럼 심판을 받으리요"
         },
         {
           "number": 8,
-          "text": "보블리오의 부친이 열병과 이질에 걸려 누워 있거늘 바울이 들어가서 기도하고 그에게 안수하여 낫게 하매"
+          "text": "또는 그러면 선을 이루기 위하여 악을 행하자 하지 않겠느냐 어떤 이들이 이렇게 비방하여 우리가 이런 말을 한다고 하니 그들은 정죄 받는 것이 마땅하니라"
         },
         {
           "number": 9,
-          "text": "이러므로 섬 가운데 다른 병든 사람들이 와서 고침을 받고"
+          "text": "<다 죄 아래에 있다> 그러면 어떠하냐 우리는 나으냐 결코 아니라 유대인이나 헬라인이나 다 죄 아래에 있다고 우리가 이미 선언하였느니라"
         },
         {
           "number": 10,
-          "text": "후한 예로 우리를 대접하고 떠날 때에 우리 쓸 것을 배에 실었더라"
+          "text": "기록된 바 의인은 없나니 하나도 없으며"
         },
         {
           "number": 11,
-          "text": "<바울이 로마로 가다> 석 달 후에 우리가 그 섬에서 겨울을 난 알렉산드리아 배를 타고 떠나니 그 배의 머리 장식은 디오스구로라"
+          "text": "깨닫는 자도 없고 하나님을 찾는 자도 없고"
         },
         {
           "number": 12,
-          "text": "수라구사에 대고 사흘을 있다가"
+          "text": "다 치우쳐 함께 무익하게 되고 선을 행하는 자는 없나니 하나도 없도다"
         },
         {
           "number": 13,
-          "text": "거기서 둘러가서 레기온에 이르러 하루를 지낸 후 남풍이 일어나므로 이튿날 보디올에 이르러"
+          "text": "그들의 목구멍은 열린 무덤이요 그 혀로는 속임을 일삼으며 그 입술에는 독사의 독이 있고"
         },
         {
           "number": 14,
-          "text": "거기서 형제들을 만나 그들의 청함을 받아 이레를 함께 머무니라 그래서 우리는 이와 같이 로마로 가니라"
+          "text": "그 입에는 저주와 악독이 가득하고"
         },
         {
           "number": 15,
-          "text": "그 곳 형제들이 우리 소식을 듣고 압비오 광장과 트레이스 타베르네까지 맞으러 오니 바울이 그들을 보고 하나님께 감사하고 담대한 마음을 얻으니라"
+          "text": "그 발은 피 흘리는 데 빠른지라"
         },
         {
           "number": 16,
-          "text": "<바울이 로마에서 전도하다> 우리가 로마에 들어가니 바울에게는 자기를 지키는 한 군인과 함께 따로 있게 허락하더라"
+          "text": "파멸과 고생이 그 길에 있어"
         },
         {
           "number": 17,
-          "text": "사흘 후에 바울이 유대인 중 높은 사람들을 청하여 그들이 모인 후에 이르되 여러분 형제들아 내가 이스라엘 백성이나 우리 조상의 관습을 배척한 일이 없는데 예루살렘에서 로마인의 손에 죄수로 내준 바 되었으니"
+          "text": "평강의 길을 알지 못하였고"
         },
         {
           "number": 18,
-          "text": "로마인은 나를 심문하여 죽일 죄목이 없으므로 석방하려 하였으나"
+          "text": "그들의 눈 앞에 하나님을 두려워함이 없느니라 함과 같으니라"
         },
         {
           "number": 19,
-          "text": "유대인들이 반대하기로 내가 마지 못하여 가이사에게 상소함이요 내 민족을 고발하려는 것이 아니니라"
+          "text": "<하나님의 의> 우리가 알거니와 무릇 율법이 말하는 바는 율법 아래에 있는 자들에게 말하는 것이니 이는 모든 입을 막고 온 세상으로 하나님의 심판 아래에 있게 하려 함이라"
         },
         {
           "number": 20,
-          "text": "이러므로 너희를 보고 함께 이야기하려고 청하였으니 이스라엘의 소망으로 말미암아 내가 이 쇠사슬에 매인 바 되었노라"
+          "text": "그러므로 율법의 행위로 그의 앞에 의롭다 하심을 얻을 육체가 없나니 율법으로는 죄를 깨달음이니라"
         },
         {
           "number": 21,
-          "text": "그들이 이르되 우리가 유대에서 네게 대한 편지도 받은 일이 없고 또 형제 중 누가 와서 네게 대하여 좋지 못한 것을 전하든지 이야기한 일도 없느니라"
+          "text": "이제는 율법 외에 하나님의 한 의가 나타났으니 율법과 선지자들에게 증거를 받은 것이라"
         },
         {
           "number": 22,
-          "text": "이에 우리가 너의 사상이 어떠한가 듣고자 하니 이 파에 대하여는 어디서든지 반대를 받는 줄 알기 때문이라 하더라"
+          "text": "곧 예수 그리스도를 믿음으로 말미암아 모든 믿는 자에게 미치는 하나님의 의니 차별이 없느니라"
         },
         {
           "number": 23,
-          "text": "그들이 날짜를 정하고 그가 유숙하는 집에 많이 오니 바울이 아침부터 저녁까지 강론하여 하나님의 나라를 증언하고 모세의 율법과 선지자의 말을 가지고 예수에 대하여 권하더라"
+          "text": "모든 사람이 죄를 범하였으매 하나님의 영광에 이르지 못하더니"
         },
         {
           "number": 24,
-          "text": "그 말을 믿는 사람도 있고 믿지 아니하는 사람도 있어"
+          "text": "그리스도 예수 안에 있는 속량으로 말미암아 하나님의 은혜로 값 없이 의롭다 하심을 얻은 자 되었느니라"
         },
         {
           "number": 25,
-          "text": "서로 맞지 아니하여 흩어질 때에 바울이 한 말로 이르되 성령이 선지자 이사야를 통하여 너희 조상들에게 말씀하신 것이 옳도다"
+          "text": "이 예수를 하나님이 그의 피로써 믿음으로 말미암는 화목제물로 세우셨으니 이는 하나님께서 길이 참으시는 중에 전에 지은 죄를 간과하심으로 자기의 의로우심을 나타내려 하심이니"
         },
         {
           "number": 26,
-          "text": "일렀으되 이 백성에게 가서 말하기를 너희가 듣기는 들어도 도무지 깨닫지 못하며 보기는 보아도 도무지 알지 못하는도다"
+          "text": "곧 이 때에 자기의 의로우심을 나타내사 자기도 의로우시며 또한 예수 믿는 자를 의롭다 하려 하심이라"
         },
         {
           "number": 27,
-          "text": "이 백성들의 마음이 우둔하여져서 그 귀로는 둔하게 듣고 그 눈은 감았으니 이는 눈으로 보고 귀로 듣고 마음으로 깨달아 돌아오면 내가 고쳐 줄까 함이라 하였으니"
+          "text": "그런즉 자랑할 데가 어디냐 있을 수가 없느니라 무슨 법으로냐 행위로냐 아니라 오직 믿음의 법으로니라"
         },
         {
           "number": 28,
-          "text": "그런즉 하나님의 이 구원이 이방인에게로 보내어진 줄 알라 그들은 그것을 들으리라 하더라"
+          "text": "그러므로 사람이 의롭다 하심을 얻는 것은 율법의 행위에 있지 않고 믿음으로 되는 줄 우리가 인정하노라"
         },
         {
           "number": 29,
-          "text": "(없음)"
+          "text": "하나님은 다만 유대인의 하나님이시냐 또한 이방인의 하나님은 아니시냐 진실로 이방인의 하나님도 되시느니라"
         },
         {
           "number": 30,
-          "text": "바울이 온 이태를 자기 셋집에 머물면서 자기에게 오는 사람을 다 영접하고"
+          "text": "할례자도 믿음으로 말미암아 또한 무할례자도 믿음으로 말미암아 의롭다 하실 하나님은 한 분이시니라"
         },
         {
           "number": 31,
-          "text": "하나님의 나라를 전파하며 주 예수 그리스도에 관한 모든 것을 담대하게 거침없이 가르치더라"
+          "text": "그런즉 우리가 믿음으로 말미암아 율법을 파기하느냐 그럴 수 없느니라 도리어 율법을 굳게 세우느니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Once safely on shore, we found out that the island was called Malta."
+          "text": "What advantage, then, is there in being a Jew, or what value is there in circumcision?"
         },
         {
           "number": 2,
-          "text": "The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold."
+          "text": "Much in every way! First of all, they have been entrusted with the very words of God."
         },
         {
           "number": 3,
-          "text": "Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand."
+          "text": "What if some did not have faith? Will their lack of faith nullify God's faithfulness?"
         },
         {
           "number": 4,
-          "text": "When the islanders saw the snake hanging from his hand, they said to each other, \"This man must be a murderer; for though he escaped from the sea, Justice has not allowed him to live.\""
+          "text": "Not at all! Let God be true, and every man a liar. As it is written: \"So that you may be proved right when you speak and prevail when you judge.\""
         },
         {
           "number": 5,
-          "text": "But Paul shook the snake off into the fire and suffered no ill effects."
+          "text": "But if our unrighteousness brings out God's righteousness more clearly, what shall we say? That God is unjust in bringing his wrath on us? (I am using a human argument.)"
         },
         {
           "number": 6,
-          "text": "The people expected him to swell up or suddenly fall dead, but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god."
+          "text": "Certainly not! If that were so, how could God judge the world?"
         },
         {
           "number": 7,
-          "text": "There was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and for three days entertained us hospitably."
+          "text": "Someone might argue, \"If my falsehood enhances God's truthfulness and so increases his glory, why am I still condemned as a sinner?\""
         },
         {
           "number": 8,
-          "text": "His father was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him."
+          "text": "Why not say--as we are being slanderously reported as saying and as some claim that we say--\"Let us do evil that good may result\"? Their condemnation is deserved."
         },
         {
           "number": 9,
-          "text": "When this had happened, the rest of the sick on the island came and were cured."
+          "text": "What shall we conclude then? Are we any better? Not at all! We have already made the charge that Jews and Gentiles alike are all under sin."
         },
         {
           "number": 10,
-          "text": "They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed."
+          "text": "As it is written: \"There is no one righteous, not even one;"
         },
         {
           "number": 11,
-          "text": "After three months we put out to sea in a ship that had wintered in the island. It was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux."
+          "text": "there is no one who understands, no one who seeks God."
         },
         {
           "number": 12,
-          "text": "We put in at Syracuse and stayed there three days."
+          "text": "All have turned away, they have together become worthless; there is no one who does good, not even one.\""
         },
         {
           "number": 13,
-          "text": "From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli."
+          "text": "\"Their throats are open graves; their tongues practice deceit.\" \"The poison of vipers is on their lips.\""
         },
         {
           "number": 14,
-          "text": "There we found some brothers who invited us to spend a week with them. And so we came to Rome."
+          "text": "\"Their mouths are full of cursing and bitterness.\""
         },
         {
           "number": 15,
-          "text": "The brothers there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these men Paul thanked God and was encouraged."
+          "text": "\"Their feet are swift to shed blood;"
         },
         {
           "number": 16,
-          "text": "When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him."
+          "text": "ruin and misery mark their ways,"
         },
         {
           "number": 17,
-          "text": "Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them: \"My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans."
+          "text": "and the way of peace they do not know.\""
         },
         {
           "number": 18,
-          "text": "They examined me and wanted to release me, because I was not guilty of any crime deserving death."
+          "text": "\"There is no fear of God before their eyes.\""
         },
         {
           "number": 19,
-          "text": "But when the Jews objected, I was compelled to appeal to Caesar--not that I had any charge to bring against my own people."
+          "text": "Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God."
         },
         {
           "number": 20,
-          "text": "For this reason I have asked to see you and talk with you. It is because of the hope of Israel that I am bound with this chain.\""
+          "text": "Therefore no one will be declared righteous in his sight by observing the law; rather, through the law we become conscious of sin."
         },
         {
           "number": 21,
-          "text": "They replied, \"We have not received any letters from Judea concerning you, and none of the brothers who have come from there has reported or said anything bad about you."
+          "text": "But now a righteousness from God, apart from law, has been made known, to which the Law and the Prophets testify."
         },
         {
           "number": 22,
-          "text": "But we want to hear what your views are, for we know that people everywhere are talking against this sect.\""
+          "text": "This righteousness from God comes through faith in Jesus Christ to all who believe. There is no difference,"
         },
         {
           "number": 23,
-          "text": "They arranged to meet Paul on a certain day, and came in even larger numbers to the place where he was staying. From morning till evening he explained and declared to them the kingdom of God and tried to convince them about Jesus from the Law of Moses and from the Prophets."
+          "text": "for all have sinned and fall short of the glory of God,"
         },
         {
           "number": 24,
-          "text": "Some were convinced by what he said, but others would not believe."
+          "text": "and are justified freely by his grace through the redemption that came by Christ Jesus."
         },
         {
           "number": 25,
-          "text": "They disagreed among themselves and began to leave after Paul had made this final statement: \"The Holy Spirit spoke the truth to your forefathers when he said through Isaiah the prophet:"
+          "text": "God presented him as a sacrifice of atonement, through faith in his blood. He did this to demonstrate his justice, because in his forbearance he had left the sins committed beforehand unpunished--"
         },
         {
           "number": 26,
-          "text": "\"'Go to this people and say, \"You will be ever hearing but never understanding; you will be ever seeing but never perceiving.\""
+          "text": "he did it to demonstrate his justice at the present time, so as to be just and the one who justifies those who have faith in Jesus."
         },
         {
           "number": 27,
-          "text": "For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'"
+          "text": "Where, then, is boasting? It is excluded. On what principle? On that of observing the law? No, but on that of faith."
         },
         {
           "number": 28,
-          "text": "\"Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!\""
+          "text": "For we maintain that a man is justified by faith apart from observing the law."
+        },
+        {
+          "number": 29,
+          "text": "Is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,"
         },
         {
           "number": 30,
-          "text": "For two whole years Paul stayed there in his own rented house and welcomed all who came to see him."
+          "text": "since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith."
+        },
+        {
+          "number": 31,
+          "text": "Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law."
         }
       ]
     }
