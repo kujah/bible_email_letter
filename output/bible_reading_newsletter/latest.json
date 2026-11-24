@@ -1,303 +1,199 @@
 {
-  "target_date": "2026-11-23",
-  "reference": "로마서 11-13장",
-  "generated_at": "2026-11-23T00:35:31Z",
+  "target_date": "2026-11-24",
+  "reference": "로마서 14-16장",
+  "generated_at": "2026-11-24T04:37:37Z",
   "chapters": [
     {
       "book": "rom",
       "book_name": "로마서",
       "english_book_name": "Romans",
-      "chapter_number": 11,
+      "chapter_number": 14,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<이스라엘의 남은 자> 그러므로 내가 말하노니 하나님이 자기 백성을 버리셨느냐 그럴 수 없느니라 나도 이스라엘인이요 아브라함의 씨에서 난 자요 베냐민 지파라"
+          "text": "<형제를 비판하지 말라> 믿음이 연약한 자를 너희가 받되 그의 의견을 비판하지 말라"
         },
         {
           "number": 2,
-          "text": "하나님이 그 미리 아신 자기 백성을 버리지 아니하셨나니 너희가 성경이 엘리야를 가리켜 말한 것을 알지 못하느냐 그가 이스라엘을 하나님께 고발하되"
+          "text": "어떤 사람은 모든 것을 먹을 만한 믿음이 있고 믿음이 연약한 자는 채소만 먹느니라"
         },
         {
           "number": 3,
-          "text": "주여 그들이 주의 선지자들을 죽였으며 주의 제단들을 헐어 버렸고 나만 남았는데 내 목숨도 찾나이다 하니"
+          "text": "먹는 자는 먹지 않는 자를 업신여기지 말고 먹지 않는 자는 먹는 자를 비판하지 말라 이는 하나님이 그를 받으셨음이라"
         },
         {
           "number": 4,
-          "text": "그에게 하신 대답이 무엇이냐 내가 나를 위하여 바알에게 무릎을 꿇지 아니한 사람 칠천 명을 남겨 두었다 하셨으니"
+          "text": "남의 하인을 비판하는 너는 누구냐 그가 서 있는 것이나 넘어지는 것이 자기 주인에게 있으매 그가 세움을 받으리니 이는 그를 세우시는 권능이 주께 있음이라"
         },
         {
           "number": 5,
-          "text": "그런즉 이와 같이 지금도 은혜로 택하심을 따라 남은 자가 있느니라"
+          "text": "어떤 사람은 이 날을 저 날보다 낫게 여기고 어떤 사람은 모든 날을 같게 여기나니 각각 자기 마음으로 확정할지니라"
         },
         {
           "number": 6,
-          "text": "만일 은혜로 된 것이면 행위로 말미암지 않음이니 그렇지 않으면 은혜가 은혜 되지 못하느니라"
+          "text": "날을 중히 여기는 자도 주를 위하여 중히 여기고 먹는 자도 주를 위하여 먹으니 이는 하나님께 감사함이요 먹지 않는 자도 주를 위하여 먹지 아니하며 하나님께 감사하느니라"
         },
         {
           "number": 7,
-          "text": "그런즉 어떠하냐 이스라엘이 구하는 그것을 얻지 못하고 오직 택하심을 입은 자가 얻었고 그 남은 자들은 우둔하여졌느니라"
+          "text": "우리 중에 누구든지 자기를 위하여 사는 자가 없고 자기를 위하여 죽는 자도 없도다"
         },
         {
           "number": 8,
-          "text": "기록된 바 하나님이 오늘까지 그들에게 혼미한 심령과 보지 못할 눈과 듣지 못할 귀를 주셨다 함과 같으니라"
+          "text": "우리가 살아도 주를 위하여 살고 죽어도 주를 위하여 죽나니 그러므로 사나 죽으나 우리가 주의 것이로다"
         },
         {
           "number": 9,
-          "text": "또 다윗이 이르되 그들의 밥상이 올무와 덫과 거치는 것과 보응이 되게 하시옵고"
+          "text": "이를 위하여 그리스도께서 죽었다가 다시 살아나셨으니 곧 죽은 자와 산 자의 주가 되려 하심이라"
         },
         {
           "number": 10,
-          "text": "그들의 눈은 흐려 보지 못하고 그들의 등은 항상 굽게 하옵소서 하였느니라"
+          "text": "네가 어찌하여 네 형제를 비판하느냐 어찌하여 네 형제를 업신여기느냐 우리가 다 하나님의 심판대 앞에 서리라"
         },
         {
           "number": 11,
-          "text": "그러므로 내가 말하노니 그들이 넘어지기까지 실족하였느냐 그럴 수 없느니라 그들이 넘어짐으로 구원이 이방인에게 이르러 이스라엘로 시기나게 함이니라"
+          "text": "기록되었으되 주께서 이르시되 내가 살았노니 모든 무릎이 내게 꿇을 것이요 모든 혀가 하나님께 자백하리라 하였느니라"
         },
         {
           "number": 12,
-          "text": "그들의 넘어짐이 세상의 풍성함이 되며 그들의 실패가 이방인의 풍성함이 되거든 하물며 그들의 충만함이리요"
+          "text": "이러므로 우리 각 사람이 자기 일을 하나님께 직고하리라"
         },
         {
           "number": 13,
-          "text": "<이방인의 구원> 내가 이방인인 너희에게 말하노라 내가 이방인의 사도인 만큼 내 직분을 영광스럽게 여기노니"
+          "text": "<형제로 거리끼게 하지 말라> 그런즉 우리가 다시는 서로 비판하지 말고 도리어 부딪칠 것이나 거칠 것을 형제 앞에 두지 아니하도록 주의하라"
         },
         {
           "number": 14,
-          "text": "이는 혹 내 골육을 아무쪼록 시기하게 하여 그들 중에서 얼마를 구원하려 함이라"
+          "text": "내가 주 예수 안에서 알고 확신하노니 무엇이든지 스스로 속된 것이 없으되 다만 속되게 여기는 그 사람에게는 속되니라"
         },
         {
           "number": 15,
-          "text": "그들을 버리는 것이 세상의 화목이 되거든 그 받아들이는 것이 죽은 자 가운데서 살아나는 것이 아니면 무엇이리요"
+          "text": "만일 음식으로 말미암아 네 형제가 근심하게 되면 이는 네가 사랑으로 행하지 아니함이라 그리스도께서 대신하여 죽으신 형제를 네 음식으로 망하게 하지 말라"
         },
         {
           "number": 16,
-          "text": "제사하는 처음 익은 곡식 가루가 거룩한즉 떡덩이도 그러하고 뿌리가 거룩한즉 가지도 그러하니라"
+          "text": "그러므로 너희의 선한 것이 비방을 받지 않게 하라"
         },
         {
           "number": 17,
-          "text": "또한 가지 얼마가 꺾이었는데 돌감람나무인 네가 그들 중에 접붙임이 되어 참감람나무 뿌리의 진액을 함께 받는 자가 되었은즉"
+          "text": "하나님의 나라는 먹는 것과 마시는 것이 아니요 오직 성령 안에 있는 의와 평강과 희락이라"
         },
         {
           "number": 18,
-          "text": "그 가지들을 향하여 자랑하지 말라 자랑할지라도 네가 뿌리를 보전하는 것이 아니요 뿌리가 너를 보전하는 것이니라"
+          "text": "이로써 그리스도를 섬기는 자는 하나님을 기쁘시게 하며 사람에게도 칭찬을 받느니라"
         },
         {
           "number": 19,
-          "text": "그러면 네 말이 가지들이 꺾인 것은 나로 접붙임을 받게 하려 함이라 하리니"
+          "text": "그러므로 우리가 화평의 일과 서로 덕을 세우는 일을 힘쓰나니"
         },
         {
           "number": 20,
-          "text": "옳도다 그들은 믿지 아니하므로 꺾이고 너는 믿으므로 섰느니라 높은 마음을 품지 말고 도리어 두려워하라"
+          "text": "음식으로 말미암아 하나님의 사업을 무너지게 하지 말라 만물이 다 깨끗하되 거리낌으로 먹는 사람에게는 악한 것이라"
         },
         {
           "number": 21,
-          "text": "하나님이 원 가지들도 아끼지 아니하셨은즉 너도 아끼지 아니하시리라"
+          "text": "고기도 먹지 아니하고 포도주도 마시지 아니하고 무엇이든지 네 형제로 거리끼게 하는 일을 아니함이 아름다우니라"
         },
         {
           "number": 22,
-          "text": "그러므로 하나님의 인자하심과 준엄하심을 보라 넘어지는 자들에게는 준엄하심이 있으니 너희가 만일 하나님의 인자하심에 머물러 있으면 그 인자가 너희에게 있으리라 그렇지 않으면 너도 찍히는 바 되리라"
+          "text": "네게 있는 믿음을 하나님 앞에서 스스로 가지고 있으라 자기가 옳다 하는 바로 자기를 정죄하지 아니하는 자는 복이 있도다"
         },
         {
           "number": 23,
-          "text": "그들도 믿지 아니하는 데 머무르지 아니하면 접붙임을 받으리니 이는 그들을 접붙이실 능력이 하나님께 있음이라"
-        },
-        {
-          "number": 24,
-          "text": "네가 원 돌감람나무에서 찍힘을 받고 본성을 거슬러 좋은 감람나무에 접붙임을 받았으니 원 가지인 이 사람들이야 얼마나 더 자기 감람나무에 접붙이심을 받으랴"
-        },
-        {
-          "number": 25,
-          "text": "<이스라엘의 구원> 형제들아 너희가 스스로 지혜 있다 하면서 이 신비를 너희가 모르기를 내가 원하지 아니하노니 이 신비는 이방인의 충만한 수가 들어오기까지 이스라엘의 더러는 우둔하게 된 것이라"
-        },
-        {
-          "number": 26,
-          "text": "그리하여 온 이스라엘이 구원을 받으리라 기록된 바 구원자가 시온에서 오사 야곱에게서 경건하지 않은 것을 돌이키시겠고"
-        },
-        {
-          "number": 27,
-          "text": "내가 그들의 죄를 없이 할 때에 그들에게 이루어질 내 언약이 이것이라 함과 같으니라"
-        },
-        {
-          "number": 28,
-          "text": "복음으로 하면 그들이 너희로 말미암아 원수 된 자요 택하심으로 하면 조상들로 말미암아 사랑을 입은 자라"
-        },
-        {
-          "number": 29,
-          "text": "하나님의 은사와 부르심에는 후회하심이 없느니라"
-        },
-        {
-          "number": 30,
-          "text": "너희가 전에는 하나님께 순종하지 아니하더니 이스라엘이 순종하지 아니함으로 이제 긍휼을 입었는지라"
-        },
-        {
-          "number": 31,
-          "text": "이와 같이 이 사람들이 순종하지 아니하니 이는 너희에게 베푸시는 긍휼로 이제 그들도 긍휼을 얻게 하려 하심이라"
-        },
-        {
-          "number": 32,
-          "text": "하나님이 모든 사람을 순종하지 아니하는 가운데 가두어 두심은 모든 사람에게 긍휼을 베풀려 하심이로다"
-        },
-        {
-          "number": 33,
-          "text": "깊도다 하나님의 지혜와 지식의 풍성함이여, 그의 판단은 헤아리지 못할 것이며 그의 길은 찾지 못할 것이로다"
-        },
-        {
-          "number": 34,
-          "text": "누가 주의 마음을 알았느냐 누가 그의 모사가 되었느냐"
-        },
-        {
-          "number": 35,
-          "text": "누가 주께 먼저 드려서 갚으심을 받겠느냐"
-        },
-        {
-          "number": 36,
-          "text": "이는 만물이 주에게서 나오고 주로 말미암고 주에게로 돌아감이라 그에게 영광이 세세에 있을지어다 아멘"
+          "text": "의심하고 먹는 자는 정죄되었나니 이는 믿음을 따라 하지 아니하였기 때문이라 믿음을 따라 하지 아니하는 것은 다 죄니라"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin."
+          "text": "Accept him whose faith is weak, without passing judgment on disputable matters."
         },
         {
           "number": 2,
-          "text": "God did not reject his people, whom he foreknew. Don't you know what the Scripture says in the passage about Elijah--how he appealed to God against Israel:"
+          "text": "One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables."
         },
         {
           "number": 3,
-          "text": "\"Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me\"?"
+          "text": "The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him."
         },
         {
           "number": 4,
-          "text": "And what was God's answer to him? \"I have reserved for myself seven thousand who have not bowed the knee to Baal.\""
+          "text": "Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand."
         },
         {
           "number": 5,
-          "text": "So too, at the present time there is a remnant chosen by grace."
+          "text": "One man considers one day more sacred than another; another man considers every day alike. Each one should be fully convinced in his own mind."
         },
         {
           "number": 6,
-          "text": "And if by grace, then it is no longer by works; if it were, grace would no longer be grace."
+          "text": "He who regards one day as special, does so to the Lord. He who eats meat, eats to the Lord, for he gives thanks to God; and he who abstains, does so to the Lord and gives thanks to God."
         },
         {
           "number": 7,
-          "text": "What then? What Israel sought so earnestly it did not obtain, but the elect did. The others were hardened,"
+          "text": "For none of us lives to himself alone and none of us dies to himself alone."
         },
         {
           "number": 8,
-          "text": "as it is written: \"God gave them a spirit of stupor, eyes so that they could not see and ears so that they could not hear, to this very day.\""
+          "text": "If we live, we live to the Lord; and if we die, we die to the Lord. So, whether we live or die, we belong to the Lord."
         },
         {
           "number": 9,
-          "text": "And David says: \"May their table become a snare and a trap, a stumbling block and a retribution for them."
+          "text": "For this very reason, Christ died and returned to life so that he might be the Lord of both the dead and the living."
         },
         {
           "number": 10,
-          "text": "May their eyes be darkened so they cannot see, and their backs be bent forever.\""
+          "text": "You, then, why do you judge your brother? Or why do you look down on your brother? For we will all stand before God's judgment seat."
         },
         {
           "number": 11,
-          "text": "Again I ask: Did they stumble so as to fall beyond recovery? Not at all! Rather, because of their transgression, salvation has come to the Gentiles to make Israel envious."
+          "text": "It is written: \"'As surely as I live,' says the Lord, 'every knee will bow before me; every tongue will confess to God.'\""
         },
         {
           "number": 12,
-          "text": "But if their transgression means riches for the world, and their loss means riches for the Gentiles, how much greater riches will their fullness bring!"
+          "text": "So then, each of us will give an account of himself to God."
         },
         {
           "number": 13,
-          "text": "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I make much of my ministry"
+          "text": "Therefore let us stop passing judgment on one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother's way."
         },
         {
           "number": 14,
-          "text": "in the hope that I may somehow arouse my own people to envy and save some of them."
+          "text": "As one who is in the Lord Jesus, I am fully convinced that no food is unclean in itself. But if anyone regards something as unclean, then for him it is unclean."
         },
         {
           "number": 15,
-          "text": "For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?"
+          "text": "If your brother is distressed because of what you eat, you are no longer acting in love. Do not by your eating destroy your brother for whom Christ died."
         },
         {
           "number": 16,
-          "text": "If the part of the dough offered as firstfruits is holy, then the whole batch is holy; if the root is holy, so are the branches."
+          "text": "Do not allow what you consider good to be spoken of as evil."
         },
         {
           "number": 17,
-          "text": "If some of the branches have been broken off, and you, though a wild olive shoot, have been grafted in among the others and now share in the nourishing sap from the olive root,"
+          "text": "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit,"
         },
         {
           "number": 18,
-          "text": "do not boast over those branches. If you do, consider this: You do not support the root, but the root supports you."
+          "text": "because anyone who serves Christ in this way is pleasing to God and approved by men."
         },
         {
           "number": 19,
-          "text": "You will say then, \"Branches were broken off so that I could be grafted in.\""
+          "text": "Let us therefore make every effort to do what leads to peace and to mutual edification."
         },
         {
           "number": 20,
-          "text": "Granted. But they were broken off because of unbelief, and you stand by faith. Do not be arrogant, but be afraid."
+          "text": "Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to eat anything that causes someone else to stumble."
         },
         {
           "number": 21,
-          "text": "For if God did not spare the natural branches, he will not spare you either."
+          "text": "It is better not to eat meat or drink wine or to do anything else that will cause your brother to fall."
         },
         {
           "number": 22,
-          "text": "Consider therefore the kindness and sternness of God: sternness to those who fell, but kindness to you, provided that you continue in his kindness. Otherwise, you also will be cut off."
+          "text": "So whatever you believe about these things keep between yourself and God. Blessed is the man who does not condemn himself by what he approves."
         },
         {
           "number": 23,
-          "text": "And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again."
-        },
-        {
-          "number": 24,
-          "text": "After all, if you were cut out of an olive tree that is wild by nature, and contrary to nature were grafted into a cultivated olive tree, how much more readily will these, the natural branches, be grafted into their own olive tree!"
-        },
-        {
-          "number": 25,
-          "text": "I do not want you to be ignorant of this mystery, brothers, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in."
-        },
-        {
-          "number": 26,
-          "text": "And so all Israel will be saved, as it is written: \"The deliverer will come from Zion; he will turn godlessness away from Jacob."
-        },
-        {
-          "number": 27,
-          "text": "And this is my covenant with them when I take away their sins.\""
-        },
-        {
-          "number": 28,
-          "text": "As far as the gospel is concerned, they are enemies on your account; but as far as election is concerned, they are loved on account of the patriarchs,"
-        },
-        {
-          "number": 29,
-          "text": "for God's gifts and his call are irrevocable."
-        },
-        {
-          "number": 30,
-          "text": "Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,"
-        },
-        {
-          "number": 31,
-          "text": "so they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you."
-        },
-        {
-          "number": 32,
-          "text": "For God has bound all men over to disobedience so that he may have mercy on them all."
-        },
-        {
-          "number": 33,
-          "text": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!"
-        },
-        {
-          "number": 34,
-          "text": "\"Who has known the mind of the Lord? Or who has been his counselor?\""
-        },
-        {
-          "number": 35,
-          "text": "\"Who has ever given to God, that God should repay him?\""
-        },
-        {
-          "number": 36,
-          "text": "For from him and through him and to him are all things. To him be the glory forever! Amen."
+          "text": "But the man who has doubts is condemned if he eats, because his eating is not from faith; and everything that does not come from faith is sin."
         }
       ]
     },
@@ -305,177 +201,273 @@
       "book": "rom",
       "book_name": "로마서",
       "english_book_name": "Romans",
-      "chapter_number": 12,
+      "chapter_number": 15,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<하나님의 뜻을 분별하는 새 생활> 그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
+          "text": "<선을 이루고 덕을 세우라> 믿음이 강한 우리는 마땅히 믿음이 약한 자의 약점을 담당하고 자기를 기쁘게 하지 아니할 것이라"
         },
         {
           "number": 2,
-          "text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
+          "text": "우리 각 사람이 이웃을 기쁘게 하되 선을 이루고 덕을 세우도록 할지니라"
         },
         {
           "number": 3,
-          "text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
+          "text": "그리스도께서도 자기를 기쁘게 하지 아니하셨나니 기록된 바 주를 비방하는 자들의 비방이 내게 미쳤나이다 함과 같으니라"
         },
         {
           "number": 4,
-          "text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
+          "text": "무엇이든지 전에 기록된 바는 우리의 교훈을 위하여 기록된 것이니 우리로 하여금 인내로 또는 성경의 위로로 소망을 가지게 함이니라"
         },
         {
           "number": 5,
-          "text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
+          "text": "이제 인내와 위로의 하나님이 너희로 그리스도 예수를 본받아 서로 뜻이 같게 하여 주사"
         },
         {
           "number": 6,
-          "text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
+          "text": "한마음과 한 입으로 하나님 곧 우리 주 예수 그리스도의 아버지께 영광을 돌리게 하려 하노라"
         },
         {
           "number": 7,
-          "text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
+          "text": "그러므로 그리스도께서 우리를 받아 하나님께 영광을 돌리심과 같이 너희도 서로 받으라"
         },
         {
           "number": 8,
-          "text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
+          "text": "내가 말하노니 그리스도께서 하나님의 진실하심을 위하여 할례의 추종자가 되셨으니 이는 조상들에게 주신 약속들을 견고하게 하시고"
         },
         {
           "number": 9,
-          "text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
+          "text": "이방인들도 그 긍휼하심으로 말미암아 하나님께 영광을 돌리게 하려 하심이라 기록된 바 그러므로 내가 열방 중에서 주께 감사하고 주의 이름을 찬송하리로다 함과 같으니라"
         },
         {
           "number": 10,
-          "text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
+          "text": "또 이르되 열방들아 주의 백성과 함께 즐거워하라 하였으며"
         },
         {
           "number": 11,
-          "text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
+          "text": "또 모든 열방들아 주를 찬양하며 모든 백성들아 그를 찬송하라 하였으며"
         },
         {
           "number": 12,
-          "text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
+          "text": "또 이사야가 이르되 이새의 뿌리 곧 열방을 다스리기 위하여 일어나시는 이가 있으리니 열방이 그에게 소망을 두리라 하였느니라"
         },
         {
           "number": 13,
-          "text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
+          "text": "소망의 하나님이 모든 기쁨과 평강을 믿음 안에서 너희에게 충만하게 하사 성령의 능력으로 소망이 넘치게 하시기를 원하노라"
         },
         {
           "number": 14,
-          "text": "<그리스도인의 생활> 너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
+          "text": "<하나님의 복음의 제사장 직분> 내 형제들아 너희가 스스로 선함이 가득하고 모든 지식이 차서 능히 서로 권하는 자임을 나도 확신하노라"
         },
         {
           "number": 15,
-          "text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
+          "text": "그러나 내가 너희로 다시 생각나게 하려고 하나님께서 내게 주신 은혜로 말미암아 더욱 담대히 대략 너희에게 썼노니"
         },
         {
           "number": 16,
-          "text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체 하지 말라"
+          "text": "이 은혜는 곧 나로 이방인을 위하여 그리스도 예수의 일꾼이 되어 하나님의 복음의 제사장 직분을 하게 하사 이방인을 제물로 드리는 것이 성령 안에서 거룩하게 되어 받으실 만하게 하려 하심이라"
         },
         {
           "number": 17,
-          "text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
+          "text": "그러므로 내가 그리스도 예수 안에서 하나님의 일에 대하여 자랑하는 것이 있거니와"
         },
         {
           "number": 18,
-          "text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
+          "text": "그리스도께서 이방인들을 순종하게 하기 위하여 나를 통하여 역사하신 것 외에는 내가 감히 말하지 아니하노라 그 일은 말과 행위로"
         },
         {
           "number": 19,
-          "text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
+          "text": "표적과 기사의 능력으로 성령의 능력으로 이루어졌으며 그리하여 내가 예루살렘으로부터 두루 행하여 일루리곤까지 그리스도의 복음을 편만하게 전하였노라"
         },
         {
           "number": 20,
-          "text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
+          "text": "또 내가 그리스도의 이름을 부르는 곳에는 복음을 전하지 않기를 힘썼노니 이는 남의 터 위에 건축하지 아니하려 함이라"
         },
         {
           "number": 21,
-          "text": "악에게 지지 말고 선으로 악을 이기라"
+          "text": "기록된 바 주의 소식을 받지 못한 자들이 볼 것이요 듣지 못한 자들이 깨달으리라 함과 같으니라"
+        },
+        {
+          "number": 22,
+          "text": "<바울의 로마 방문 계획> 그러므로 또한 내가 너희에게 가려 하던 것이 여러 번 막혔더니"
+        },
+        {
+          "number": 23,
+          "text": "이제는 이 지방에 일할 곳이 없고 또 여러 해 전부터 언제든지 서바나로 갈 때에 너희에게 가기를 바라고 있었으니"
+        },
+        {
+          "number": 24,
+          "text": "이는 지나가는 길에 너희를 보고 먼저 너희와 사귐으로 얼마간 기쁨을 가진 후에 너희가 그리로 보내주기를 바람이라"
+        },
+        {
+          "number": 25,
+          "text": "그러나 이제는 내가 성도를 섬기는 일로 예루살렘에 가노니"
+        },
+        {
+          "number": 26,
+          "text": "이는 마게도냐와 아가야 사람들이 예루살렘 성도 중 가난한 자들을 위하여 기쁘게 얼마를 연보하였음이라"
+        },
+        {
+          "number": 27,
+          "text": "저희가 기뻐서 하였거니와 또한 저희는 그들에게 빚진 자니 만일 이방인들이 그들의 영적인 것을 나눠 가졌으면 육적인 것으로 그들을 섬기는 것이 마땅하니라"
+        },
+        {
+          "number": 28,
+          "text": "그러므로 내가 이 일을 마치고 이 열매를 그들에게 확증한 후에 너희에게 들렀다가 서바나로 가리라"
+        },
+        {
+          "number": 29,
+          "text": "내가 너희에게 나아갈 때에 그리스도의 충만한 복을 가지고 갈 줄을 아노라"
+        },
+        {
+          "number": 30,
+          "text": "형제들아 내가 우리 주 예수 그리스도와 성령의 사랑으로 말미암아 너희를 권하노니 너희 기도에 나와 힘을 같이하여 나를 위하여 하나님께 빌어"
+        },
+        {
+          "number": 31,
+          "text": "나로 유대에서 순종하지 아니하는 자들로부터 건짐을 받게 하고 또 예루살렘에 대하여 내가 섬기는 일을 성도들이 받을 만하게 하고"
+        },
+        {
+          "number": 32,
+          "text": "나로 하나님의 뜻을 따라 기쁨으로 너희에게 나아가 너희와 함께 편히 쉬게 하라"
+        },
+        {
+          "number": 33,
+          "text": "평강의 하나님께서 너희 모든 사람과 함께 계실지어다 아멘"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God--this is your spiritual act of worship."
+          "text": "We who are strong ought to bear with the failings of the weak and not to please ourselves."
         },
         {
           "number": 2,
-          "text": "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will."
+          "text": "Each of us should please his neighbor for his good, to build him up."
         },
         {
           "number": 3,
-          "text": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the measure of faith God has given you."
+          "text": "For even Christ did not please himself but, as it is written: \"The insults of those who insult you have fallen on me.\""
         },
         {
           "number": 4,
-          "text": "Just as each of us has one body with many members, and these members do not all have the same function,"
+          "text": "For everything that was written in the past was written to teach us, so that through endurance and the encouragement of the Scriptures we might have hope."
         },
         {
           "number": 5,
-          "text": "so in Christ we who are many form one body, and each member belongs to all the others."
+          "text": "May the God who gives endurance and encouragement give you a spirit of unity among yourselves as you follow Christ Jesus,"
         },
         {
           "number": 6,
-          "text": "We have different gifts, according to the grace given us. If a man's gift is prophesying, let him use it in proportion to his faith."
+          "text": "so that with one heart and mouth you may glorify the God and Father of our Lord Jesus Christ."
         },
         {
           "number": 7,
-          "text": "If it is serving, let him serve; if it is teaching, let him teach;"
+          "text": "Accept one another, then, just as Christ accepted you, in order to bring praise to God."
         },
         {
           "number": 8,
-          "text": "if it is encouraging, let him encourage; if it is contributing to the needs of others, let him give generously; if it is leadership, let him govern diligently; if it is showing mercy, let him do it cheerfully."
+          "text": "For I tell you that Christ has become a servant of the Jews on behalf of God's truth, to confirm the promises made to the patriarchs"
         },
         {
           "number": 9,
-          "text": "Love must be sincere. Hate what is evil; cling to what is good."
+          "text": "so that the Gentiles may glorify God for his mercy, as it is written: \"Therefore I will praise you among the Gentiles; I will sing hymns to your name.\""
         },
         {
           "number": 10,
-          "text": "Be devoted to one another in brotherly love. Honor one another above yourselves."
+          "text": "Again, it says, \"Rejoice, O Gentiles, with his people.\""
         },
         {
           "number": 11,
-          "text": "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord."
+          "text": "And again, \"Praise the Lord, all you Gentiles, and sing praises to him, all you peoples.\""
         },
         {
           "number": 12,
-          "text": "Be joyful in hope, patient in affliction, faithful in prayer."
+          "text": "And again, Isaiah says, \"The Root of Jesse will spring up, one who will arise to rule over the nations; the Gentiles will hope in him.\""
         },
         {
           "number": 13,
-          "text": "Share with God's people who are in need. Practice hospitality."
+          "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
         },
         {
           "number": 14,
-          "text": "Bless those who persecute you; bless and do not curse."
+          "text": "I myself am convinced, my brothers, that you yourselves are full of goodness, complete in knowledge and competent to instruct one another."
         },
         {
           "number": 15,
-          "text": "Rejoice with those who rejoice; mourn with those who mourn."
+          "text": "I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me"
         },
         {
           "number": 16,
-          "text": "Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited."
+          "text": "to be a minister of Christ Jesus to the Gentiles with the priestly duty of proclaiming the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit."
         },
         {
           "number": 17,
-          "text": "Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everybody."
+          "text": "Therefore I glory in Christ Jesus in my service to God."
         },
         {
           "number": 18,
-          "text": "If it is possible, as far as it depends on you, live at peace with everyone."
+          "text": "I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done--"
         },
         {
           "number": 19,
-          "text": "Do not take revenge, my friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord."
+          "text": "by the power of signs and miracles, through the power of the Spirit. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ."
         },
         {
           "number": 20,
-          "text": "On the contrary: \"If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.\""
+          "text": "It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else's foundation."
         },
         {
           "number": 21,
-          "text": "Do not be overcome by evil, but overcome evil with good."
+          "text": "Rather, as it is written: \"Those who were not told about him will see, and those who have not heard will understand.\""
+        },
+        {
+          "number": 22,
+          "text": "This is why I have often been hindered from coming to you."
+        },
+        {
+          "number": 23,
+          "text": "But now that there is no more place for me to work in these regions, and since I have been longing for many years to see you,"
+        },
+        {
+          "number": 24,
+          "text": "I plan to do so when I go to Spain. I hope to visit you while passing through and to have you assist me on my journey there, after I have enjoyed your company for a while."
+        },
+        {
+          "number": 25,
+          "text": "Now, however, I am on my way to Jerusalem in the service of the saints there."
+        },
+        {
+          "number": 26,
+          "text": "For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem."
+        },
+        {
+          "number": 27,
+          "text": "They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in the Jews' spiritual blessings, they owe it to the Jews to share with them their material blessings."
+        },
+        {
+          "number": 28,
+          "text": "So after I have completed this task and have made sure that they have received this fruit, I will go to Spain and visit you on the way."
+        },
+        {
+          "number": 29,
+          "text": "I know that when I come to you, I will come in the full measure of the blessing of Christ."
+        },
+        {
+          "number": 30,
+          "text": "I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me."
+        },
+        {
+          "number": 31,
+          "text": "Pray that I may be rescued from the unbelievers in Judea and that my service in Jerusalem may be acceptable to the saints there,"
+        },
+        {
+          "number": 32,
+          "text": "so that by God's will I may come to you with joy and together with you be refreshed."
+        },
+        {
+          "number": 33,
+          "text": "The God of peace be with you all. Amen."
         }
       ]
     },
@@ -483,121 +475,217 @@
       "book": "rom",
       "book_name": "로마서",
       "english_book_name": "Romans",
-      "chapter_number": 13,
+      "chapter_number": 16,
       "korean_verses": [
         {
           "number": 1,
-          "text": "<그리스도인과 세상 권세> 각 사람은 위에 있는 권세들에게 복종하라 권세는 하나님으로부터 나지 않음이 없나니 모든 권세는 다 하나님께서 정하신 바라"
+          "text": "<인사> 내가 겐그레아 교회의 일꾼으로 있는 우리 자매 뵈뵈를 너희에게 추천하노니"
         },
         {
           "number": 2,
-          "text": "그러므로 권세를 거스르는 자는 하나님의 명을 거스름이니 거스르는 자들은 심판을 자취하리라"
+          "text": "너희는 주 안에서 성도들의 합당한 예절로 그를 영접하고 무엇이든지 그에게 소용되는 바를 도와 줄지니 이는 그가 여러 사람과 나의 보호자가 되었음이라"
         },
         {
           "number": 3,
-          "text": "다스리는 자들은 선한 일에 대하여 두려움이 되지 않고 악한 일에 대하여 되나니 네가 권세를 두려워하지 아니하려느냐 선을 행하라 그리하면 그에게 칭찬을 받으리라"
+          "text": "너희는 그리스도 예수 안에서 나의 동역자들인 브리스가와 아굴라에게 문안하라"
         },
         {
           "number": 4,
-          "text": "그는 하나님의 사역자가 되어 네게 선을 베푸는 자니라 그러나 네가 악을 행하거든 두려워하라 그가 공연히 칼을 가지지 아니하였으니 곧 하나님의 사역자가 되어 악을 행하는 자에게 진노하심을 따라 보응하는 자니라"
+          "text": "그들은 내 목숨을 위하여 자기들의 목까지도 내놓았나니 나뿐 아니라 이방인의 모든 교회도 그들에게 감사하느니라"
         },
         {
           "number": 5,
-          "text": "그러므로 복종하지 아니할 수 없으니 진노 때문에 할 것이 아니라 양심을 따라 할 것이라"
+          "text": "또 저의 집에 있는 교회에도 문안하라 내가 사랑하는 에배네도에게 문안하라 그는 아시아에서 그리스도께 처음 맺은 열매니라"
         },
         {
           "number": 6,
-          "text": "너희가 조세를 바치는 것도 이로 말미암음이라 그들이 하나님의 일꾼이 되어 바로 이 일에 항상 힘쓰느니라"
+          "text": "너희를 위하여 많이 수고한 마리아에게 문안하라"
         },
         {
           "number": 7,
-          "text": "모든 자에게 줄 것을 주되 조세를 받을 자에게 조세를 바치고 관세를 받을 자에게 관세를 바치고 두려워할 자를 두려워하며 존경할 자를 존경하라"
+          "text": "내 친척이요 나와 함께 갇혔던 안드로니고와 유니아에게 문안하라 그들은 사도들에게 존중히 여겨지고 또한 나보다 먼저 그리스도 안에 있는 자라"
         },
         {
           "number": 8,
-          "text": "<사랑은 율법의 완성> 피차 사랑의 빚 외에는 아무에게든지 아무 빚도 지지 말라 남을 사랑하는 자는 율법을 다 이루었느니라"
+          "text": "또 주 안에서 내 사랑하는 암블리아에게 문안하라"
         },
         {
           "number": 9,
-          "text": "간음하지 말라, 살인하지 말라, 도둑질하지 말라, 탐내지 말라 한 것과 그 외에 다른 계명이 있을지라도 네 이웃을 네 자신과 같이 사랑하라 하신 그 말씀 가운데 다 들었느니라"
+          "text": "그리스도 안에서 우리의 동역자인 우르바노와 나의 사랑하는 스다구에게 문안하라"
         },
         {
           "number": 10,
-          "text": "사랑은 이웃에게 악을 행하지 아니하나니 그러므로 사랑은 율법의 완성이니라"
+          "text": "그리스도 안에서 인정함을 받은 아벨레에게 문안하라 아리스도불로의 권속에게 문안하라"
         },
         {
           "number": 11,
-          "text": "<구원의 때가 가까워졌다> 또한 너희가 이 시기를 알거니와 자다가 깰 때가 벌써 되었으니 이는 이제 우리의 구원이 처음 믿을 때보다 가까웠음이라"
+          "text": "내 친척 헤로디온에게 문안하라 나깃수의 가족 중 주 안에 있는 자들에게 문안하라"
         },
         {
           "number": 12,
-          "text": "밤이 깊고 낮이 가까웠으니 그러므로 우리가 어둠의 일을 벗고 빛의 갑옷을 입자"
+          "text": "주 안에서 수고한 드루배나와 드루보사에게 문안하라 주 안에서 많이 수고하고 사랑하는 버시에게 문안하라"
         },
         {
           "number": 13,
-          "text": "낮에와 같이 단정히 행하고 방탕하거나 술 취하지 말며 음란하거나 호색하지 말며 다투거나 시기하지 말고"
+          "text": "주 안에서 택하심을 입은 루포와 그의 어머니에게 문안하라 그의 어머니는 곧 내 어머니니라"
         },
         {
           "number": 14,
-          "text": "오직 주 예수 그리스도로 옷 입고 정욕을 위하여 육신의 일을 도모하지 말라"
+          "text": "아순그리도와 블레곤과 허메와 바드로바와 허마와 및 그들과 함께 있는 형제들에게 문안하라"
+        },
+        {
+          "number": 15,
+          "text": "빌롤로고와 율리아와 또 네레오와 그의 자매와 올름바와 그들과 함께 있는 모든 성도에게 문안하라"
+        },
+        {
+          "number": 16,
+          "text": "너희가 거룩하게 입맞춤으로 서로 문안하라 그리스도의 모든 교회가 다 너희에게 문안하느니라"
+        },
+        {
+          "number": 17,
+          "text": "형제들아 내가 너희를 권하노니 너희가 배운 교훈을 거슬러 분쟁을 일으키거나 거치게 하는 자들을 살피고 그들에게서 떠나라"
+        },
+        {
+          "number": 18,
+          "text": "이같은 자들은 우리 주 그리스도를 섬기지 아니하고 다만 자기들의 배만 섬기나니 교활한 말과 아첨하는 말로 순진한 자들의 마음을 미혹하느니라"
+        },
+        {
+          "number": 19,
+          "text": "너희의 순종함이 모든 사람에게 들리는지라 그러므로 내가 너희로 말미암아 기뻐하노니 너희가 선한 데 지혜롭고 악한 데 미련하기를 원하노라"
+        },
+        {
+          "number": 20,
+          "text": "평강의 하나님께서 속히 사탄을 너희 발 아래에서 상하게 하시리라 롬16:우리 주 예수의 은혜가 너희에게 있을지어다"
+        },
+        {
+          "number": 21,
+          "text": "<문안과 찬양> 나의 동역자 디모데와 나의 친척 누기오와 야손과 소시바더가 너희에게 문안하느니라"
+        },
+        {
+          "number": 22,
+          "text": "이 편지를 기록하는 나 더디오도 주 안에서 너희에게 문안하노라"
+        },
+        {
+          "number": 23,
+          "text": "나와 온 교회를 돌보아 주는 가이오도 너희에게 문안하고 이 성의 재무관 에라스도와 형제 구아도도 너희에게 문안하느니라"
+        },
+        {
+          "number": 24,
+          "text": "(없음)"
+        },
+        {
+          "number": 25,
+          "text": "나의 복음과 예수 그리스도를 전파함은 영세 전부터 감추어졌다가"
+        },
+        {
+          "number": 26,
+          "text": "이제는 나타내신 바 되었으며 영원하신 하나님의 명을 따라 선지자들의 글로 말미암아 모든 민족이 믿어 순종하게 하시려고 알게 하신 바 그 신비의 계시를 따라 된 것이니 이 복음으로 너희를 능히 견고하게 하실"
+        },
+        {
+          "number": 27,
+          "text": "지혜로우신 하나님께 예수 그리스도로 말미암아 영광이 세세무궁하도록 있을지어다 아멘"
         }
       ],
       "niv_verses": [
         {
           "number": 1,
-          "text": "Everyone must submit himself to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God."
+          "text": "I commend to you our sister Phoebe, a servant of the church in Cenchrea."
         },
         {
           "number": 2,
-          "text": "Consequently, he who rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves."
+          "text": "I ask you to receive her in the Lord in a way worthy of the saints and to give her any help she may need from you, for she has been a great help to many people, including me."
         },
         {
           "number": 3,
-          "text": "For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and he will commend you."
+          "text": "Greet Priscilla and Aquila, my fellow workers in Christ Jesus."
         },
         {
           "number": 4,
-          "text": "For he is God's servant to do you good. But if you do wrong, be afraid, for he does not bear the sword for nothing. He is God's servant, an agent of wrath to bring punishment on the wrongdoer."
+          "text": "They risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them."
         },
         {
           "number": 5,
-          "text": "Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also because of conscience."
+          "text": "Greet also the church that meets at their house. Greet my dear friend Epenetus, who was the first convert to Christ in the province of Asia."
         },
         {
           "number": 6,
-          "text": "This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing."
+          "text": "Greet Mary, who worked very hard for you."
         },
         {
           "number": 7,
-          "text": "Give everyone what you owe him: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor."
+          "text": "Greet Andronicus and Junias, my relatives who have been in prison with me. They are outstanding among the apostles, and they were in Christ before I was."
         },
         {
           "number": 8,
-          "text": "Let no debt remain outstanding, except the continuing debt to love one another, for he who loves his fellowman has fulfilled the law."
+          "text": "Greet Ampliatus, whom I love in the Lord."
         },
         {
           "number": 9,
-          "text": "The commandments, \"Do not commit adultery,\" \"Do not murder,\" \"Do not steal,\" \"Do not covet,\" and whatever other commandment there may be, are summed up in this one rule: \"Love your neighbor as yourself.\""
+          "text": "Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys."
         },
         {
           "number": 10,
-          "text": "Love does no harm to its neighbor. Therefore love is the fulfillment of the law."
+          "text": "Greet Apelles, tested and approved in Christ. Greet those who belong to the household of Aristobulus."
         },
         {
           "number": 11,
-          "text": "And do this, understanding the present time. The hour has come for you to wake up from your slumber, because our salvation is nearer now than when we first believed."
+          "text": "Greet Herodion, my relative. Greet those in the household of Narcissus who are in the Lord."
         },
         {
           "number": 12,
-          "text": "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light."
+          "text": "Greet Tryphena and Tryphosa, those women who work hard in the Lord. Greet my dear friend Persis, another woman who has worked very hard in the Lord."
         },
         {
           "number": 13,
-          "text": "Let us behave decently, as in the daytime, not in orgies and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy."
+          "text": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me, too."
         },
         {
           "number": 14,
-          "text": "Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature."
+          "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brothers with them."
+        },
+        {
+          "number": 15,
+          "text": "Greet Philologus, Julia, Nereus and his sister, and Olympas and all the saints with them."
+        },
+        {
+          "number": 16,
+          "text": "Greet one another with a holy kiss. All the churches of Christ send greetings."
+        },
+        {
+          "number": 17,
+          "text": "I urge you, brothers, to watch out for those who cause divisions and put obstacles in your way that are contrary to the teaching you have learned. Keep away from them."
+        },
+        {
+          "number": 18,
+          "text": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the minds of naive people."
+        },
+        {
+          "number": 19,
+          "text": "Everyone has heard about your obedience, so I am full of joy over you; but I want you to be wise about what is good, and innocent about what is evil."
+        },
+        {
+          "number": 20,
+          "text": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you."
+        },
+        {
+          "number": 21,
+          "text": "Timothy, my fellow worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my relatives."
+        },
+        {
+          "number": 22,
+          "text": "I, Tertius, who wrote down this letter, greet you in the Lord."
+        },
+        {
+          "number": 23,
+          "text": "Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city's director of public works, and our brother Quartus send you their greetings."
+        },
+        {
+          "number": 25,
+          "text": "Now to him who is able to establish you by my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,"
+        },
+        {
+          "number": 26,
+          "text": "but now revealed and made known through the prophetic writings by the command of the eternal God, so that all nations might believe and obey him--"
         }
       ]
     }
